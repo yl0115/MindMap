@@ -2196,3 +2196,18 @@
 2019-11-18 11:15:06,702 mysql_cline.py[line:56] INFO list index out of range
 2019-11-18 11:15:06,702 my_view.py[line:116] INFO 修改数据库信息: None
 2019-11-18 11:15:06,702 test_6my.py[line:78] INFO 修改登录手机自动化测试结束
+2019-11-18 13:33:50,134 desired_caps.py[line:34] INFO start app
+2019-11-18 13:34:06,092 run.py[line:19] INFO start run test case....
+2019-11-18 13:34:06,092 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-18 13:35:49,630 functions.py[line:83] INFO 截图已保存
+2019-11-18 13:35:49,630 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-18 13:35:49,631 test_3file.py[line:13] INFO 文件模块自动化测试开始
+2019-11-18 13:39:03,332 file_view.py[line:197] INFO 回收站清空完毕:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 13:39:04,886 file_view.py[line:140] INFO 开始执行文件移动
+2019-11-18 13:39:21,930 file_view.py[line:161] INFO 移动成功
+2019-11-18 13:39:21,930 file_view.py[line:167] INFO 文件移动结束
+2019-11-18 13:39:21,930 file_view.py[line:221] INFO 文件重命名开始start
+2019-11-18 13:40:24,718 test_6my.py[line:78] INFO 修改登录密码1
+2019-11-18 13:40:26,737 test_6my.py[line:96] INFO 修改登录密码2
+2019-11-18 13:40:28,754 test_6my.py[line:59] INFO 修改登录手机
