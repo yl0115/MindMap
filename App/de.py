@@ -91,7 +91,15 @@ import random
 #     print(i)
 
 
-def textview(classname):
-    return '\'//android.widget.TextView[@text="%s"]\'' % classname
-
-print(textview('d'))
+# def textview(classname):
+#     return '\'//android.widget.TextView[@text="%s"]\'' % classname
+#
+# print(textview('d'))
+def class_path(content, tag):
+    if tag == 't':
+        return '\'//android.widget.TextView[@text="%s"]\'' % content
+    if tag == 'e':
+        return '\'//android.widget.EditText[@text="%s"]\'' % content
+a = class_path('请输入你的宝贵意见和建议', 'e')
+print(type(a))
+print(a)

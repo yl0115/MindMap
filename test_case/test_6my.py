@@ -31,7 +31,6 @@ class MyTest(StartEnd):
             pi.nicknamefor('昵称', r'/personal_data/nickname.xlsx')
         except AssertionError:
             logging.info('测试失败')
-
     def test_13mind_code(self):
         pi = PersonalInformation(self.driver)
         try:

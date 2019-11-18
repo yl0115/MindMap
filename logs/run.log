@@ -1981,3 +1981,218 @@
 2019-11-14 16:07:48,297 test_6my.py[line:104] INFO 修改登录密码自动化测试结束
 2019-11-14 16:07:48,297 test_6my.py[line:105] INFO 密码为：m3c1suvm
 2019-11-14 16:07:48,297 test_6my.py[line:60] INFO 修改登录手机
+2019-11-15 14:54:53,533 desired_caps.py[line:34] INFO start app
+2019-11-15 14:55:38,188 desired_caps.py[line:34] INFO start app
+2019-11-15 14:56:11,565 desired_caps.py[line:34] INFO start app
+2019-11-15 14:56:46,611 functions.py[line:83] INFO 截图已保存
+2019-11-15 14:56:46,612 test_6my.py[line:25] INFO 测试失败！
+2019-11-15 14:57:14,450 test_6my.py[line:79] INFO 修改登录密码1
+2019-11-15 14:57:19,657 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 14:57:22,907 functions.py[line:83] INFO 截图已保存
+2019-11-15 14:57:22,907 test_6my.py[line:94] INFO 测试失败！
+2019-11-15 14:57:22,908 test_6my.py[line:97] INFO 修改登录密码2
+2019-11-15 14:57:28,681 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 14:57:31,898 functions.py[line:83] INFO 截图已保存
+2019-11-15 14:57:31,898 test_6my.py[line:103] INFO 测试失败
+2019-11-15 14:57:31,899 test_6my.py[line:104] INFO 修改登录密码自动化测试结束
+2019-11-15 14:57:31,901 test_6my.py[line:105] INFO 密码为：08freocg
+2019-11-15 14:57:31,901 test_6my.py[line:60] INFO 修改登录手机
+2019-11-15 15:03:56,545 desired_caps.py[line:34] INFO start app
+2019-11-15 15:04:24,254 functions.py[line:146] INFO 修改成功
+2019-11-15 15:04:29,393 functions.py[line:146] INFO 修改成功
+2019-11-15 15:04:33,893 functions.py[line:146] INFO 修改成功
+2019-11-15 15:04:38,563 functions.py[line:146] INFO 修改成功
+2019-11-15 15:04:43,802 functions.py[line:146] INFO 修改成功
+2019-11-15 15:04:48,105 functions.py[line:146] INFO 修改成功
+2019-11-15 15:04:52,734 functions.py[line:146] INFO 修改成功
+2019-11-15 15:04:57,504 functions.py[line:146] INFO 修改成功
+2019-11-15 15:05:02,104 functions.py[line:146] INFO 修改成功
+2019-11-15 15:05:06,784 functions.py[line:146] INFO 修改成功
+2019-11-15 15:05:11,413 functions.py[line:146] INFO 修改成功
+2019-11-15 15:05:16,193 functions.py[line:146] INFO 修改成功
+2019-11-15 15:05:20,063 functions.py[line:146] INFO 脑图号只能包含小写字母或数字
+2019-11-15 15:05:24,953 functions.py[line:146] INFO 脑图号为8位数
+2019-11-15 15:05:29,942 functions.py[line:146] INFO 脑图号为8位数
+2019-11-15 15:05:36,453 functions.py[line:146] INFO 脑图号只能包含小写字母或数字
+2019-11-15 15:05:41,764 functions.py[line:146] INFO 脑图号为8位数
+2019-11-15 15:05:46,912 functions.py[line:146] INFO 脑图号为8位数
+2019-11-15 15:05:51,315 functions.py[line:146] INFO 脑图号只能包含小写字母或数字
+2019-11-15 15:05:56,081 functions.py[line:146] INFO 脑图号为8位数
+2019-11-15 15:06:01,621 functions.py[line:146] INFO 脑图号为8位数
+2019-11-15 15:06:06,470 functions.py[line:146] INFO 脑图号为8位数
+2019-11-15 15:06:11,205 functions.py[line:146] INFO 脑图号为8位数
+2019-11-15 15:06:15,446 functions.py[line:146] INFO 脑图号为8位数
+2019-11-15 15:06:20,876 functions.py[line:146] INFO 修改成功
+2019-11-15 15:06:21,145 test_6my.py[line:42] INFO 测试失败
+2019-11-15 15:06:46,786 test_6my.py[line:81] INFO 修改登录密码1
+2019-11-15 15:06:52,464 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 15:06:53,154 functions.py[line:83] INFO 截图已保存
+2019-11-15 15:06:53,154 test_6my.py[line:96] INFO 测试失败！
+2019-11-15 15:06:53,158 test_6my.py[line:99] INFO 修改登录密码2
+2019-11-15 15:06:58,758 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 15:06:59,498 functions.py[line:83] INFO 截图已保存
+2019-11-15 15:06:59,499 test_6my.py[line:105] INFO 测试失败
+2019-11-15 15:06:59,499 test_6my.py[line:106] INFO 修改登录密码自动化测试结束
+2019-11-15 15:06:59,499 test_6my.py[line:107] INFO 密码为：qpwksry5
+2019-11-15 15:06:59,500 test_6my.py[line:62] INFO 修改登录手机
+2019-11-15 17:05:32,981 desired_caps.py[line:34] INFO start app
+2019-11-15 17:06:04,592 functions.py[line:146] INFO 修改成功
+2019-11-15 17:06:09,832 functions.py[line:146] INFO 修改成功
+2019-11-15 17:06:14,661 functions.py[line:146] INFO 修改成功
+2019-11-15 17:06:19,001 functions.py[line:146] INFO 修改成功
+2019-11-15 17:06:23,161 functions.py[line:146] INFO 修改成功
+2019-11-15 17:06:27,890 functions.py[line:146] INFO 修改成功
+2019-11-15 17:06:32,520 functions.py[line:146] INFO 修改成功
+2019-11-15 17:06:36,799 functions.py[line:146] INFO 修改成功
+2019-11-15 17:06:41,509 functions.py[line:146] INFO 修改成功
+2019-11-15 17:06:46,419 functions.py[line:146] INFO 修改成功
+2019-11-15 17:06:51,169 functions.py[line:146] INFO 修改成功
+2019-11-15 17:06:55,928 functions.py[line:146] INFO 修改成功
+2019-11-15 17:07:06,238 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:07:06,498 test_6my.py[line:42] INFO 测试失败
+2019-11-15 17:07:13,768 functions.py[line:146] INFO 修改成功
+2019-11-15 17:07:18,347 functions.py[line:146] INFO 修改成功
+2019-11-15 17:07:23,407 functions.py[line:146] INFO 修改成功
+2019-11-15 17:07:28,172 functions.py[line:146] INFO 修改成功
+2019-11-15 17:07:33,092 functions.py[line:146] INFO 修改成功
+2019-11-15 17:07:38,031 functions.py[line:146] INFO 修改成功
+2019-11-15 17:07:42,061 functions.py[line:146] INFO 修改成功
+2019-11-15 17:07:46,671 functions.py[line:146] INFO 修改成功
+2019-11-15 17:07:51,219 functions.py[line:146] INFO 修改成功
+2019-11-15 17:07:55,283 functions.py[line:146] INFO 修改成功
+2019-11-15 17:08:00,383 functions.py[line:146] INFO 修改成功
+2019-11-15 17:08:04,712 functions.py[line:146] INFO 修改成功
+2019-11-15 17:08:09,262 functions.py[line:146] INFO 修改成功
+2019-11-15 17:08:13,852 functions.py[line:146] INFO 修改成功
+2019-11-15 17:08:14,472 test_6my.py[line:49] INFO 测试失败
+2019-11-15 17:08:35,291 test_6my.py[line:81] INFO 修改登录密码1
+2019-11-15 17:08:40,460 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 17:08:41,070 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:08:41,070 test_6my.py[line:96] INFO 测试失败！
+2019-11-15 17:08:41,070 test_6my.py[line:99] INFO 修改登录密码2
+2019-11-15 17:08:46,720 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 17:08:47,430 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:08:47,430 test_6my.py[line:105] INFO 测试失败
+2019-11-15 17:08:47,430 test_6my.py[line:106] INFO 修改登录密码自动化测试结束
+2019-11-15 17:08:47,430 test_6my.py[line:107] INFO 密码为：1bsg5wlx
+2019-11-15 17:08:47,430 test_6my.py[line:62] INFO 修改登录手机
+2019-11-15 17:12:31,744 desired_caps.py[line:34] INFO start app
+2019-11-15 17:13:16,034 test_6my.py[line:81] INFO 修改登录密码1
+2019-11-15 17:19:58,697 desired_caps.py[line:34] INFO start app
+2019-11-15 17:20:43,116 test_6my.py[line:81] INFO 修改登录密码1
+2019-11-15 17:20:48,412 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 17:20:49,064 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:20:49,064 test_6my.py[line:96] INFO 测试失败！
+2019-11-15 17:20:49,065 test_6my.py[line:99] INFO 修改登录密码2
+2019-11-15 17:24:12,401 desired_caps.py[line:34] INFO start app
+2019-11-15 17:25:01,063 test_6my.py[line:81] INFO 修改登录密码1
+2019-11-15 17:25:06,612 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 17:25:07,252 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:25:07,252 test_6my.py[line:96] INFO 测试失败！
+2019-11-15 17:25:07,253 test_6my.py[line:99] INFO 修改登录密码2
+2019-11-15 17:25:13,176 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 17:25:13,906 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:25:13,906 test_6my.py[line:105] INFO 测试失败
+2019-11-15 17:25:13,907 test_6my.py[line:106] INFO 修改登录密码自动化测试结束
+2019-11-15 17:25:13,907 test_6my.py[line:107] INFO 密码为：unyv6wi2
+2019-11-15 17:25:13,908 test_6my.py[line:62] INFO 修改登录手机
+2019-11-15 17:28:22,366 desired_caps.py[line:34] INFO start app
+2019-11-15 17:29:05,048 test_6my.py[line:81] INFO 修改登录密码1
+2019-11-15 17:29:10,528 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 17:29:11,195 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:29:11,196 test_6my.py[line:96] INFO 测试失败！
+2019-11-15 17:29:11,197 test_6my.py[line:99] INFO 修改登录密码2
+2019-11-15 17:29:16,793 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 17:29:17,529 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:29:17,530 test_6my.py[line:105] INFO 测试失败
+2019-11-15 17:29:17,530 test_6my.py[line:106] INFO 修改登录密码自动化测试结束
+2019-11-15 17:29:17,530 test_6my.py[line:107] INFO 密码为：vykh29on
+2019-11-15 17:29:17,530 test_6my.py[line:62] INFO 修改登录手机
+2019-11-15 17:30:14,324 desired_caps.py[line:34] INFO start app
+2019-11-15 17:30:58,804 functions.py[line:146] INFO 发送完成
+2019-11-15 17:31:09,961 test_6my.py[line:81] INFO 修改登录密码1
+2019-11-15 17:31:15,043 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 17:31:15,754 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:31:15,754 test_6my.py[line:96] INFO 测试失败！
+2019-11-15 17:31:15,755 test_6my.py[line:99] INFO 修改登录密码2
+2019-11-15 17:32:23,945 desired_caps.py[line:34] INFO start app
+2019-11-15 17:33:07,640 functions.py[line:146] INFO 发送完成
+2019-11-15 17:33:19,671 test_6my.py[line:81] INFO 修改登录密码1
+2019-11-15 17:33:24,824 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 17:33:25,517 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:33:25,518 test_6my.py[line:96] INFO 测试失败！
+2019-11-15 17:33:25,519 test_6my.py[line:99] INFO 修改登录密码2
+2019-11-15 17:33:31,107 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 17:33:31,741 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:33:31,741 test_6my.py[line:105] INFO 测试失败
+2019-11-15 17:33:31,742 test_6my.py[line:106] INFO 修改登录密码自动化测试结束
+2019-11-15 17:33:31,742 test_6my.py[line:107] INFO 密码为：e6duqe8o
+2019-11-15 17:33:31,742 test_6my.py[line:62] INFO 修改登录手机
+2019-11-15 17:33:55,891 desired_caps.py[line:34] INFO start app
+2019-11-15 17:34:39,629 functions.py[line:146] INFO 发送完成
+2019-11-15 17:34:51,448 test_6my.py[line:81] INFO 修改登录密码1
+2019-11-15 17:35:04,504 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:35:04,504 test_6my.py[line:96] INFO 测试失败！
+2019-11-15 17:35:04,506 test_6my.py[line:99] INFO 修改登录密码2
+2019-11-15 17:35:09,906 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-15 17:35:10,569 functions.py[line:83] INFO 截图已保存
+2019-11-15 17:35:10,569 test_6my.py[line:105] INFO 测试失败
+2019-11-15 17:35:10,569 test_6my.py[line:106] INFO 修改登录密码自动化测试结束
+2019-11-15 17:35:10,569 test_6my.py[line:107] INFO 密码为：huaezgdl
+2019-11-15 17:35:10,570 test_6my.py[line:62] INFO 修改登录手机
+2019-11-18 09:56:20,453 desired_caps.py[line:34] INFO start app
+2019-11-18 09:56:40,532 run.py[line:19] INFO start run test case....
+2019-11-18 09:56:40,532 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-18 09:58:29,305 functions.py[line:83] INFO 截图已保存
+2019-11-18 09:58:29,305 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-18 09:58:29,305 test_3file.py[line:13] INFO 文件模块自动化测试开始
+2019-11-18 10:01:02,433 test_6my.py[line:81] INFO 修改登录密码1
+2019-11-18 10:01:07,738 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 10:01:10,938 functions.py[line:83] INFO 截图已保存
+2019-11-18 10:01:10,938 test_6my.py[line:96] INFO 测试失败！
+2019-11-18 10:01:10,943 test_6my.py[line:99] INFO 修改登录密码2
+2019-11-18 10:01:16,308 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 10:01:19,410 functions.py[line:83] INFO 截图已保存
+2019-11-18 10:01:19,410 test_6my.py[line:105] INFO 测试失败
+2019-11-18 10:01:19,410 test_6my.py[line:106] INFO 修改登录密码自动化测试结束
+2019-11-18 10:01:19,410 test_6my.py[line:107] INFO 密码为：hfpdpxlz
+2019-11-18 10:01:19,410 test_6my.py[line:62] INFO 修改登录手机
+2019-11-18 11:01:11,323 desired_caps.py[line:34] INFO start app
+2019-11-18 11:01:34,452 run.py[line:19] INFO start run test case....
+2019-11-18 11:01:34,462 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-18 11:03:21,156 functions.py[line:83] INFO 截图已保存
+2019-11-18 11:03:21,156 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-18 11:03:21,156 test_3file.py[line:13] INFO 文件模块自动化测试开始
+2019-11-18 11:13:05,407 file_view.py[line:197] INFO 回收站清空完毕:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 11:13:07,127 file_view.py[line:140] INFO 开始执行文件移动
+2019-11-18 11:13:24,836 file_view.py[line:161] INFO 移动成功
+2019-11-18 11:13:24,836 file_view.py[line:167] INFO 文件移动结束
+2019-11-18 11:13:24,836 file_view.py[line:221] INFO 文件重命名开始start
+2019-11-18 11:14:29,912 functions.py[line:146] INFO 发送完成
+2019-11-18 11:14:41,854 test_6my.py[line:81] INFO 修改登录密码1
+2019-11-18 11:14:48,974 test_6my.py[line:99] INFO 修改登录密码2
+2019-11-18 11:14:55,794 functions.py[line:146] INFO 修改成功
+2019-11-18 11:14:55,794 test_6my.py[line:106] INFO 修改登录密码自动化测试结束
+2019-11-18 11:14:55,794 test_6my.py[line:107] INFO 密码为：je6i8agq
+2019-11-18 11:14:55,794 test_6my.py[line:62] INFO 修改登录手机
+2019-11-18 11:15:06,702 mysql_cline.py[line:56] INFO list index out of range
+2019-11-18 11:15:06,702 my_view.py[line:116] INFO 修改数据库信息: None
+2019-11-18 11:15:06,702 test_6my.py[line:78] INFO 修改登录手机自动化测试结束

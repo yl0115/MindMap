@@ -16,8 +16,8 @@ class Common(BaseView):
         self.driver.implicitly_wait(num)
 
     @staticmethod
-    def forced_wait():
-        time.sleep(0.5)
+    def forced_wait(num=1):
+        time.sleep(num)
 
     def get_size(self):
         x = self.driver.get_window_size()['width']
@@ -166,11 +166,12 @@ class Common(BaseView):
     def HUAWEI_operation(self):
         pass
 
-    def textview(self,classname):
-        return '\'//android.widget.TextView[@text="%s"]\'' % classname
-
-    def edittext(self, classname):
-        return '\'//android.widget.TextView[@text="%s"]\'' % classname
+    @staticmethod
+    def class_path(content, tag):
+        if tag == 't':
+            return '//android.widget.TextView[@text="%s"]' % content
+        if tag == 'e':
+            return '//android.widget.EditText[@text="%s"]' % content
 
 
 

@@ -1,7 +1,10 @@
 from common.functions import Common
+import os
 
 
 class GeneralSetting(Common):
+    # 当前模块名称
+    module = str(os.path.abspath(__file__).split('\\')[-1][:-3])
     # 通用设置的xpath路径
     general_setting_path = '//android.widget.TextView[@text="通用设置"]'
     # 按钮关闭中的路径
@@ -45,11 +48,11 @@ class GeneralSetting(Common):
         imagelist = self.find_paths(r'//android.widget.ImageView')
         for i in range(4):
             imagelist[i].click()
-        self.find_path(self.edittext('请输入你的宝贵意见和建议')).send_keys('请输入你的宝贵意见和建议12212')
-        self.find_path(self.edittext('常用联系方式(选填)')).send_keys('常用联系方式(选填)1233')
-        self.find_path(self.textview('提交')).click()
-
-
+        self.find_path(self.class_path('请输入你的宝贵意见和建议', 'e')).send_keys('请输入你的宝贵意见和建议12212')
+        self.find_path(self.class_path('常用联系方式(选填)', 'e')).send_keys('常用联系方式(选填)1233')
+        self.find_path(self.class_path('提交', 't')).click()
+        self.toast('发送完成', self.module)
+        self.forced_wait(2)
         self.go_back()
         self.find_path(self.version_path).click()
         self.go_back()
@@ -59,5 +62,6 @@ class GeneralSetting(Common):
         self.find_path(self.vip_path).click()
         self.swipe_up()
         self.go_back()
+        self.forced_wait()
         # 点击返回按钮
         self.go_back()
