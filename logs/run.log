@@ -1,2213 +1,297 @@
-ï»¿2019-10-29 09:28:16,950 desired_caps.py[line:34] INFO start app
-2019-10-29 09:29:39,997 desired_caps.py[line:34] INFO start app
-2019-10-29 09:31:14,528 desired_caps.py[line:34] INFO start app
-2019-10-29 09:31:27,108 run.py[line:19] INFO start run test case....
-2019-10-29 09:31:27,108 test_1login.py[line:15] INFO ç™»å½•åŠŸèƒ½æ–­è¨€æµ‹è¯•å¼€å§‹
-2019-10-29 09:32:02,113 functions.py[line:83] INFO æˆªå›¾å·²ä¿å­˜
-2019-10-29 09:33:12,046 functions.py[line:83] INFO æˆªå›¾å·²ä¿å­˜
-2019-10-29 09:33:12,046 test_1login.py[line:73] INFO ç™»å½•æ¨¡å—æ–­è¨€æµ‹è¯•ç»“æŸ
-2019-10-29 09:33:12,046 test_3file.py[line:13] INFO æ–‡ä»¶æ¨¡å—è‡ªåŠ¨åŒ–æµ‹è¯•å¼€å§‹
-2019-10-29 09:35:39,297 file_view.py[line:197] INFO å›æ”¶ç«™æ¸…ç©ºå®Œæ¯•:  Message: An element could not be located on the page using the given search parameters.
-
-2019-10-29 09:35:40,278 file_view.py[line:140] INFO å¼€å§‹æ‰§è¡Œæ–‡ä»¶ç§»åŠ¨
-2019-10-29 09:35:53,096 file_view.py[line:161] INFO ç§»åŠ¨æˆåŠŸ
-2019-10-29 09:35:53,096 file_view.py[line:167] INFO æ–‡ä»¶ç§»åŠ¨ç»“æŸ
-2019-10-29 09:35:53,096 file_view.py[line:221] INFO æ–‡ä»¶é‡å‘½åå¼€å§‹start
-2019-10-29 09:38:00,212 file_view.py[line:272] INFO äºŒçº§ç›®å½•é‡å‘½å
-2019-10-29 09:39:51,647 file_view.py[line:288] INFO æ–‡ä»¶é‡å‘½åç»“æŸEnd
-2019-10-29 09:39:51,647 file_view.py[line:292] INFO æ–‡ä»¶æ’åºå¼€å§‹start
-2019-10-29 09:40:17,090 file_view.py[line:322] INFO æ–‡ä»¶æ’åºç»“æŸEnd
-2019-10-29 09:40:17,090 file_view.py[line:326] INFO æ–‡ä»¶å¤šé€‰å¼€å§‹start
-2019-10-29 09:40:25,606 file_view.py[line:357] INFO æ–‡ä»¶å¤¹åç§°ä¸ºï¼š459
-2019-10-29 09:40:27,061 file_view.py[line:363] INFO æ–‡ä»¶å¤šé€‰ç»“æŸEnd
-2019-10-29 09:40:27,061 test_4msg.py[line:9] INFO æ¶ˆæ¯è‡ªåŠ¨åŒ–æµ‹è¯•Start
-2019-10-29 09:40:27,061 message_view.py[line:30] INFO æ·»åŠ å¥½å‹
-2019-10-29 09:40:27,061 message_view.py[line:50] INFO å‘èµ·ç¾¤èŠ
-2019-10-29 09:40:27,061 test_4msg.py[line:16] INFO æ¶ˆæ¯è‡ªåŠ¨åŒ–æµ‹è¯•End
-2019-10-29 09:40:41,830 functions.py[line:122] INFO ä¿®æ”¹æˆåŠŸ
-2019-10-29 09:40:45,615 functions.py[line:122] INFO ä¿®æ”¹æˆåŠŸ
-2019-10-29 09:40:49,397 functions.py[line:122] INFO ä¿®æ”¹æˆåŠŸ
-2019-10-29 09:41:10,224 test_6my.py[line:76] INFO ä¿®æ”¹ç™»å½•å¯†ç 1
-2019-10-29 09:41:15,406 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-10-29 09:41:15,542 functions.py[line:83] INFO æˆªå›¾å·²ä¿å­˜
-2019-10-29 09:41:15,543 test_6my.py[line:91] INFO æµ‹è¯•å¤±è´¥ï¼
-2019-10-29 09:41:15,543 test_6my.py[line:94] INFO ä¿®æ”¹ç™»å½•å¯†ç 2
-2019-10-29 09:41:20,805 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-10-29 09:41:20,954 functions.py[line:83] INFO æˆªå›¾å·²ä¿å­˜
-2019-10-29 09:41:20,954 test_6my.py[line:100] INFO æµ‹è¯•å¤±è´¥
-2019-10-29 09:41:20,954 test_6my.py[line:101] INFO ä¿®æ”¹ç™»å½•å¯†ç è‡ªåŠ¨åŒ–æµ‹è¯•ç»“æŸ
-2019-10-29 09:41:20,954 test_6my.py[line:102] INFO å¯†ç ä¸ºï¼šsfhuydpu
-2019-10-29 09:41:20,954 test_6my.py[line:57] INFO ä¿®æ”¹ç™»å½•æ‰‹æœº
-2019-11-06 18:02:41,808 desired_caps.py[line:34] INFO start app
-2019-11-06 18:03:24,203 desired_caps.py[line:34] INFO start app
-2019-11-06 18:04:05,736 desired_caps.py[line:34] INFO start app
-2019-11-06 18:04:18,699 desired_caps.py[line:34] INFO start app
-2019-11-06 18:04:23,732 desired_caps.py[line:34] INFO start app
-2019-11-07 11:08:36,277 desired_caps.py[line:34] INFO start app
-2019-11-07 11:08:45,506 desired_caps.py[line:34] INFO start app
-2019-11-07 11:08:54,655 desired_caps.py[line:34] INFO start app
-2019-11-07 11:09:15,327 desired_caps.py[line:34] INFO start app
-2019-11-07 11:09:41,303 run.py[line:19] INFO start run test case....
-2019-11-07 11:11:11,702 desired_caps.py[line:34] INFO start app
-2019-11-07 11:11:26,801 run.py[line:19] INFO start run test case....
-2019-11-07 11:22:35,317 desired_caps.py[line:34] INFO start app
-2019-11-07 11:22:50,778 run.py[line:19] INFO start run test case....
-2019-11-07 11:24:57,389 desired_caps.py[line:34] INFO start app
-2019-11-07 11:25:13,003 run.py[line:19] INFO start run test case....
-2019-11-07 11:27:27,059 desired_caps.py[line:34] INFO start app
-2019-11-07 11:27:42,276 run.py[line:19] INFO start run test case....
-2019-11-07 11:31:16,490 desired_caps.py[line:34] INFO start app
-2019-11-07 11:31:31,706 run.py[line:19] INFO start run test case....
-2019-11-07 11:32:19,013 desired_caps.py[line:34] INFO start app
-2019-11-07 11:32:34,979 run.py[line:19] INFO start run test case....
-2019-11-07 11:34:03,297 desired_caps.py[line:34] INFO start app
-2019-11-07 11:34:18,837 run.py[line:19] INFO start run test case....
-2019-11-07 11:34:54,118 desired_caps.py[line:34] INFO start app
-2019-11-07 11:35:10,087 run.py[line:19] INFO start run test case....
-2019-11-07 11:35:45,950 desired_caps.py[line:34] INFO start app
-2019-11-07 14:05:04,391 desired_caps.py[line:34] INFO start app
-2019-11-07 14:05:20,494 desired_caps.py[line:34] INFO start app
-2019-11-07 14:38:40,917 desired_caps.py[line:34] INFO start app
-2019-11-07 14:39:03,609 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-07 14:40:51,197 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 14:40:51,197 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-07 14:43:01,244 desired_caps.py[line:34] INFO start app
-2019-11-07 14:43:18,864 run.py[line:19] INFO start run test case....
-2019-11-07 14:43:18,864 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-07 14:45:03,524 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 14:45:03,524 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-07 14:45:03,524 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-07 14:48:16,805 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-07 14:48:17,435 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-07 14:48:34,214 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-07 14:48:34,214 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-07 14:48:34,214 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-07 14:48:38,054 test_4msg.py[line:9] INFO ÏûÏ¢×Ô¶¯»¯²âÊÔStart
-2019-11-07 14:48:38,054 message_view.py[line:30] INFO Ìí¼ÓºÃÓÑ
-2019-11-07 14:48:38,054 message_view.py[line:50] INFO ·¢ÆğÈºÁÄ
-2019-11-07 14:48:38,054 test_4msg.py[line:16] INFO ÏûÏ¢×Ô¶¯»¯²âÊÔEnd
-2019-11-07 14:48:58,873 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-07 14:49:08,283 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 14:49:15,062 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 14:49:21,373 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 14:49:27,682 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 14:49:29,092 test_6my.py[line:37] INFO ²âÊÔÊ§°Ü
-2019-11-07 14:50:00,200 test_6my.py[line:76] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-07 14:50:05,330 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-07 14:50:05,970 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 14:50:05,970 test_6my.py[line:91] INFO ²âÊÔÊ§°Ü£¡
-2019-11-07 14:50:05,970 test_6my.py[line:94] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-07 14:50:11,250 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-07 14:50:11,900 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 14:50:11,900 test_6my.py[line:100] INFO ²âÊÔÊ§°Ü
-2019-11-07 14:50:11,900 test_6my.py[line:101] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-07 14:50:11,900 test_6my.py[line:102] INFO ÃÜÂëÎª£º35v7tqpk
-2019-11-07 14:50:11,900 test_6my.py[line:57] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-07 14:58:17,391 desired_caps.py[line:34] INFO start app
-2019-11-07 14:58:34,680 run.py[line:19] INFO start run test case....
-2019-11-07 14:58:34,680 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-07 15:00:20,308 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:00:20,308 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-07 15:00:20,318 test_4msg.py[line:9] INFO ÏûÏ¢×Ô¶¯»¯²âÊÔStart
-2019-11-07 15:00:20,318 message_view.py[line:30] INFO Ìí¼ÓºÃÓÑ
-2019-11-07 15:00:20,318 message_view.py[line:50] INFO ·¢ÆğÈºÁÄ
-2019-11-07 15:00:20,318 test_4msg.py[line:16] INFO ÏûÏ¢×Ô¶¯»¯²âÊÔEnd
-2019-11-07 15:00:50,087 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:00:57,223 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:01:03,533 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:01:09,792 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:01:09,943 test_6my.py[line:37] INFO ²âÊÔÊ§°Ü
-2019-11-07 15:01:15,312 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-07 15:01:40,523 test_6my.py[line:76] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-07 15:01:44,703 test_6my.py[line:94] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-07 15:01:55,323 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:01:55,873 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:01:55,873 test_6my.py[line:100] INFO ²âÊÔÊ§°Ü
-2019-11-07 15:01:55,873 test_6my.py[line:101] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-07 15:01:55,873 test_6my.py[line:102] INFO ÃÜÂëÎª£ºqxy2azc4
-2019-11-07 15:01:55,883 test_6my.py[line:57] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-07 15:04:21,728 desired_caps.py[line:34] INFO start app
-2019-11-07 15:04:37,872 run.py[line:19] INFO start run test case....
-2019-11-07 15:04:37,872 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-07 15:05:13,518 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:05:24,447 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:05:34,908 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:05:44,746 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:07:01,348 desired_caps.py[line:34] INFO start app
-2019-11-07 15:07:17,900 run.py[line:19] INFO start run test case....
-2019-11-07 15:07:17,900 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-07 15:09:02,245 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:09:02,246 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-07 15:09:02,247 test_4msg.py[line:9] INFO ÏûÏ¢×Ô¶¯»¯²âÊÔStart
-2019-11-07 15:09:02,247 message_view.py[line:30] INFO Ìí¼ÓºÃÓÑ
-2019-11-07 15:09:02,248 message_view.py[line:50] INFO ·¢ÆğÈºÁÄ
-2019-11-07 15:09:02,248 test_4msg.py[line:16] INFO ÏûÏ¢×Ô¶¯»¯²âÊÔEnd
-2019-11-07 15:09:20,044 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-07 15:09:25,021 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-07 15:09:29,469 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-07 15:09:55,070 test_6my.py[line:76] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-07 15:10:07,174 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:10:07,175 test_6my.py[line:91] INFO ²âÊÔÊ§°Ü£¡
-2019-11-07 15:10:07,176 test_6my.py[line:94] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-07 15:10:13,701 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-07 15:10:13,701 test_6my.py[line:101] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-07 15:10:13,701 test_6my.py[line:102] INFO ÃÜÂëÎª£ºrcz8a1sl
-2019-11-07 15:10:13,702 test_6my.py[line:57] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-07 15:32:15,740 desired_caps.py[line:34] INFO start app
-2019-11-07 15:32:35,195 run.py[line:19] INFO start run test case....
-2019-11-07 15:32:35,195 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-07 15:34:20,228 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:34:20,229 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-07 15:34:20,229 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-07 15:37:33,808 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-07 15:37:35,264 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-07 15:37:52,299 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-07 15:37:52,299 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-07 15:37:52,299 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-07 15:40:49,415 file_view.py[line:272] INFO ¶ş¼¶Ä¿Â¼ÖØÃüÃû
-2019-11-07 15:43:42,670 file_view.py[line:288] INFO ÎÄ¼şÖØÃüÃû½áÊøEnd
-2019-11-07 15:43:42,670 file_view.py[line:292] INFO ÎÄ¼şÅÅĞò¿ªÊ¼start
-2019-11-07 15:44:10,662 file_view.py[line:322] INFO ÎÄ¼şÅÅĞò½áÊøEnd
-2019-11-07 15:44:10,662 file_view.py[line:326] INFO ÎÄ¼ş¶àÑ¡¿ªÊ¼start
-2019-11-07 15:44:19,274 file_view.py[line:357] INFO ÎÄ¼ş¼ĞÃû³ÆÎª£º530
-2019-11-07 15:44:20,990 file_view.py[line:363] INFO ÎÄ¼ş¶àÑ¡½áÊøEnd
-2019-11-07 15:44:58,416 test_6my.py[line:76] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-07 15:45:04,036 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-07 15:45:05,156 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:45:05,156 test_6my.py[line:91] INFO ²âÊÔÊ§°Ü£¡
-2019-11-07 15:45:05,157 test_6my.py[line:94] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-07 15:45:10,496 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-07 15:45:11,464 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:45:11,464 test_6my.py[line:100] INFO ²âÊÔÊ§°Ü
-2019-11-07 15:45:11,464 test_6my.py[line:101] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-07 15:45:11,464 test_6my.py[line:102] INFO ÃÜÂëÎª£ºudhfcmit
-2019-11-07 15:45:11,464 test_6my.py[line:57] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-07 15:51:19,988 desired_caps.py[line:34] INFO start app
-2019-11-07 15:51:37,616 run.py[line:19] INFO start run test case....
-2019-11-07 15:51:37,617 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-07 15:53:21,648 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 15:53:21,649 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-07 15:53:21,649 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-07 15:56:34,364 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-07 15:56:35,885 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-07 15:56:52,586 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-07 15:56:52,587 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-07 15:56:52,587 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-07 15:59:46,885 file_view.py[line:272] INFO ¶ş¼¶Ä¿Â¼ÖØÃüÃû
-2019-11-07 16:02:35,318 file_view.py[line:288] INFO ÎÄ¼şÖØÃüÃû½áÊøEnd
-2019-11-07 16:02:35,318 file_view.py[line:292] INFO ÎÄ¼şÅÅĞò¿ªÊ¼start
-2019-11-07 16:03:02,990 file_view.py[line:322] INFO ÎÄ¼şÅÅĞò½áÊøEnd
-2019-11-07 16:03:02,990 file_view.py[line:326] INFO ÎÄ¼ş¶àÑ¡¿ªÊ¼start
-2019-11-07 16:03:11,432 file_view.py[line:357] INFO ÎÄ¼ş¼ĞÃû³ÆÎª£º978
-2019-11-07 16:03:13,115 file_view.py[line:363] INFO ÎÄ¼ş¶àÑ¡½áÊøEnd
-2019-11-07 16:03:49,299 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-07 16:04:13,200 test_6my.py[line:76] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-07 16:04:18,405 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-07 16:04:19,047 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 16:04:19,047 test_6my.py[line:91] INFO ²âÊÔÊ§°Ü£¡
-2019-11-07 16:04:19,048 test_6my.py[line:94] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-07 17:00:14,445 desired_caps.py[line:34] INFO start app
-2019-11-07 17:00:33,559 run.py[line:19] INFO start run test case....
-2019-11-07 17:00:33,560 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-07 17:02:17,015 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 17:02:17,016 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-07 17:02:17,017 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-07 17:05:26,582 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-07 17:05:27,939 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-07 17:05:45,028 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-07 17:05:45,028 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-07 17:05:45,028 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-07 17:08:43,410 file_view.py[line:272] INFO ¶ş¼¶Ä¿Â¼ÖØÃüÃû
-2019-11-07 17:11:35,542 file_view.py[line:288] INFO ÎÄ¼şÖØÃüÃû½áÊøEnd
-2019-11-07 17:11:35,542 file_view.py[line:292] INFO ÎÄ¼şÅÅĞò¿ªÊ¼start
-2019-11-07 17:12:04,010 file_view.py[line:322] INFO ÎÄ¼şÅÅĞò½áÊøEnd
-2019-11-07 17:12:04,010 file_view.py[line:326] INFO ÎÄ¼ş¶àÑ¡¿ªÊ¼start
-2019-11-07 17:12:13,310 file_view.py[line:357] INFO ÎÄ¼ş¼ĞÃû³ÆÎª£º514
-2019-11-07 17:12:14,948 file_view.py[line:363] INFO ÎÄ¼ş¶àÑ¡½áÊøEnd
-2019-11-07 17:12:23,208 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-07 17:13:24,330 desired_caps.py[line:34] INFO start app
-2019-11-07 17:13:42,748 run.py[line:19] INFO start run test case....
-2019-11-07 17:13:42,749 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-07 17:15:25,826 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 17:15:25,826 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-07 17:15:25,827 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-07 17:18:38,924 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-07 17:18:40,306 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-07 17:18:57,008 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-07 17:18:57,008 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-07 17:18:57,008 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-07 17:21:50,564 file_view.py[line:272] INFO ¶ş¼¶Ä¿Â¼ÖØÃüÃû
-2019-11-07 17:24:42,295 file_view.py[line:288] INFO ÎÄ¼şÖØÃüÃû½áÊøEnd
-2019-11-07 17:24:42,295 file_view.py[line:292] INFO ÎÄ¼şÅÅĞò¿ªÊ¼start
-2019-11-07 17:25:10,319 file_view.py[line:322] INFO ÎÄ¼şÅÅĞò½áÊøEnd
-2019-11-07 17:25:10,319 file_view.py[line:326] INFO ÎÄ¼ş¶àÑ¡¿ªÊ¼start
-2019-11-07 17:25:19,074 file_view.py[line:357] INFO ÎÄ¼ş¼ĞÃû³ÆÎª£º635
-2019-11-07 17:25:21,167 file_view.py[line:363] INFO ÎÄ¼ş¶àÑ¡½áÊøEnd
-2019-11-07 17:25:29,852 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-07 17:25:34,458 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-07 17:25:39,030 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-07 17:26:04,097 test_6my.py[line:76] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-07 17:26:09,856 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-07 17:26:10,463 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 17:26:10,463 test_6my.py[line:91] INFO ²âÊÔÊ§°Ü£¡
-2019-11-07 17:26:10,464 test_6my.py[line:94] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-07 17:26:15,750 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-07 17:26:16,401 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-07 17:26:16,401 test_6my.py[line:100] INFO ²âÊÔÊ§°Ü
-2019-11-07 17:26:16,402 test_6my.py[line:101] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-07 17:26:16,402 test_6my.py[line:102] INFO ÃÜÂëÎª£ºy37qwcmd
-2019-11-07 17:26:16,402 test_6my.py[line:57] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-07 17:26:26,201 mysql_cline.py[line:56] INFO list index out of range
-2019-11-07 17:26:26,202 my_view.py[line:116] INFO ĞŞ¸ÄÊı¾İ¿âĞÅÏ¢: None
-2019-11-07 17:26:26,202 test_6my.py[line:73] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-08 09:06:28,361 desired_caps.py[line:34] INFO start app
-2019-11-08 09:06:37,540 desired_caps.py[line:34] INFO start app
-2019-11-08 09:06:46,730 desired_caps.py[line:34] INFO start app
-2019-11-08 09:06:55,896 desired_caps.py[line:34] INFO start app
-2019-11-08 09:07:05,036 desired_caps.py[line:34] INFO start app
-2019-11-08 09:07:51,163 desired_caps.py[line:34] INFO start app
-2019-11-08 09:08:12,072 run.py[line:19] INFO start run test case....
-2019-11-08 09:08:12,072 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-08 09:08:49,879 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 09:09:00,429 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 09:09:12,064 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 09:09:23,852 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 09:10:31,246 desired_caps.py[line:34] INFO start app
-2019-11-08 09:10:48,955 run.py[line:19] INFO start run test case....
-2019-11-08 09:10:48,955 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-08 09:11:04,974 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-08 09:11:05,264 test_6my.py[line:76] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-08 09:11:05,304 test_6my.py[line:94] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-08 09:11:05,354 test_6my.py[line:57] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-08 09:11:13,283 desired_caps.py[line:34] INFO start app
-2019-11-08 09:11:32,689 run.py[line:19] INFO start run test case....
-2019-11-08 09:11:32,689 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-08 09:13:18,465 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 09:13:18,466 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-08 09:13:18,467 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-08 09:16:30,616 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-08 09:16:32,109 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-08 09:16:49,036 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-08 09:16:49,036 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-08 09:16:49,036 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-08 09:19:44,683 file_view.py[line:272] INFO ¶ş¼¶Ä¿Â¼ÖØÃüÃû
-2019-11-08 09:22:38,543 file_view.py[line:288] INFO ÎÄ¼şÖØÃüÃû½áÊøEnd
-2019-11-08 09:22:38,543 file_view.py[line:292] INFO ÎÄ¼şÅÅĞò¿ªÊ¼start
-2019-11-08 09:23:07,445 file_view.py[line:322] INFO ÎÄ¼şÅÅĞò½áÊøEnd
-2019-11-08 09:23:07,445 file_view.py[line:326] INFO ÎÄ¼ş¶àÑ¡¿ªÊ¼start
-2019-11-08 09:23:16,753 file_view.py[line:357] INFO ÎÄ¼ş¼ĞÃû³ÆÎª£º459
-2019-11-08 09:23:18,501 file_view.py[line:363] INFO ÎÄ¼ş¶àÑ¡½áÊøEnd
-2019-11-08 09:23:27,471 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 09:23:32,201 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 09:23:36,728 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 09:24:03,409 test_6my.py[line:76] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-08 09:24:08,510 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-08 09:24:09,184 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 09:24:09,185 test_6my.py[line:91] INFO ²âÊÔÊ§°Ü£¡
-2019-11-08 09:24:09,185 test_6my.py[line:94] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-08 09:24:14,519 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-08 09:24:15,150 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 09:24:15,151 test_6my.py[line:100] INFO ²âÊÔÊ§°Ü
-2019-11-08 09:24:15,151 test_6my.py[line:101] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-08 09:24:15,151 test_6my.py[line:102] INFO ÃÜÂëÎª£ºvyjj8tgr
-2019-11-08 09:24:15,152 test_6my.py[line:57] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-08 09:24:24,301 mysql_cline.py[line:56] INFO list index out of range
-2019-11-08 09:24:24,302 my_view.py[line:116] INFO ĞŞ¸ÄÊı¾İ¿âĞÅÏ¢: None
-2019-11-08 09:24:24,304 test_6my.py[line:73] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-08 10:11:05,777 desired_caps.py[line:34] INFO start app
-2019-11-08 10:11:24,560 run.py[line:19] INFO start run test case....
-2019-11-08 10:11:24,561 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-08 10:12:11,774 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 10:12:22,309 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 10:12:32,387 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 10:12:42,856 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 10:12:55,822 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 10:13:44,094 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 10:13:44,095 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-08 10:13:44,096 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-08 10:16:56,144 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-08 10:16:57,570 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-08 10:17:15,415 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-08 10:17:15,416 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-08 10:17:15,416 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-08 10:20:11,351 file_view.py[line:272] INFO ¶ş¼¶Ä¿Â¼ÖØÃüÃû
-2019-11-08 10:23:03,243 file_view.py[line:288] INFO ÎÄ¼şÖØÃüÃû½áÊøEnd
-2019-11-08 10:23:03,243 file_view.py[line:292] INFO ÎÄ¼şÅÅĞò¿ªÊ¼start
-2019-11-08 10:23:31,307 file_view.py[line:322] INFO ÎÄ¼şÅÅĞò½áÊøEnd
-2019-11-08 10:23:31,308 file_view.py[line:326] INFO ÎÄ¼ş¶àÑ¡¿ªÊ¼start
-2019-11-08 10:23:40,389 file_view.py[line:357] INFO ÎÄ¼ş¼ĞÃû³ÆÎª£º663
-2019-11-08 10:23:42,274 file_view.py[line:363] INFO ÎÄ¼ş¶àÑ¡½áÊøEnd
-2019-11-08 10:23:50,892 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 10:23:55,410 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 10:24:00,067 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 10:24:25,700 test_6my.py[line:76] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-08 10:24:37,910 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-08 10:24:37,911 test_6my.py[line:91] INFO ²âÊÔÊ§°Ü£¡
-2019-11-08 10:24:37,912 test_6my.py[line:94] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-08 10:24:44,036 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 10:24:44,037 test_6my.py[line:101] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-08 10:24:44,038 test_6my.py[line:102] INFO ÃÜÂëÎª£ºmlfv9ch0
-2019-11-08 10:24:44,039 test_6my.py[line:57] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-08 10:24:53,278 mysql_cline.py[line:56] INFO list index out of range
-2019-11-08 10:24:53,279 my_view.py[line:116] INFO ĞŞ¸ÄÊı¾İ¿âĞÅÏ¢: None
-2019-11-08 10:24:53,279 test_6my.py[line:73] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-08 10:58:19,490 desired_caps.py[line:34] INFO start app
-2019-11-08 10:58:48,743 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 10:58:53,574 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 10:58:58,572 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 10:59:23,538 test_6my.py[line:76] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-08 11:10:55,064 desired_caps.py[line:34] INFO start app
-2019-11-08 11:11:31,204 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 11:13:38,948 desired_caps.py[line:34] INFO start app
-2019-11-08 11:14:14,189 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 14:55:53,772 desired_caps.py[line:34] INFO start app
-2019-11-08 14:56:38,695 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 14:56:43,212 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:04:45,472 desired_caps.py[line:34] INFO start app
-2019-11-08 16:05:26,705 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:05:31,070 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:06:49,998 desired_caps.py[line:34] INFO start app
-2019-11-08 16:07:13,510 desired_caps.py[line:34] INFO start app
-2019-11-08 16:07:48,595 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:07:53,371 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:07:58,215 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:08:03,356 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:08:06,870 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-08 16:08:06,903 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-08 16:08:06,943 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-08 16:08:13,114 desired_caps.py[line:34] INFO start app
-2019-11-08 16:08:47,285 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:08:51,955 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:08:56,665 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:09:01,199 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:09:05,789 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:09:10,568 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:09:15,213 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:09:19,946 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:09:24,480 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:09:29,103 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:09:33,845 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:09:38,940 functions.py[line:122] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:19:15,293 desired_caps.py[line:34] INFO start app
-2019-11-08 16:19:48,167 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:19:52,907 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:19:57,648 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:20:02,917 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:20:07,614 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:20:12,137 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:20:16,761 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:20:21,478 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:20:26,046 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:20:30,546 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:20:35,110 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:20:39,724 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:20:44,617 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-08 16:20:49,222 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 10:23:46,409 desired_caps.py[line:34] INFO start app
-2019-11-12 10:24:08,830 run.py[line:19] INFO start run test case....
-2019-11-12 10:24:08,830 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-12 10:25:57,770 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 10:25:57,770 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-12 10:25:57,770 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-12 10:27:10,699 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-12 10:27:16,359 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 10:27:16,949 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 10:27:16,949 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-12 10:27:16,949 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-12 10:27:22,868 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 10:27:23,498 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 10:27:23,498 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-12 10:27:23,498 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-12 10:27:23,498 test_6my.py[line:105] INFO ÃÜÂëÎª£ºbachmezs
-2019-11-12 10:27:23,498 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-12 16:24:19,610 desired_caps.py[line:34] INFO start app
-2019-11-12 16:25:02,296 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:25:06,820 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:25:11,808 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:25:16,655 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:25:21,321 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:25:26,419 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:25:31,352 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:25:36,061 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:25:40,811 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:25:45,401 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:25:50,530 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:25:55,185 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:26:00,394 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:26:05,306 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:46:51,471 desired_caps.py[line:34] INFO start app
-2019-11-12 16:47:26,229 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:47:30,913 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:47:35,243 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:47:39,988 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:47:44,603 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:47:49,458 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:47:54,022 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:47:58,459 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:48:03,677 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:48:07,933 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:48:12,699 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:48:17,569 functions.py[line:142] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 16:48:27,392 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:48:33,889 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:48:40,180 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:48:46,897 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:48:57,072 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:49:03,416 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:49:09,692 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:49:16,322 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:49:26,632 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:49:33,047 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:49:39,674 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:49:46,134 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:49:56,703 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:50:03,437 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:50:10,148 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:50:16,558 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:50:26,608 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:50:32,874 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:57:25,628 desired_caps.py[line:34] INFO start app
-2019-11-12 16:57:58,015 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-12 16:58:14,274 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-12 16:58:19,811 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 16:58:20,470 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:58:20,470 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-12 16:58:20,470 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-12 16:58:26,322 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 16:58:26,922 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 16:58:26,923 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-12 16:58:26,923 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-12 16:58:26,923 test_6my.py[line:105] INFO ÃÜÂëÎª£ºgc8zukv6
-2019-11-12 16:58:26,923 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-12 16:59:40,418 desired_caps.py[line:34] INFO start app
-2019-11-12 17:00:13,115 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-12 17:00:28,801 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-12 17:00:33,962 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 17:00:34,620 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:00:34,621 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-12 17:00:34,621 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-12 17:00:40,342 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 17:00:40,975 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:00:40,975 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-12 17:00:40,976 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-12 17:00:40,976 test_6my.py[line:105] INFO ÃÜÂëÎª£º60rqyn52
-2019-11-12 17:00:40,976 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-12 17:01:02,425 desired_caps.py[line:34] INFO start app
-2019-11-12 17:01:35,494 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:01:35,494 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,494 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:01:35,495 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,495 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:01:35,495 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,495 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:01:35,495 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,495 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:01:35,495 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,496 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:01:35,496 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,496 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:01:35,496 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,496 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:01:35,496 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,497 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:01:35,497 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,497 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:01:35,497 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,497 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:01:35,498 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,498 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:01:35,498 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,498 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:01:35,498 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,499 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:01:35,499 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,499 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:01:35,499 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,499 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:01:35,500 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,500 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:01:35,500 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,500 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:01:35,500 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,500 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:01:35,500 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,501 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:01:35,501 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,501 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:01:35,501 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,501 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:01:35,501 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,501 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:01:35,501 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,502 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:01:35,502 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,502 personal_info.py[line:149] INFO 755668
-2019-11-12 17:01:35,502 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,502 personal_info.py[line:149] INFO 755668
-2019-11-12 17:01:35,502 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,502 personal_info.py[line:149] INFO 755668
-2019-11-12 17:01:35,502 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,503 personal_info.py[line:149] INFO 755668
-2019-11-12 17:01:35,503 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,503 personal_info.py[line:149] INFO 755668
-2019-11-12 17:01:35,503 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,503 personal_info.py[line:149] INFO 755668
-2019-11-12 17:01:35,503 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,503 personal_info.py[line:149] INFO 755668
-2019-11-12 17:01:35,503 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,504 personal_info.py[line:149] INFO 755668
-2019-11-12 17:01:35,504 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,504 personal_info.py[line:149] INFO 755668
-2019-11-12 17:01:35,504 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,504 personal_info.py[line:149] INFO 755668
-2019-11-12 17:01:35,504 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,504 personal_info.py[line:149] INFO 755668
-2019-11-12 17:01:35,504 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,505 personal_info.py[line:149] INFO 755668
-2019-11-12 17:01:35,505 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,505 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:01:35,507 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,507 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:01:35,508 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,508 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:01:35,508 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,508 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:01:35,508 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,508 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:01:35,509 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,509 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:01:35,509 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,509 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:01:35,509 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,509 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:01:35,509 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,509 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:01:35,510 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,510 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:01:35,510 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,510 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:01:35,510 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,510 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:01:35,510 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,510 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:01:35,511 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,511 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:01:35,511 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,511 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:01:35,511 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,511 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:01:35,511 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,511 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:01:35,512 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,512 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:01:35,512 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,512 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:01:35,512 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,512 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:01:35,512 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,513 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:01:35,513 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,513 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:01:35,513 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,513 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:01:35,513 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,514 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:01:35,514 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,514 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:01:35,514 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,514 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:01:35,514 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,514 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:01:35,514 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,515 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:01:35,515 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,515 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:01:35,515 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,515 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:01:35,515 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,515 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:01:35,515 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,516 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:01:35,516 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,516 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:01:35,516 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,516 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:01:35,516 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,516 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:01:35,516 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,517 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:01:35,517 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,517 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:01:35,517 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,517 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:01:35,517 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,517 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:01:35,517 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,518 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:01:35,518 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,518 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:01:35,518 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,518 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:01:35,518 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,518 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:01:35,518 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,519 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:01:35,519 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,519 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:01:35,519 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,519 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:01:35,519 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,519 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:01:35,519 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,520 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:01:35,520 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,520 personal_info.py[line:149] INFO True
-2019-11-12 17:01:35,521 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,521 personal_info.py[line:149] INFO True
-2019-11-12 17:01:35,521 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,521 personal_info.py[line:149] INFO True
-2019-11-12 17:01:35,522 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,522 personal_info.py[line:149] INFO True
-2019-11-12 17:01:35,522 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,522 personal_info.py[line:149] INFO True
-2019-11-12 17:01:35,522 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,522 personal_info.py[line:149] INFO True
-2019-11-12 17:01:35,522 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,522 personal_info.py[line:149] INFO True
-2019-11-12 17:01:35,523 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,523 personal_info.py[line:149] INFO True
-2019-11-12 17:01:35,523 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,523 personal_info.py[line:149] INFO True
-2019-11-12 17:01:35,523 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,523 personal_info.py[line:149] INFO True
-2019-11-12 17:01:35,523 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,523 personal_info.py[line:149] INFO True
-2019-11-12 17:01:35,524 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,524 personal_info.py[line:149] INFO True
-2019-11-12 17:01:35,524 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,524 personal_info.py[line:149] INFO F
-2019-11-12 17:01:35,524 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,524 personal_info.py[line:149] INFO F
-2019-11-12 17:01:35,524 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,524 personal_info.py[line:149] INFO F
-2019-11-12 17:01:35,525 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,525 personal_info.py[line:149] INFO F
-2019-11-12 17:01:35,525 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,525 personal_info.py[line:149] INFO F
-2019-11-12 17:01:35,525 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,525 personal_info.py[line:149] INFO F
-2019-11-12 17:01:35,525 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,525 personal_info.py[line:149] INFO F
-2019-11-12 17:01:35,526 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,526 personal_info.py[line:149] INFO F
-2019-11-12 17:01:35,526 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,526 personal_info.py[line:149] INFO F
-2019-11-12 17:01:35,526 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,526 personal_info.py[line:149] INFO F
-2019-11-12 17:01:35,526 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,526 personal_info.py[line:149] INFO F
-2019-11-12 17:01:35,527 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,527 personal_info.py[line:149] INFO F
-2019-11-12 17:01:35,527 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,527 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:01:35,527 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,527 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:01:35,527 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,527 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:01:35,528 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,528 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:01:35,528 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,528 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:01:35,528 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,528 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:01:35,528 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,529 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:01:35,529 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,529 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:01:35,529 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,529 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:01:35,529 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,529 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:01:35,530 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,530 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:01:35,530 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,530 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:01:35,530 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,531 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:01:35,532 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,532 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:01:35,533 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,533 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:01:35,533 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,534 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:01:35,534 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,534 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:01:35,534 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,534 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:01:35,534 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,535 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:01:35,535 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,535 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:01:35,535 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,535 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:01:35,535 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,535 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:01:35,536 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,536 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:01:35,536 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,536 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:01:35,536 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,536 personal_info.py[line:149] INFO html
-2019-11-12 17:01:35,536 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,536 personal_info.py[line:149] INFO html
-2019-11-12 17:01:35,537 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,537 personal_info.py[line:149] INFO html
-2019-11-12 17:01:35,537 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,537 personal_info.py[line:149] INFO html
-2019-11-12 17:01:35,537 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,537 personal_info.py[line:149] INFO html
-2019-11-12 17:01:35,537 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,537 personal_info.py[line:149] INFO html
-2019-11-12 17:01:35,538 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,538 personal_info.py[line:149] INFO html
-2019-11-12 17:01:35,538 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:01:35,538 personal_info.py[line:149] INFO html
-2019-11-12 17:01:35,538 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,538 personal_info.py[line:149] INFO html
-2019-11-12 17:01:35,538 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,538 personal_info.py[line:149] INFO html
-2019-11-12 17:01:35,539 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,539 personal_info.py[line:149] INFO html
-2019-11-12 17:01:35,539 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,539 personal_info.py[line:149] INFO html
-2019-11-12 17:01:35,539 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:01:35,539 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-12 17:01:51,156 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-12 17:01:56,806 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 17:01:57,444 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:01:57,445 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-12 17:01:57,446 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-12 17:02:02,741 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 17:02:03,366 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:02:03,366 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-12 17:02:03,366 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-12 17:02:03,367 test_6my.py[line:105] INFO ÃÜÂëÎª£ºfcyuldjv
-2019-11-12 17:02:03,367 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-12 17:03:14,689 desired_caps.py[line:34] INFO start app
-2019-11-12 17:03:46,048 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:03:46,048 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,048 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:03:46,048 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,049 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:03:46,049 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,050 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:03:46,050 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,051 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:03:46,051 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,051 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:03:46,051 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,051 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:03:46,051 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,052 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:03:46,052 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,052 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:03:46,052 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,052 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:03:46,052 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,053 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:03:46,053 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,053 personal_info.py[line:149] INFO £©£¨*£©&*9333333333333333333
-2019-11-12 17:03:46,053 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,053 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:03:46,053 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,054 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:03:46,054 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,054 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:03:46,054 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,054 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:03:46,054 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,054 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:03:46,055 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,055 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:03:46,055 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,055 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:03:46,055 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,055 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:03:46,056 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,056 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:03:46,056 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,056 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:03:46,056 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,056 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:03:46,056 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,057 personal_info.py[line:149] INFO ¶ÁÈ¡ÎÄ¼ş
-2019-11-12 17:03:46,057 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,057 personal_info.py[line:149] INFO 755668
-2019-11-12 17:03:46,057 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,057 personal_info.py[line:149] INFO 755668
-2019-11-12 17:03:46,057 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,058 personal_info.py[line:149] INFO 755668
-2019-11-12 17:03:46,058 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,058 personal_info.py[line:149] INFO 755668
-2019-11-12 17:03:46,058 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,058 personal_info.py[line:149] INFO 755668
-2019-11-12 17:03:46,058 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,058 personal_info.py[line:149] INFO 755668
-2019-11-12 17:03:46,059 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,059 personal_info.py[line:149] INFO 755668
-2019-11-12 17:03:46,059 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,059 personal_info.py[line:149] INFO 755668
-2019-11-12 17:03:46,059 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,060 personal_info.py[line:149] INFO 755668
-2019-11-12 17:03:46,060 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,060 personal_info.py[line:149] INFO 755668
-2019-11-12 17:03:46,060 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,060 personal_info.py[line:149] INFO 755668
-2019-11-12 17:03:46,060 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,061 personal_info.py[line:149] INFO 755668
-2019-11-12 17:03:46,061 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,062 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:03:46,063 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,063 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:03:46,063 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,063 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:03:46,064 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,064 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:03:46,064 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,064 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:03:46,064 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,065 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:03:46,065 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,065 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:03:46,065 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,065 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:03:46,065 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,066 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:03:46,066 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,066 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:03:46,066 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,066 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:03:46,066 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,066 personal_info.py[line:149] INFO ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
-2019-11-12 17:03:46,066 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,067 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:03:46,067 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,067 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:03:46,067 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,067 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:03:46,067 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,067 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:03:46,067 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,068 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:03:46,068 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,068 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:03:46,068 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,068 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:03:46,068 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,068 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:03:46,068 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,069 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:03:46,069 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,069 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:03:46,069 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,069 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:03:46,069 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,069 personal_info.py[line:149] INFO 66+6+6
-2019-11-12 17:03:46,069 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,070 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:03:46,070 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,070 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:03:46,070 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,070 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:03:46,070 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,070 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:03:46,071 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,071 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:03:46,071 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,071 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:03:46,071 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,071 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:03:46,071 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,071 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:03:46,072 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,072 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:03:46,072 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,072 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:03:46,072 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,072 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:03:46,072 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,072 personal_info.py[line:149] INFO 6+-96
-2019-11-12 17:03:46,073 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,073 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:03:46,073 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,073 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:03:46,073 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,073 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:03:46,073 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,073 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:03:46,074 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,074 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:03:46,074 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,074 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:03:46,074 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,074 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:03:46,074 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,074 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:03:46,074 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,075 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:03:46,075 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,075 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:03:46,075 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,075 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:03:46,075 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,075 personal_info.py[line:149] INFO WERWERerer
-2019-11-12 17:03:46,076 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,076 personal_info.py[line:149] INFO True
-2019-11-12 17:03:46,076 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,076 personal_info.py[line:149] INFO True
-2019-11-12 17:03:46,076 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,076 personal_info.py[line:149] INFO True
-2019-11-12 17:03:46,076 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,076 personal_info.py[line:149] INFO True
-2019-11-12 17:03:46,077 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,077 personal_info.py[line:149] INFO True
-2019-11-12 17:03:46,077 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,077 personal_info.py[line:149] INFO True
-2019-11-12 17:03:46,077 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,077 personal_info.py[line:149] INFO True
-2019-11-12 17:03:46,077 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,077 personal_info.py[line:149] INFO True
-2019-11-12 17:03:46,077 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,078 personal_info.py[line:149] INFO True
-2019-11-12 17:03:46,078 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,078 personal_info.py[line:149] INFO True
-2019-11-12 17:03:46,078 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,078 personal_info.py[line:149] INFO True
-2019-11-12 17:03:46,078 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,078 personal_info.py[line:149] INFO True
-2019-11-12 17:03:46,079 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,079 personal_info.py[line:149] INFO F
-2019-11-12 17:03:46,079 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,079 personal_info.py[line:149] INFO F
-2019-11-12 17:03:46,079 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,079 personal_info.py[line:149] INFO F
-2019-11-12 17:03:46,079 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,079 personal_info.py[line:149] INFO F
-2019-11-12 17:03:46,080 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,080 personal_info.py[line:149] INFO F
-2019-11-12 17:03:46,080 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,080 personal_info.py[line:149] INFO F
-2019-11-12 17:03:46,080 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,080 personal_info.py[line:149] INFO F
-2019-11-12 17:03:46,080 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,080 personal_info.py[line:149] INFO F
-2019-11-12 17:03:46,081 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,081 personal_info.py[line:149] INFO F
-2019-11-12 17:03:46,081 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,081 personal_info.py[line:149] INFO F
-2019-11-12 17:03:46,081 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,081 personal_info.py[line:149] INFO F
-2019-11-12 17:03:46,081 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,081 personal_info.py[line:149] INFO F
-2019-11-12 17:03:46,081 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,082 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:03:46,082 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,082 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:03:46,083 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,083 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:03:46,083 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,084 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:03:46,084 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,084 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:03:46,084 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,084 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:03:46,084 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,084 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:03:46,084 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,085 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:03:46,085 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,085 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:03:46,085 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,085 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:03:46,085 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,085 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:03:46,085 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,086 personal_info.py[line:149] INFO QWEQWE
-2019-11-12 17:03:46,086 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,086 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:03:46,086 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,086 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:03:46,086 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,086 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:03:46,087 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,087 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:03:46,087 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,087 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:03:46,087 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,087 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:03:46,087 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,087 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:03:46,088 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,088 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:03:46,088 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,088 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:03:46,088 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,088 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:03:46,088 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,088 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:03:46,088 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,089 personal_info.py[line:149] INFO 1..0.0
-2019-11-12 17:03:46,089 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,089 personal_info.py[line:149] INFO html
-2019-11-12 17:03:46,089 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,089 personal_info.py[line:149] INFO html
-2019-11-12 17:03:46,089 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,089 personal_info.py[line:149] INFO html
-2019-11-12 17:03:46,090 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,090 personal_info.py[line:149] INFO html
-2019-11-12 17:03:46,090 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,090 personal_info.py[line:149] INFO html
-2019-11-12 17:03:46,090 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,090 personal_info.py[line:149] INFO html
-2019-11-12 17:03:46,090 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,090 personal_info.py[line:149] INFO html
-2019-11-12 17:03:46,091 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸ºÍÊı×Ö
-2019-11-12 17:03:46,091 personal_info.py[line:149] INFO html
-2019-11-12 17:03:46,092 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,092 personal_info.py[line:149] INFO html
-2019-11-12 17:03:46,092 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,092 personal_info.py[line:149] INFO html
-2019-11-12 17:03:46,092 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,093 personal_info.py[line:149] INFO html
-2019-11-12 17:03:46,093 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,094 personal_info.py[line:149] INFO html
-2019-11-12 17:03:46,094 personal_info.py[line:150] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:03:46,094 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-12 17:04:02,640 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-12 17:04:08,080 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 17:04:08,726 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:04:08,726 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-12 17:04:08,727 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-12 17:04:13,990 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 17:04:14,607 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:04:14,608 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-12 17:04:14,609 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-12 17:04:14,610 test_6my.py[line:105] INFO ÃÜÂëÎª£º1uvac83g
-2019-11-12 17:04:14,610 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-12 17:05:37,606 desired_caps.py[line:34] INFO start app
-2019-11-12 17:37:44,919 desired_caps.py[line:34] INFO start app
-2019-11-12 17:38:39,500 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-12 17:38:44,820 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 17:38:45,466 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:38:45,466 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-12 17:38:45,467 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-12 17:38:51,333 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 17:38:51,973 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:38:51,973 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-12 17:38:51,974 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-12 17:38:51,974 test_6my.py[line:105] INFO ÃÜÂëÎª£ºtazncxwj
-2019-11-12 17:38:51,975 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-12 17:43:19,348 desired_caps.py[line:34] INFO start app
-2019-11-12 17:43:53,796 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:43:58,183 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:44:03,523 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:44:08,619 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:44:12,521 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:44:17,321 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:44:21,749 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:44:26,416 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:44:30,905 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:44:34,992 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:44:40,188 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:44:45,355 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:44:55,455 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:45:05,990 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:45:16,379 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:45:27,072 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:45:37,052 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:45:48,473 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:46:51,099 desired_caps.py[line:34] INFO start app
-2019-11-12 17:47:27,232 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:47:31,601 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:47:35,952 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:47:41,097 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:47:44,997 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:47:49,595 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:47:53,860 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:47:58,496 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:48:03,277 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:48:08,102 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:48:13,275 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:48:17,448 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:48:27,870 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:48:34,087 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:49:25,188 desired_caps.py[line:34] INFO start app
-2019-11-12 17:50:00,590 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:50:05,099 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:50:09,560 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:50:14,163 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:50:18,605 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:50:23,200 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:50:27,768 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:50:32,568 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:50:37,157 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:50:41,718 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:50:45,793 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:50:50,393 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:51:00,293 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:51:06,561 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:51:11,940 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:51:16,868 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:51:27,559 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:52:05,615 desired_caps.py[line:34] INFO start app
-2019-11-12 17:52:41,762 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:52:46,513 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:52:51,270 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:52:56,078 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:53:01,801 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:53:05,998 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:53:10,789 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:53:14,994 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:53:19,534 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:53:23,744 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:53:27,963 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:53:32,774 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:53:37,668 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-12 17:53:42,608 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:53:47,621 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:53:57,650 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:54:04,254 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:54:09,354 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:54:14,512 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:54:25,647 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:54:32,250 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 17:54:38,242 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:54:42,606 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:54:47,313 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:54:52,593 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:54:58,022 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:54:58,350 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-12 17:55:03,916 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:57:48,664 desired_caps.py[line:34] INFO start app
-2019-11-12 17:58:21,829 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:58:26,821 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:58:31,151 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:58:36,025 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:58:40,848 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:58:45,711 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:58:50,165 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:58:55,057 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:59:00,443 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:59:04,656 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:59:09,203 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:59:14,544 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 17:59:19,381 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-12 17:59:25,218 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:59:30,957 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:59:35,709 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-12 17:59:40,595 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:59:46,039 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 17:59:51,484 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-12 17:59:56,585 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 18:00:01,997 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 18:00:07,238 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 18:00:12,583 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 18:00:17,428 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-12 18:00:23,827 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-12 18:00:24,134 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-12 18:00:56,494 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-12 18:01:09,500 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 18:01:09,501 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-12 18:01:09,502 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-12 18:01:15,423 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-12 18:01:16,103 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-12 18:01:16,104 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-12 18:01:16,104 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-12 18:01:16,104 test_6my.py[line:105] INFO ÃÜÂëÎª£ºmbr5gamx
-2019-11-12 18:01:16,105 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-13 09:22:48,334 desired_caps.py[line:34] INFO start app
-2019-11-13 09:23:14,043 run.py[line:19] INFO start run test case....
-2019-11-13 09:23:14,043 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-13 09:24:54,591 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 09:24:54,601 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-13 09:24:54,601 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-13 09:28:09,688 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 09:28:11,248 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-13 09:28:28,837 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-13 09:28:28,837 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-13 09:28:28,837 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-13 09:29:17,101 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-13 09:29:22,755 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 09:29:23,405 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 09:29:23,405 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-13 09:29:23,415 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-13 09:35:07,105 desired_caps.py[line:34] INFO start app
-2019-11-13 09:35:26,774 run.py[line:19] INFO start run test case....
-2019-11-13 09:35:26,774 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-13 09:37:11,262 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 09:37:11,262 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-13 09:37:11,262 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-13 09:40:26,282 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 09:40:27,742 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-13 09:40:44,825 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-13 09:40:44,825 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-13 09:40:44,825 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-13 09:41:30,796 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-13 09:41:35,869 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 09:41:36,489 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 09:41:36,499 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-13 09:41:36,499 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-13 09:41:41,729 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 09:41:42,359 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 09:41:42,359 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-13 09:41:42,359 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-13 09:41:42,359 test_6my.py[line:105] INFO ÃÜÂëÎª£ºxc2hnrpo
-2019-11-13 09:41:42,359 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-13 09:49:48,724 desired_caps.py[line:34] INFO start app
-2019-11-13 09:50:07,771 run.py[line:19] INFO start run test case....
-2019-11-13 09:50:07,771 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-13 09:51:54,522 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 09:51:54,532 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-13 09:51:54,532 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-13 10:42:15,250 desired_caps.py[line:34] INFO start app
-2019-11-13 10:42:36,959 run.py[line:19] INFO start run test case....
-2019-11-13 10:42:36,959 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-13 10:43:14,551 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:43:24,710 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:43:35,756 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:44:43,344 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:44:43,344 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-13 10:44:43,344 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-13 10:47:59,750 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 10:48:01,791 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-13 10:48:19,017 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-13 10:48:19,018 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-13 10:48:19,018 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-13 10:49:18,477 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:49:23,700 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:49:28,070 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:49:33,196 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:49:37,530 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:49:42,658 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:49:47,314 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:49:51,905 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:49:56,934 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:50:01,621 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:50:06,062 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:50:10,956 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:50:20,979 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:50:27,649 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:50:38,613 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:50:45,588 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:50:56,206 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:51:02,653 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:51:13,592 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:51:19,756 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:51:31,066 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:51:37,736 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:51:48,446 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:51:54,686 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:52:05,569 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:52:12,076 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:52:23,091 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:52:29,857 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:52:41,433 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:52:47,676 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:52:58,220 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:53:04,796 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:53:14,534 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:53:20,853 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:53:32,034 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:53:38,326 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:53:44,096 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 10:53:44,786 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-13 10:54:14,536 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-13 10:54:20,026 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 10:54:20,706 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:54:20,706 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-13 10:54:20,706 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-13 10:54:26,586 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 10:54:27,266 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:54:27,266 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-13 10:54:27,266 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-13 10:54:27,266 test_6my.py[line:105] INFO ÃÜÂëÎª£ºxdzh4qfk
-2019-11-13 10:54:27,266 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-13 10:57:50,982 desired_caps.py[line:34] INFO start app
-2019-11-13 10:58:10,040 run.py[line:19] INFO start run test case....
-2019-11-13 10:58:10,040 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-13 10:59:59,670 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 10:59:59,671 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-13 10:59:59,671 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-13 11:02:11,845 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-13 11:02:17,148 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 11:02:17,741 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 11:02:17,741 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-13 11:02:17,742 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-13 11:02:23,447 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 11:02:24,074 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 11:02:24,074 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-13 11:02:24,074 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-13 11:02:24,074 test_6my.py[line:105] INFO ÃÜÂëÎª£ºzattejln
-2019-11-13 11:02:24,074 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-13 11:19:31,164 desired_caps.py[line:34] INFO start app
-2019-11-13 11:19:48,699 run.py[line:19] INFO start run test case....
-2019-11-13 11:19:48,699 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-13 11:21:42,370 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 11:21:42,371 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-13 11:21:42,372 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-13 11:25:20,480 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 11:25:22,024 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-13 11:25:39,289 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-13 11:25:39,289 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-13 11:25:39,290 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-13 11:26:33,208 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:26:37,755 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:26:42,560 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:26:47,383 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:26:52,519 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:26:56,806 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:27:01,632 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:27:06,242 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:27:10,904 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:27:15,657 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:27:20,610 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:27:25,241 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:27:29,938 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-13 11:27:36,290 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-13 11:27:41,535 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-13 11:27:46,012 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-13 11:27:51,696 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-13 11:27:56,847 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-13 11:28:02,711 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-13 11:28:07,779 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-13 11:28:12,816 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-13 11:28:17,915 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-13 11:28:23,868 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-13 11:28:29,037 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-13 11:28:34,626 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-13 11:28:34,916 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-13 11:29:07,546 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-13 11:29:12,596 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 11:29:13,244 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 11:29:13,244 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-13 11:29:13,245 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-13 11:29:19,428 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-13 11:29:20,023 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-13 11:29:20,024 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-13 11:29:20,024 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-13 11:29:20,025 test_6my.py[line:105] INFO ÃÜÂëÎª£º3wdohiqn
-2019-11-13 11:29:20,025 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-14 12:47:10,374 desired_caps.py[line:34] INFO start app
-2019-11-14 12:47:34,541 run.py[line:19] INFO start run test case....
-2019-11-14 12:47:34,542 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-14 12:49:22,944 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 12:49:22,944 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-14 12:49:22,945 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-14 12:52:39,244 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 12:52:40,851 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-14 12:52:58,694 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-14 12:52:58,694 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-14 12:52:58,695 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-14 12:53:49,456 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 12:53:49,456 test_6my.py[line:25] INFO ²âÊÔÊ§°Ü£¡
-2019-11-14 12:54:16,332 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 12:54:21,568 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 12:54:22,229 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 12:54:22,229 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-14 12:54:22,230 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-14 12:54:27,710 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 12:54:28,329 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 12:54:28,329 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-14 12:54:28,329 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-14 12:54:28,329 test_6my.py[line:105] INFO ÃÜÂëÎª£ºu0yiaxvr
-2019-11-14 12:54:28,329 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-14 13:32:23,853 desired_caps.py[line:34] INFO start app
-2019-11-14 13:32:40,068 run.py[line:19] INFO start run test case....
-2019-11-14 13:32:40,069 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-14 13:34:31,668 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:34:31,669 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-14 13:34:31,670 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-14 13:36:31,175 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:36:35,913 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:36:41,085 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:36:45,767 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:36:50,674 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:36:55,498 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:37:00,450 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:37:04,917 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:37:09,559 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:37:14,093 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:37:18,642 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:37:23,219 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:37:27,684 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-14 13:37:34,045 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-14 13:37:39,133 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-14 13:37:44,003 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-14 13:37:48,768 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-14 13:37:53,619 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-14 13:37:59,757 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-14 13:38:05,141 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-14 13:38:10,094 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-14 13:38:15,011 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-14 13:38:20,345 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-14 13:38:25,685 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-14 13:38:31,371 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:38:31,669 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-14 13:39:00,309 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 13:39:05,972 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 13:39:06,639 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:39:06,640 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-14 13:39:06,640 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-14 13:39:12,058 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 13:39:12,746 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:39:12,747 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-14 13:39:12,748 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-14 13:39:12,749 test_6my.py[line:105] INFO ÃÜÂëÎª£ºw7va69tg
-2019-11-14 13:39:12,749 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-14 13:46:00,189 desired_caps.py[line:34] INFO start app
-2019-11-14 13:46:17,126 run.py[line:19] INFO start run test case....
-2019-11-14 13:46:17,126 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-14 13:46:32,370 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:46:42,781 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:46:52,935 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:47:03,561 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:47:18,480 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:48:05,366 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:48:05,367 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-14 13:48:05,368 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-14 13:48:43,748 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 13:49:01,725 desired_caps.py[line:34] INFO start app
-2019-11-14 13:49:18,977 run.py[line:19] INFO start run test case....
-2019-11-14 13:49:18,977 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-14 13:51:06,801 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:51:06,801 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-14 13:51:06,802 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-14 13:54:01,691 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:54:06,205 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:54:10,859 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:54:15,647 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:54:20,127 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:54:24,856 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:54:29,452 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:54:34,578 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:54:39,011 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:54:43,274 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:54:47,629 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:54:52,850 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:55:03,350 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:55:09,868 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:55:20,537 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:55:26,875 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:55:37,789 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:55:44,394 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:55:54,634 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:56:01,097 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:56:11,313 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:56:17,703 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:56:27,978 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:56:34,499 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:56:44,874 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:56:51,761 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:57:03,386 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:57:10,168 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:57:19,916 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:57:24,711 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜĞŞ¸ÄÒ»´Î
-2019-11-14 13:57:24,986 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-14 13:57:34,022 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:57:38,089 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:57:42,908 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:57:47,669 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:57:53,295 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:57:57,188 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:58:03,014 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:58:08,089 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:58:13,567 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:58:18,787 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:58:24,390 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:58:28,691 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:58:33,640 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:58:39,158 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 13:58:39,510 test_6my.py[line:47] INFO ²âÊÔÊ§°Ü
-2019-11-14 13:59:04,458 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 13:59:09,648 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 13:59:10,317 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:59:10,318 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-14 13:59:10,319 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-14 13:59:15,817 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 13:59:16,510 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 13:59:16,510 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-14 13:59:16,510 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-14 13:59:16,511 test_6my.py[line:105] INFO ÃÜÂëÎª£ºqn5hjlsb
-2019-11-14 13:59:16,511 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-14 14:00:53,540 desired_caps.py[line:34] INFO start app
-2019-11-14 14:01:10,051 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-14 14:05:05,747 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 14:05:07,232 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-14 14:05:25,243 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-14 14:05:25,243 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-14 14:05:25,244 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-14 14:23:44,851 desired_caps.py[line:34] INFO start app
-2019-11-14 14:24:17,046 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:24:21,862 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:24:26,497 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:24:31,376 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:24:36,146 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:24:40,655 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:24:45,201 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:24:49,773 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:24:53,999 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:24:58,615 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:25:03,427 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:25:07,919 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:25:17,281 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:25:23,910 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:25:35,451 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:25:42,127 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:25:52,982 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:26:05,046 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 14:26:07,066 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-14 14:26:09,095 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-14 14:33:11,719 desired_caps.py[line:34] INFO start app
-2019-11-14 14:33:45,131 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:33:49,889 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:33:54,784 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:33:59,924 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:34:04,354 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:34:09,083 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:34:13,845 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:34:18,567 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:34:23,358 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:34:28,048 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:34:33,071 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:34:38,088 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:34:47,785 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:34:54,271 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:34:54,458 personal_info.py[line:139] INFO --------------------------------------******************-------------------------
-2019-11-14 14:34:54,459 personal_info.py[line:140] INFO False
-2019-11-14 14:35:04,775 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:35:11,433 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:35:11,672 personal_info.py[line:139] INFO --------------------------------------******************-------------------------
-2019-11-14 14:35:11,672 personal_info.py[line:140] INFO False
-2019-11-14 14:35:22,270 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:35:28,736 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:35:29,372 personal_info.py[line:139] INFO --------------------------------------******************-------------------------
-2019-11-14 14:35:29,373 personal_info.py[line:140] INFO False
-2019-11-14 14:35:39,957 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:35:46,886 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:35:47,123 personal_info.py[line:139] INFO --------------------------------------******************-------------------------
-2019-11-14 14:35:47,123 personal_info.py[line:140] INFO False
-2019-11-14 14:36:42,315 desired_caps.py[line:34] INFO start app
-2019-11-14 14:37:15,631 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:37:20,876 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:37:25,528 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:37:30,195 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:37:35,179 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:37:39,759 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:37:43,902 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:37:48,540 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:37:53,547 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:37:58,084 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:38:03,048 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:38:07,590 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:38:17,289 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:38:23,866 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:38:24,075 personal_info.py[line:134] INFO goback
-2019-11-14 14:38:24,076 personal_info.py[line:141] INFO --------------------------------------******************-------------------------
-2019-11-14 14:38:24,076 personal_info.py[line:142] INFO False
-2019-11-14 14:42:16,925 desired_caps.py[line:34] INFO start app
-2019-11-14 14:42:33,346 run.py[line:19] INFO start run test case....
-2019-11-14 14:42:33,346 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-14 14:44:20,210 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:44:20,211 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-14 14:44:20,212 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-14 14:47:33,618 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 14:47:35,565 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-14 14:47:53,067 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-14 14:47:53,068 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-14 14:47:53,068 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-14 14:48:46,987 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:48:51,750 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:48:57,439 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:49:01,707 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:49:06,802 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:49:11,746 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:49:16,528 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:49:21,141 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:49:25,197 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:49:29,720 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:49:34,302 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:49:39,161 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:49:48,904 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 14:49:49,125 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-14 14:49:56,458 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:50:01,707 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:50:05,876 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:50:10,682 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:50:15,626 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:50:20,318 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:50:25,876 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:50:30,888 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:50:35,571 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:50:40,922 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:50:45,686 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:50:50,800 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:50:55,654 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:51:00,469 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 14:51:01,466 test_6my.py[line:47] INFO ²âÊÔÊ§°Ü
-2019-11-14 14:51:24,837 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 15:14:00,512 desired_caps.py[line:34] INFO start app
-2019-11-14 15:14:30,910 desired_caps.py[line:34] INFO start app
-2019-11-14 15:15:08,194 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:15:12,384 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:15:17,285 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:15:22,519 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:15:26,794 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:15:31,663 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:15:36,200 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:15:41,067 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:15:45,724 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:15:50,350 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:15:56,157 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:16:00,210 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:16:10,069 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:16:10,305 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:16:18,053 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:16:22,248 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:16:27,061 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:16:31,731 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:16:36,594 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:16:41,208 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:16:45,416 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:16:49,396 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:16:54,053 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:16:58,245 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:17:03,723 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:17:08,776 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:17:13,362 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:17:17,495 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:17:17,900 test_6my.py[line:47] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:17:38,871 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 15:17:44,121 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 15:17:44,754 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:17:44,755 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-14 15:17:44,756 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-14 15:17:50,605 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 15:17:51,316 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:17:51,316 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:17:51,316 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-14 15:17:51,317 test_6my.py[line:105] INFO ÃÜÂëÎª£ºpbhqfmku
-2019-11-14 15:17:51,317 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-14 15:32:36,428 desired_caps.py[line:34] INFO start app
-2019-11-14 15:33:10,797 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:33:15,693 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:33:19,873 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:33:25,108 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:33:29,903 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:33:35,012 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:33:38,952 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:33:43,183 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:33:47,525 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:33:53,036 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:33:57,415 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:34:02,956 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:34:12,890 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:34:13,121 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:34:21,031 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:34:25,228 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:34:30,199 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:34:34,915 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:34:39,841 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:34:44,927 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:34:49,746 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:34:53,819 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:34:57,888 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:35:03,176 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:35:07,291 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:35:11,439 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:35:16,158 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:35:20,755 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:35:21,073 test_6my.py[line:47] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:35:41,484 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 15:35:47,137 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 15:35:47,775 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:35:47,776 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-14 15:35:47,777 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-14 15:35:53,524 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 15:35:54,218 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:35:54,218 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:35:54,218 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-14 15:35:54,219 test_6my.py[line:105] INFO ÃÜÂëÎª£ºdxvtpewp
-2019-11-14 15:35:54,219 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-14 15:36:35,289 desired_caps.py[line:34] INFO start app
-2019-11-14 15:36:51,847 run.py[line:19] INFO start run test case....
-2019-11-14 15:36:51,848 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-14 15:37:40,139 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-14 15:38:35,399 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:38:39,459 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:38:44,898 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:38:49,466 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:38:53,592 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:38:58,312 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:39:03,612 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:39:08,172 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:39:13,805 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:39:18,111 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:39:22,614 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:39:27,220 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:39:42,731 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:39:43,004 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:39:50,119 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:39:55,226 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:00,462 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:05,195 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:10,085 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:14,005 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:18,704 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:22,694 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:27,209 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:31,893 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:36,555 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:41,538 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:46,226 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:50,720 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:40:50,981 test_6my.py[line:47] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:41:11,392 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 15:41:16,599 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 15:41:17,239 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:41:17,240 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-14 15:41:17,241 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-14 15:41:23,310 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 15:41:24,015 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:41:24,016 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:41:24,016 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-14 15:41:24,017 test_6my.py[line:105] INFO ÃÜÂëÎª£ºhwnpembs
-2019-11-14 15:41:24,017 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-14 15:45:43,702 desired_caps.py[line:34] INFO start app
-2019-11-14 15:46:54,359 desired_caps.py[line:34] INFO start app
-2019-11-14 15:47:15,030 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 15:47:15,088 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-14 15:47:15,111 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-14 15:47:23,817 desired_caps.py[line:34] INFO start app
-2019-11-14 15:47:56,175 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:48:01,925 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:48:06,306 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:48:10,593 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:48:14,861 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:48:19,020 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:48:24,061 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:48:28,653 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:48:34,007 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:48:38,297 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:48:43,468 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:48:48,081 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:48:58,025 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:48:58,243 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:49:05,399 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:49:10,211 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:49:15,015 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:49:19,302 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:49:23,881 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:49:28,301 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:49:33,308 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:49:38,281 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:49:42,799 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:49:47,872 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:49:52,445 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:49:57,920 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:50:02,835 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:50:07,519 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:50:08,245 test_6my.py[line:47] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:50:28,434 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 15:50:33,621 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 15:50:34,265 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:50:34,265 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-14 15:50:34,266 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-14 15:50:39,806 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 15:50:40,511 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:50:40,512 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:50:40,512 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-14 15:50:40,512 test_6my.py[line:105] INFO ÃÜÂëÎª£ºquwjej5g
-2019-11-14 15:50:40,513 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-14 15:51:18,836 desired_caps.py[line:34] INFO start app
-2019-11-14 15:51:53,314 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:51:58,251 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:52:03,680 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:52:08,716 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:52:13,627 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:52:18,670 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:52:22,988 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:52:27,832 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:52:32,194 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:52:36,218 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:52:40,710 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:52:45,262 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:52:54,575 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:52:54,800 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:53:02,957 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:53:07,890 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:53:12,988 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:53:17,467 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:53:22,060 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:53:26,807 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:53:30,924 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:53:34,981 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:53:39,230 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:53:43,775 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:53:48,235 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:53:53,046 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:53:58,201 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:54:03,764 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 15:54:04,040 test_6my.py[line:47] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:54:24,997 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 15:54:30,274 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 15:54:30,917 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:54:30,917 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-14 15:54:30,918 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-14 15:54:34,948 desired_caps.py[line:34] INFO start app
-2019-11-14 15:55:17,012 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:55:17,265 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:55:29,442 test_6my.py[line:80] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 15:55:34,778 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 15:55:35,423 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:55:35,424 test_6my.py[line:95] INFO ²âÊÔÊ§°Ü£¡
-2019-11-14 15:55:35,425 test_6my.py[line:98] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-14 15:55:38,711 desired_caps.py[line:34] INFO start app
-2019-11-14 15:56:18,219 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 15:56:18,515 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-14 15:56:41,747 test_6my.py[line:80] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 16:04:28,396 desired_caps.py[line:34] INFO start app
-2019-11-14 16:05:03,356 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:05:08,381 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:05:13,086 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:05:17,967 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:05:23,020 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:05:27,653 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:05:32,483 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:05:37,120 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:05:41,776 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:05:46,477 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:05:51,343 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:05:55,989 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:06:05,910 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 16:06:06,602 test_6my.py[line:40] INFO ²âÊÔÊ§°Ü
-2019-11-14 16:06:13,845 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:06:18,726 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:06:23,304 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:06:27,848 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:06:32,426 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:06:36,993 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:06:41,726 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:06:46,466 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:06:50,809 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:06:55,584 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:06:59,954 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:07:04,935 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:07:09,785 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:07:14,453 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-14 16:07:14,819 test_6my.py[line:47] INFO ²âÊÔÊ§°Ü
-2019-11-14 16:07:35,795 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-14 16:07:41,468 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 16:07:42,130 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 16:07:42,130 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-14 16:07:42,131 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-14 16:07:47,563 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-14 16:07:48,296 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-14 16:07:48,297 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-14 16:07:48,297 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-14 16:07:48,297 test_6my.py[line:105] INFO ÃÜÂëÎª£ºm3c1suvm
-2019-11-14 16:07:48,297 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-15 14:54:53,533 desired_caps.py[line:34] INFO start app
-2019-11-15 14:55:38,188 desired_caps.py[line:34] INFO start app
-2019-11-15 14:56:11,565 desired_caps.py[line:34] INFO start app
-2019-11-15 14:56:46,611 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 14:56:46,612 test_6my.py[line:25] INFO ²âÊÔÊ§°Ü£¡
-2019-11-15 14:57:14,450 test_6my.py[line:79] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-15 14:57:19,657 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 14:57:22,907 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 14:57:22,907 test_6my.py[line:94] INFO ²âÊÔÊ§°Ü£¡
-2019-11-15 14:57:22,908 test_6my.py[line:97] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-15 14:57:28,681 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 14:57:31,898 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 14:57:31,898 test_6my.py[line:103] INFO ²âÊÔÊ§°Ü
-2019-11-15 14:57:31,899 test_6my.py[line:104] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-15 14:57:31,901 test_6my.py[line:105] INFO ÃÜÂëÎª£º08freocg
-2019-11-15 14:57:31,901 test_6my.py[line:60] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-15 15:03:56,545 desired_caps.py[line:34] INFO start app
-2019-11-15 15:04:24,254 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:04:29,393 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:04:33,893 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:04:38,563 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:04:43,802 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:04:48,105 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:04:52,734 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:04:57,504 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:05:02,104 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:05:06,784 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:05:11,413 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:05:16,193 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:05:20,063 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-15 15:05:24,953 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-15 15:05:29,942 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-15 15:05:36,453 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-15 15:05:41,764 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-15 15:05:46,912 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-15 15:05:51,315 functions.py[line:146] INFO ÄÔÍ¼ºÅÖ»ÄÜ°üº¬Ğ¡Ğ´×ÖÄ¸»òÊı×Ö
-2019-11-15 15:05:56,081 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-15 15:06:01,621 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-15 15:06:06,470 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-15 15:06:11,205 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-15 15:06:15,446 functions.py[line:146] INFO ÄÔÍ¼ºÅÎª8Î»Êı
-2019-11-15 15:06:20,876 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 15:06:21,145 test_6my.py[line:42] INFO ²âÊÔÊ§°Ü
-2019-11-15 15:06:46,786 test_6my.py[line:81] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-15 15:06:52,464 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 15:06:53,154 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 15:06:53,154 test_6my.py[line:96] INFO ²âÊÔÊ§°Ü£¡
-2019-11-15 15:06:53,158 test_6my.py[line:99] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-15 15:06:58,758 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 15:06:59,498 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 15:06:59,499 test_6my.py[line:105] INFO ²âÊÔÊ§°Ü
-2019-11-15 15:06:59,499 test_6my.py[line:106] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-15 15:06:59,499 test_6my.py[line:107] INFO ÃÜÂëÎª£ºqpwksry5
-2019-11-15 15:06:59,500 test_6my.py[line:62] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-15 17:05:32,981 desired_caps.py[line:34] INFO start app
-2019-11-15 17:06:04,592 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:06:09,832 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:06:14,661 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:06:19,001 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:06:23,161 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:06:27,890 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:06:32,520 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:06:36,799 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:06:41,509 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:06:46,419 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:06:51,169 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:06:55,928 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:07:06,238 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:07:06,498 test_6my.py[line:42] INFO ²âÊÔÊ§°Ü
-2019-11-15 17:07:13,768 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:07:18,347 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:07:23,407 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:07:28,172 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:07:33,092 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:07:38,031 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:07:42,061 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:07:46,671 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:07:51,219 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:07:55,283 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:08:00,383 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:08:04,712 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:08:09,262 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:08:13,852 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-15 17:08:14,472 test_6my.py[line:49] INFO ²âÊÔÊ§°Ü
-2019-11-15 17:08:35,291 test_6my.py[line:81] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-15 17:08:40,460 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 17:08:41,070 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:08:41,070 test_6my.py[line:96] INFO ²âÊÔÊ§°Ü£¡
-2019-11-15 17:08:41,070 test_6my.py[line:99] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-15 17:08:46,720 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 17:08:47,430 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:08:47,430 test_6my.py[line:105] INFO ²âÊÔÊ§°Ü
-2019-11-15 17:08:47,430 test_6my.py[line:106] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-15 17:08:47,430 test_6my.py[line:107] INFO ÃÜÂëÎª£º1bsg5wlx
-2019-11-15 17:08:47,430 test_6my.py[line:62] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-15 17:12:31,744 desired_caps.py[line:34] INFO start app
-2019-11-15 17:13:16,034 test_6my.py[line:81] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-15 17:19:58,697 desired_caps.py[line:34] INFO start app
-2019-11-15 17:20:43,116 test_6my.py[line:81] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-15 17:20:48,412 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 17:20:49,064 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:20:49,064 test_6my.py[line:96] INFO ²âÊÔÊ§°Ü£¡
-2019-11-15 17:20:49,065 test_6my.py[line:99] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-15 17:24:12,401 desired_caps.py[line:34] INFO start app
-2019-11-15 17:25:01,063 test_6my.py[line:81] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-15 17:25:06,612 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 17:25:07,252 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:25:07,252 test_6my.py[line:96] INFO ²âÊÔÊ§°Ü£¡
-2019-11-15 17:25:07,253 test_6my.py[line:99] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-15 17:25:13,176 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 17:25:13,906 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:25:13,906 test_6my.py[line:105] INFO ²âÊÔÊ§°Ü
-2019-11-15 17:25:13,907 test_6my.py[line:106] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-15 17:25:13,907 test_6my.py[line:107] INFO ÃÜÂëÎª£ºunyv6wi2
-2019-11-15 17:25:13,908 test_6my.py[line:62] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-15 17:28:22,366 desired_caps.py[line:34] INFO start app
-2019-11-15 17:29:05,048 test_6my.py[line:81] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-15 17:29:10,528 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 17:29:11,195 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:29:11,196 test_6my.py[line:96] INFO ²âÊÔÊ§°Ü£¡
-2019-11-15 17:29:11,197 test_6my.py[line:99] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-15 17:29:16,793 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 17:29:17,529 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:29:17,530 test_6my.py[line:105] INFO ²âÊÔÊ§°Ü
-2019-11-15 17:29:17,530 test_6my.py[line:106] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-15 17:29:17,530 test_6my.py[line:107] INFO ÃÜÂëÎª£ºvykh29on
-2019-11-15 17:29:17,530 test_6my.py[line:62] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-15 17:30:14,324 desired_caps.py[line:34] INFO start app
-2019-11-15 17:30:58,804 functions.py[line:146] INFO ·¢ËÍÍê³É
-2019-11-15 17:31:09,961 test_6my.py[line:81] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-15 17:31:15,043 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 17:31:15,754 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:31:15,754 test_6my.py[line:96] INFO ²âÊÔÊ§°Ü£¡
-2019-11-15 17:31:15,755 test_6my.py[line:99] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-15 17:32:23,945 desired_caps.py[line:34] INFO start app
-2019-11-15 17:33:07,640 functions.py[line:146] INFO ·¢ËÍÍê³É
-2019-11-15 17:33:19,671 test_6my.py[line:81] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-15 17:33:24,824 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 17:33:25,517 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:33:25,518 test_6my.py[line:96] INFO ²âÊÔÊ§°Ü£¡
-2019-11-15 17:33:25,519 test_6my.py[line:99] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-15 17:33:31,107 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 17:33:31,741 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:33:31,741 test_6my.py[line:105] INFO ²âÊÔÊ§°Ü
-2019-11-15 17:33:31,742 test_6my.py[line:106] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-15 17:33:31,742 test_6my.py[line:107] INFO ÃÜÂëÎª£ºe6duqe8o
-2019-11-15 17:33:31,742 test_6my.py[line:62] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-15 17:33:55,891 desired_caps.py[line:34] INFO start app
-2019-11-15 17:34:39,629 functions.py[line:146] INFO ·¢ËÍÍê³É
-2019-11-15 17:34:51,448 test_6my.py[line:81] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-15 17:35:04,504 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:35:04,504 test_6my.py[line:96] INFO ²âÊÔÊ§°Ü£¡
-2019-11-15 17:35:04,506 test_6my.py[line:99] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-15 17:35:09,906 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-15 17:35:10,569 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-15 17:35:10,569 test_6my.py[line:105] INFO ²âÊÔÊ§°Ü
-2019-11-15 17:35:10,569 test_6my.py[line:106] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-15 17:35:10,569 test_6my.py[line:107] INFO ÃÜÂëÎª£ºhuaezgdl
-2019-11-15 17:35:10,570 test_6my.py[line:62] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-18 09:56:20,453 desired_caps.py[line:34] INFO start app
-2019-11-18 09:56:40,532 run.py[line:19] INFO start run test case....
-2019-11-18 09:56:40,532 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-18 09:58:29,305 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-18 09:58:29,305 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-18 09:58:29,305 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-18 10:01:02,433 test_6my.py[line:81] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-18 10:01:07,738 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-18 10:01:10,938 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-18 10:01:10,938 test_6my.py[line:96] INFO ²âÊÔÊ§°Ü£¡
-2019-11-18 10:01:10,943 test_6my.py[line:99] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-18 10:01:16,308 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
-
-2019-11-18 10:01:19,410 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-18 10:01:19,410 test_6my.py[line:105] INFO ²âÊÔÊ§°Ü
-2019-11-18 10:01:19,410 test_6my.py[line:106] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-18 10:01:19,410 test_6my.py[line:107] INFO ÃÜÂëÎª£ºhfpdpxlz
-2019-11-18 10:01:19,410 test_6my.py[line:62] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-18 11:01:11,323 desired_caps.py[line:34] INFO start app
-2019-11-18 11:01:34,452 run.py[line:19] INFO start run test case....
-2019-11-18 11:01:34,462 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-18 11:03:21,156 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-18 11:03:21,156 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-18 11:03:21,156 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-18 11:13:05,407 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-18 11:13:07,127 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-18 11:13:24,836 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-18 11:13:24,836 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-18 11:13:24,836 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-18 11:14:29,912 functions.py[line:146] INFO ·¢ËÍÍê³É
-2019-11-18 11:14:41,854 test_6my.py[line:81] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-18 11:14:48,974 test_6my.py[line:99] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-18 11:14:55,794 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
-2019-11-18 11:14:55,794 test_6my.py[line:106] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-18 11:14:55,794 test_6my.py[line:107] INFO ÃÜÂëÎª£ºje6i8agq
-2019-11-18 11:14:55,794 test_6my.py[line:62] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
-2019-11-18 11:15:06,702 mysql_cline.py[line:56] INFO list index out of range
-2019-11-18 11:15:06,702 my_view.py[line:116] INFO ĞŞ¸ÄÊı¾İ¿âĞÅÏ¢: None
-2019-11-18 11:15:06,702 test_6my.py[line:78] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú×Ô¶¯»¯²âÊÔ½áÊø
-2019-11-18 13:33:50,134 desired_caps.py[line:34] INFO start app
-2019-11-18 13:34:06,092 run.py[line:19] INFO start run test case....
-2019-11-18 13:34:06,092 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
-2019-11-18 13:35:49,630 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
-2019-11-18 13:35:49,630 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
-2019-11-18 13:35:49,631 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
-2019-11-18 13:39:03,332 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
-
-2019-11-18 13:39:04,886 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
-2019-11-18 13:39:21,930 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
-2019-11-18 13:39:21,930 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
-2019-11-18 13:39:21,930 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
-2019-11-18 13:40:24,718 test_6my.py[line:78] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
-2019-11-18 13:40:26,737 test_6my.py[line:96] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
-2019-11-18 13:40:28,754 test_6my.py[line:59] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
+ï»¿2019-11-18 18:01:09,717 desired_caps.py[line:34] INFO start app
+2019-11-18 18:01:28,023 run.py[line:19] INFO start run test case....
+2019-11-18 18:01:28,023 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
+2019-11-18 18:03:07,760 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-18 18:03:07,760 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
+2019-11-18 18:03:07,761 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-18 18:07:04,885 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 18:07:06,653 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
+2019-11-18 18:07:24,804 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
+2019-11-18 18:07:24,804 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
+2019-11-18 18:07:24,807 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
+2019-11-18 18:10:23,846 file_view.py[line:272] INFO ¶ş¼¶Ä¿Â¼ÖØÃüÃû
+2019-11-18 18:11:35,341 test_6my.py[line:78] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
+2019-11-18 18:11:40,545 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 18:11:41,126 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-18 18:11:41,126 test_6my.py[line:93] INFO ²âÊÔÊ§°Ü£¡
+2019-11-18 18:11:41,127 test_6my.py[line:96] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
+2019-11-18 18:11:46,902 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 18:11:47,543 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-18 18:11:47,543 test_6my.py[line:102] INFO ²âÊÔÊ§°Ü
+2019-11-18 18:11:47,543 test_6my.py[line:103] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
+2019-11-18 18:11:47,544 test_6my.py[line:104] INFO ÃÜÂëÎª£º6z8iyagl
+2019-11-18 18:11:47,544 test_6my.py[line:59] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
+2019-11-18 18:14:30,217 desired_caps.py[line:34] INFO start app
+2019-11-18 18:14:47,131 run.py[line:19] INFO start run test case....
+2019-11-18 18:14:47,131 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
+2019-11-18 18:16:35,644 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-18 18:16:35,645 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
+2019-11-18 18:16:35,647 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-18 18:19:57,473 file_view.py[line:197] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 18:19:59,149 file_view.py[line:140] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
+2019-11-18 18:20:16,194 file_view.py[line:161] INFO ÒÆ¶¯³É¹¦
+2019-11-18 18:20:16,194 file_view.py[line:167] INFO ÎÄ¼şÒÆ¶¯½áÊø
+2019-11-18 18:20:16,195 file_view.py[line:221] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
+2019-11-18 18:23:14,783 file_view.py[line:272] INFO ¶ş¼¶Ä¿Â¼ÖØÃüÃû
+2019-11-18 18:24:28,844 test_6my.py[line:78] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
+2019-11-18 18:24:34,372 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 18:24:34,992 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-18 18:24:34,993 test_6my.py[line:93] INFO ²âÊÔÊ§°Ü£¡
+2019-11-18 18:24:34,996 test_6my.py[line:96] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
+2019-11-18 18:24:40,663 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 18:24:41,338 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-18 18:24:41,338 test_6my.py[line:102] INFO ²âÊÔÊ§°Ü
+2019-11-18 18:24:41,339 test_6my.py[line:103] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
+2019-11-18 18:24:41,339 test_6my.py[line:104] INFO ÃÜÂëÎª£ºwdbb2s9c
+2019-11-18 18:24:41,339 test_6my.py[line:59] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
+2019-11-18 19:07:03,821 desired_caps.py[line:34] INFO start app
+2019-11-18 19:07:22,798 run.py[line:19] INFO start run test case....
+2019-11-18 19:07:22,799 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
+2019-11-18 19:07:54,837 desired_caps.py[line:34] INFO start app
+2019-11-18 19:08:11,978 run.py[line:19] INFO start run test case....
+2019-11-18 19:08:11,979 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
+2019-11-18 19:08:22,159 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-18 19:08:22,536 test_6my.py[line:78] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
+2019-11-18 19:08:22,553 test_6my.py[line:96] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
+2019-11-18 19:08:22,570 test_6my.py[line:59] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
+2019-11-18 19:08:39,375 desired_caps.py[line:34] INFO start app
+2019-11-18 19:08:55,936 run.py[line:19] INFO start run test case....
+2019-11-18 19:08:55,937 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
+2019-11-18 19:10:40,616 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-18 19:10:40,617 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
+2019-11-18 19:10:40,618 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-18 19:15:50,965 file_view.py[line:200] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 19:15:52,578 file_view.py[line:142] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
+2019-11-18 19:16:10,427 file_view.py[line:164] INFO ÒÆ¶¯³É¹¦
+2019-11-18 19:16:10,428 file_view.py[line:170] INFO ÎÄ¼şÒÆ¶¯½áÊø
+2019-11-18 19:16:10,429 file_view.py[line:224] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
+2019-11-18 19:19:13,062 file_view.py[line:279] INFO ¶ş¼¶Ä¿Â¼ÖØÃüÃû
+2019-11-18 19:20:27,476 test_6my.py[line:78] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
+2019-11-18 19:20:32,942 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 19:20:33,557 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-18 19:20:33,557 test_6my.py[line:93] INFO ²âÊÔÊ§°Ü£¡
+2019-11-18 19:20:33,559 test_6my.py[line:96] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
+2019-11-18 19:20:39,358 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-18 19:20:40,012 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-18 19:20:40,012 test_6my.py[line:102] INFO ²âÊÔÊ§°Ü
+2019-11-18 19:20:40,013 test_6my.py[line:103] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
+2019-11-18 19:20:40,013 test_6my.py[line:104] INFO ÃÜÂëÎª£ºlhjia9je
+2019-11-18 19:20:40,014 test_6my.py[line:59] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
+2019-11-19 10:03:04,795 desired_caps.py[line:34] INFO start app
+2019-11-19 10:03:41,198 desired_caps.py[line:34] INFO start app
+2019-11-19 10:03:59,327 run.py[line:19] INFO start run test case....
+2019-11-19 10:03:59,327 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
+2019-11-19 10:05:48,942 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 10:05:48,942 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
+2019-11-19 10:05:48,942 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-19 10:22:05,650 desired_caps.py[line:34] INFO start app
+2019-11-19 10:24:52,410 desired_caps.py[line:34] INFO start app
+2019-11-19 10:25:08,639 run.py[line:19] INFO start run test case....
+2019-11-19 10:25:08,639 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
+2019-11-19 10:26:14,585 desired_caps.py[line:34] INFO start app
+2019-11-19 10:26:31,324 run.py[line:19] INFO start run test case....
+2019-11-19 10:26:31,324 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
+2019-11-19 10:28:21,504 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 10:28:21,504 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
+2019-11-19 10:28:21,504 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-19 10:36:10,596 file_view.py[line:200] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-19 10:36:12,266 file_view.py[line:142] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
+2019-11-19 10:36:30,475 file_view.py[line:164] INFO ÒÆ¶¯³É¹¦
+2019-11-19 10:36:30,475 file_view.py[line:170] INFO ÎÄ¼şÒÆ¶¯½áÊø
+2019-11-19 10:36:30,475 file_view.py[line:224] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
+2019-11-19 10:39:37,250 file_view.py[line:279] INFO ¶ş¼¶Ä¿Â¼ÖØÃüÃû
+2019-11-19 10:40:35,320 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:40:39,420 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:40:45,329 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:40:50,149 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:40:55,019 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:40:59,789 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:41:05,178 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:41:10,378 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:41:15,388 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:41:19,428 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:41:24,427 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:41:29,757 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:41:40,362 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 10:41:40,702 test_6my.py[line:39] INFO ²âÊÔÊ§°Ü
+2019-11-19 10:41:49,811 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:41:54,723 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:00,113 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:05,233 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:10,262 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:14,762 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:19,972 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:25,491 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:30,470 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:35,647 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:40,733 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:46,072 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:51,405 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:56,429 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:42:56,853 test_6my.py[line:46] INFO ²âÊÔÊ§°Ü
+2019-11-19 10:43:20,236 test_6my.py[line:78] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
+2019-11-19 10:43:26,005 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-19 10:43:26,655 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 10:43:26,665 test_6my.py[line:93] INFO ²âÊÔÊ§°Ü£¡
+2019-11-19 10:43:26,665 test_6my.py[line:96] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
+2019-11-19 10:43:32,676 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-19 10:43:33,434 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 10:43:33,434 test_6my.py[line:102] INFO ²âÊÔÊ§°Ü
+2019-11-19 10:43:33,434 test_6my.py[line:103] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
+2019-11-19 10:43:33,434 test_6my.py[line:104] INFO ÃÜÂëÎª£ºox5sym2p
+2019-11-19 10:43:33,434 test_6my.py[line:59] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
+2019-11-19 10:44:14,251 desired_caps.py[line:34] INFO start app
+2019-11-19 10:44:30,950 run.py[line:19] INFO start run test case....
+2019-11-19 10:44:30,950 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
+2019-11-19 10:46:16,861 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 10:46:16,861 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
+2019-11-19 10:46:16,861 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-19 10:48:06,083 desired_caps.py[line:34] INFO start app
+2019-11-19 10:48:22,802 run.py[line:19] INFO start run test case....
+2019-11-19 10:48:22,802 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
+2019-11-19 10:48:52,404 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-19 10:48:53,014 test_6my.py[line:78] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
+2019-11-19 10:48:53,034 test_6my.py[line:96] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
+2019-11-19 10:48:53,064 test_6my.py[line:59] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
+2019-11-19 10:48:59,243 desired_caps.py[line:34] INFO start app
+2019-11-19 10:49:15,688 run.py[line:19] INFO start run test case....
+2019-11-19 10:49:15,688 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
+2019-11-19 10:50:03,245 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-19 10:53:34,346 file_view.py[line:200] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-19 10:53:35,849 file_view.py[line:142] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
+2019-11-19 10:53:53,547 file_view.py[line:164] INFO ÒÆ¶¯³É¹¦
+2019-11-19 10:53:53,547 file_view.py[line:170] INFO ÎÄ¼şÒÆ¶¯½áÊø
+2019-11-19 10:53:53,547 file_view.py[line:224] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
+2019-11-19 10:57:02,659 file_view.py[line:279] INFO ¶ş¼¶Ä¿Â¼ÖØÃüÃû
+2019-11-19 10:57:25,439 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:57:30,254 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:57:34,885 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:57:39,395 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:57:44,300 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:57:49,265 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:57:53,819 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:57:58,359 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:58:03,503 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:58:08,583 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:58:13,120 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:58:18,775 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:58:28,461 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 10:58:28,658 test_6my.py[line:39] INFO ²âÊÔÊ§°Ü
+2019-11-19 10:58:36,759 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:58:41,412 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:58:45,875 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:58:50,853 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:58:55,503 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:59:01,116 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:59:05,818 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:59:10,348 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:59:15,124 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:59:19,725 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:59:24,159 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:59:28,664 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:59:33,374 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:59:38,209 functions.py[line:146] INFO ĞŞ¸Ä³É¹¦
+2019-11-19 10:59:38,936 test_6my.py[line:46] INFO ²âÊÔÊ§°Ü
+2019-11-19 10:59:59,991 functions.py[line:146] INFO ·¢ËÍÍê³É
+2019-11-19 11:00:11,397 test_6my.py[line:78] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
+2019-11-19 11:00:15,357 test_6my.py[line:96] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
+2019-11-19 11:00:26,415 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 11:00:27,025 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 11:00:27,026 test_6my.py[line:102] INFO ²âÊÔÊ§°Ü
+2019-11-19 11:00:27,026 test_6my.py[line:103] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
+2019-11-19 11:00:27,026 test_6my.py[line:104] INFO ÃÜÂëÎª£ºdwctf4aj
+2019-11-19 11:00:27,027 test_6my.py[line:59] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú
+2019-11-19 15:00:11,254 desired_caps.py[line:34] INFO start app
+2019-11-19 15:01:11,324 desired_caps.py[line:34] INFO start app
+2019-11-19 15:01:36,939 desired_caps.py[line:34] INFO start app
+2019-11-19 15:07:23,709 desired_caps.py[line:34] INFO start app
+2019-11-19 15:08:32,368 desired_caps.py[line:34] INFO start app
+2019-11-19 15:12:42,568 desired_caps.py[line:34] INFO start app
+2019-11-19 15:21:16,143 desired_caps.py[line:34] INFO start app
+2019-11-19 15:24:05,518 desired_caps.py[line:34] INFO start app
+2019-11-19 15:26:11,618 desired_caps.py[line:34] INFO start app
+2019-11-19 15:26:33,355 desired_caps.py[line:34] INFO start app
+2019-11-19 15:28:05,479 desired_caps.py[line:34] INFO start app
+2019-11-19 15:29:38,138 desired_caps.py[line:34] INFO start app
+2019-11-19 15:31:09,371 desired_caps.py[line:34] INFO start app
+2019-11-19 15:31:29,714 right_layout.py[line:26] INFO 9
+2019-11-19 15:36:14,457 desired_caps.py[line:34] INFO start app
+2019-11-19 15:36:42,272 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 15:41:13,500 desired_caps.py[line:34] INFO start app
+2019-11-19 15:47:03,174 desired_caps.py[line:34] INFO start app
+2019-11-19 15:47:31,328 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 15:54:57,476 desired_caps.py[line:34] INFO start app
+2019-11-19 15:59:05,618 desired_caps.py[line:34] INFO start app
+2019-11-19 16:01:58,124 desired_caps.py[line:34] INFO start app
+2019-11-19 16:02:47,796 desired_caps.py[line:34] INFO start app
+2019-11-19 16:03:20,136 desired_caps.py[line:34] INFO start app
+2019-11-19 16:04:11,982 desired_caps.py[line:34] INFO start app
+2019-11-19 16:05:15,093 desired_caps.py[line:34] INFO start app
+2019-11-19 16:05:59,343 desired_caps.py[line:34] INFO start app
+2019-11-19 16:07:37,009 desired_caps.py[line:34] INFO start app
+2019-11-19 16:08:29,563 desired_caps.py[line:34] INFO start app
+2019-11-19 16:09:14,452 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 16:22:45,239 desired_caps.py[line:34] INFO start app
+2019-11-19 16:23:10,450 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 16:23:24,783 desired_caps.py[line:34] INFO start app
+2019-11-19 16:23:48,802 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 16:27:40,089 desired_caps.py[line:34] INFO start app
+2019-11-19 16:28:24,965 desired_caps.py[line:34] INFO start app
+2019-11-19 16:29:03,967 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 16:29:30,489 desired_caps.py[line:34] INFO start app
+2019-11-19 16:29:51,522 desired_caps.py[line:34] INFO start app
+2019-11-19 16:30:16,667 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 16:30:24,464 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 16:37:11,305 desired_caps.py[line:34] INFO start app
+2019-11-19 16:37:36,748 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 16:37:52,718 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 16:39:55,481 desired_caps.py[line:34] INFO start app
+2019-11-19 16:40:18,907 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 16:40:37,542 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 16:43:29,464 desired_caps.py[line:34] INFO start app
+2019-11-19 16:43:50,522 right_layout.py[line:52] INFO ×éÖ¯¼Ü¹¹Í¼×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-19 16:43:57,044 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 16:44:09,837 right_layout.py[line:68] INFO ×éÖ¯¼Ü¹¹Í¼×Ô¶¯»¯²âÊÔ½áÊø
+2019-11-19 16:44:09,837 right_layout.py[line:75] INFO Á÷³ÌÍ¼×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-19 16:44:15,363 functions.py[line:146] INFO Í¼Æ¬ÒÑ¾­±£´æµ½Ïà²á
+2019-11-19 16:44:29,409 right_layout.py[line:90] INFO Á÷³ÌÍ¼×Ô¶¯»¯²âÊÔ½áÊø
+2019-11-19 17:11:52,068 desired_caps.py[line:34] INFO start app
+2019-11-19 17:12:11,437 run.py[line:19] INFO start run test case....
+2019-11-19 17:12:11,438 test_1login.py[line:15] INFO µÇÂ¼¹¦ÄÜ¶ÏÑÔ²âÊÔ¿ªÊ¼
+2019-11-19 17:13:57,202 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 17:13:57,203 test_1login.py[line:73] INFO µÇÂ¼Ä£¿é¶ÏÑÔ²âÊÔ½áÊø
+2019-11-19 17:13:57,203 test_3file.py[line:13] INFO ÎÄ¼şÄ£¿é×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-19 17:17:20,090 file_view.py[line:200] INFO »ØÊÕÕ¾Çå¿ÕÍê±Ï:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-19 17:17:21,619 file_view.py[line:142] INFO ¿ªÊ¼Ö´ĞĞÎÄ¼şÒÆ¶¯
+2019-11-19 17:17:39,835 file_view.py[line:164] INFO ÒÆ¶¯³É¹¦
+2019-11-19 17:17:39,835 file_view.py[line:170] INFO ÎÄ¼şÒÆ¶¯½áÊø
+2019-11-19 17:17:39,835 file_view.py[line:224] INFO ÎÄ¼şÖØÃüÃû¿ªÊ¼start
+2019-11-19 17:20:46,109 file_view.py[line:279] INFO ¶ş¼¶Ä¿Â¼ÖØÃüÃû
+2019-11-19 17:21:29,823 right_layout.py[line:52] INFO ×éÖ¯¼Ü¹¹Í¼×Ô¶¯»¯²âÊÔ¿ªÊ¼
+2019-11-19 17:22:07,800 test_6my.py[line:78] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë1
+2019-11-19 17:22:13,193 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-19 17:22:13,831 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 17:22:13,832 test_6my.py[line:93] INFO ²âÊÔÊ§°Ü£¡
+2019-11-19 17:22:13,833 test_6my.py[line:96] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë2
+2019-11-19 17:22:20,487 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-19 17:22:21,151 functions.py[line:83] INFO ½ØÍ¼ÒÑ±£´æ
+2019-11-19 17:22:21,152 test_6my.py[line:102] INFO ²âÊÔÊ§°Ü
+2019-11-19 17:22:21,153 test_6my.py[line:103] INFO ĞŞ¸ÄµÇÂ¼ÃÜÂë×Ô¶¯»¯²âÊÔ½áÊø
+2019-11-19 17:22:21,153 test_6my.py[line:104] INFO ÃÜÂëÎª£ºzvpinjfl
+2019-11-19 17:22:21,154 test_6my.py[line:59] INFO ĞŞ¸ÄµÇÂ¼ÊÖ»ú

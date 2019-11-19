@@ -55,6 +55,7 @@ class FileView(Common):
             # 调用新建步骤
             self.add_step()
         # 输入新建文件夹名称
+        self.find_path(self.send_content).clear()
         self.find_path(self.send_content).send_keys(filename)
         # 点击确认
         self.find_path(self.add_folder_affirm).click()
@@ -78,6 +79,7 @@ class FileView(Common):
         # 调用新建步骤
         self.add_step()
         # 输入新建文件夹名称
+        self.find_path(self.send_content).clear()
         self.find_path(self.send_content).send_keys(filename)
         # 点击取消按钮
         self.find_path(self.add_folder_cancel).click()
@@ -142,6 +144,7 @@ class FileView(Common):
         my_file_path = '//android.widget.TextView[@text="我的文件"]'
         move_paths = '//android.widget.TextView[@text="移动"]'
         self.add_step()
+        self.find_path(self.send_content).clear()
         self.find_path(self.send_content).send_keys(filename)
         self.find_path(self.add_folder_affirm).click()
         # 新建文件夹的元素地址
@@ -223,11 +226,13 @@ class FileView(Common):
         # 新建文件夹
         self.add_step()
         try:
+            self.find_path(self.send_content).clear()
             self.find_path(self.send_content).send_keys(filename)
             self.find_path(self.add_folder_affirm).click()
             self.new_add_folder = '//android.widget.TextView[@text="%s"]' % filename
         except StaleElementReferenceException as e:
             logging.info(e)
+            self.find_path(self.send_content).clear()
             self.find_path(self.send_content).send_keys(filename)
             self.find_path(self.add_folder_affirm).click()
             self.new_add_folder = '//android.widget.TextView[@text="%s"]' % filename
@@ -246,9 +251,11 @@ class FileView(Common):
             self.slide(new_add_folder)
             self.find_path(self.rename_path).click()
             try:
+                self.find_path(self.send_content).clear()
                 self.find_path(self.send_content).send_keys(i)
                 self.find_path(self.add_folder_affirm).click()
             except StaleElementReferenceException:
+                self.find_path(self.send_content).clear()
                 self.find_path(self.send_content).send_keys(i)
                 self.find_path(self.add_folder_affirm).click()
             try:
@@ -350,6 +357,7 @@ class FileView(Common):
         # 点击新建文件夹按钮
         self.find_path(folder_path).click()
         # 输入文件夹名称
+        self.find_path(self.send_content).clear()
         self.find_path(self.send_content).send_keys(filename)
         # 点击确认
         self.find_path(self.add_folder_affirm).click()
@@ -379,9 +387,9 @@ class FileView(Common):
         """左滑显示按钮功能"""
         # 获取当前元素坐标
         coord = ele.location
-        x1 = int(coord['x']) // 100
-        y1 = int(coord['y'])
-        TouchAction(self.driver).long_press(ele, duration=1).move_to(x=x1, y=y1).release().perform()
+        x1 = coord['x'] // 100
+        y1 = coord['y']
+        TouchAction(self.driver).long_press(ele,duration=None).move_to(x=x1, y=y1).release().perform()
 
 # if __name__ == '__main__':
 #     driver = mind_desired()
