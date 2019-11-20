@@ -1,34 +1,40 @@
 import logging
-from time import sleep
+import os
 from common.desired_caps import mind_desired
 from common.functions import Common
 
 
 class Message(Common):
 
-    def message(self):
-        """点击底部按钮"""
-        message_path = '//android.widget.TextView[@text="消息"]'
-        self.find_path(message_path).click()
+    # 当前模块名称
+    module = str(os.path.abspath(__file__).split('\\')[-1][:-3])
 
     def add_friends(self):
-        # """添加好友"""
-        # sleep(1)
-        # self.message()
-        # sleep(2)
-        # # 添加好友path路径(ImageView)
-        # image_view_path = '//android.widget.ImageView'
-        # # 点击加号按钮
-        # add_jia = self.find_paths(image_view_path)
-        # add_jia[1].click()
-        # # 添加号码按钮路径
-        # add_friends_path = '//android.widget.TextView[@text="添加好友"]'
-        # # 点击添加好友按钮
-        # self.find_path(add_friends_path).click()
-        # sleep(0.5)
-        # self.go_back()
-        logging.info('添加好友')
-        pass
+        """
+        添加好友
+        :return: 
+        """
+        # 点击底部按钮
+        self.find_path(self.class_path('消息', 't')).click()
+        self.forced_wait()
+        # 添加好友path路径(ImageView)
+        image_view_path = '//android.widget.ImageView'
+        # 点击加号按钮
+        add_jia = self.find_paths(image_view_path)
+        add_jia[1].click()
+        self.find_path(self.class_path('添加好友', 't')).click()
+        self.find_path(self.class_path('脑图号', 'e')).send_keys('99999999')
+        self.driver.keyevent(66)
+        self.forced_wait()
+        self.find_path(self.class_path('html', 't')).click()
+        self.find_path(self.class_path('请输入验证消息', 'e')).send_keys('nihao')
+        self.find_path(self.class_path('发送', 't')).click()
+        self.toast('请求发送成功', self.module)
+        self.go_back()
+        self.forced_wait()
+        add_jia[0].click()
+        self.go_back()
+
 
     def group_chat(self):
         # self.message()

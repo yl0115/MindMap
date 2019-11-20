@@ -16,10 +16,25 @@ class AddMind(Common):
     # 底部新建按钮路径
     add_mind = r'//android.widget.Button[@index="2"]'
 
-    def function_kyes(self, num):
+    def function_kyes(self):
         self.forced_wait(1)
         function_key = self.find_paths('//android.widget.TextView')
-        function_key[num].click()
+        function_key[1].click()
+        self.find_path(self.class_path('保存图片', 't')).click()
+        self.toast('图片已经保存到相册', self.module)
+        function_key[1].click()
+        self.find_path(self.class_path('发送文件', 't')).click()
+        self.go_back()
+        self.forced_wait(1)
+        function_key[1].click()
+        self.find_path(self.class_path('发送图片', 't')).click()
+        self.go_back()
+        self.forced_wait(1)
+        function_key[1].click()
+        self.find_path(self.class_path('取消', 't')).click()
+        function_key[0].click()
+
+
 
     def mind_map(self):
         """
@@ -30,18 +45,8 @@ class AddMind(Common):
         self.find_path(self.add_mind).click()
         logging.info('思维导图自动化测试开始！')
         self.find_path(self.class_path('思维导图', 't')).click()
-        self.function_kyes(1)
-        self.find_path(self.class_path('保存图片', 't')).click()
-        self.toast('图片已经保存到相册', self.module)
-        self.function_kyes(1)
-        self.find_path(self.class_path('发送文件', 't')).click()
-        self.go_back()
-        self.function_kyes(1)
-        self.find_path(self.class_path('发送图片', 't')).click()
-        self.go_back()
-        self.function_kyes(1)
-        self.find_path(self.class_path('取消', 't')).click()
-        self.function_kyes(0)
+        # 调用右上角功能
+        self.function_kyes()
         logging.info('思维导图测试结束')
 
     def framework(self):
@@ -49,22 +54,12 @@ class AddMind(Common):
         组织架构图自动化
         :return: 
         """
-        logging.info('组织架构图自动化测试开始')
         # 点击底部新建+按钮
         self.find_path(self.add_mind).click()
+        logging.info('组织架构图自动化测试开始')
         self.find_path(self.class_path('组织架构图', 't')).click()
-        self.function_kyes(1)
-        self.find_path(self.class_path('保存图片', 't')).click()
-        self.toast('图片已经保存到相册', self.module)
-        self.function_kyes(1)
-        self.find_path(self.class_path('发送文件', 't')).click()
-        self.go_back()
-        self.function_kyes(1)
-        self.find_path(self.class_path('发送图片', 't')).click()
-        self.go_back()
-        self.function_kyes(1)
-        self.find_path(self.class_path('取消', 't')).click()
-        self.function_kyes(0)
+        # 调用右上角功能
+        self.function_kyes()
         logging.info('组织架构图自动化测试结束')
 
     def flow_chart(self):
@@ -74,19 +69,8 @@ class AddMind(Common):
         """
         logging.info('流程图自动化测试开始')
         self.find_path(self.class_path('流程图', 't')).click()
-        self.forced_wait(1)
-        self.function_kyes(1)
-        self.find_path(self.class_path('保存图片', 't')).click()
-        self.toast('图片已经保存到相册', self.module)
-        self.function_kyes(1)
-        self.find_path(self.class_path('发送文件', 't')).click()
-        self.go_back()
-        self.function_kyes(1)
-        self.find_path(self.class_path('发送图片', 't')).click()
-        self.go_back()
-        self.function_kyes(1)
-        self.find_path(self.class_path('取消', 't')).click()
-        self.function_kyes(0)
+        # 调用右上角功能
+        self.function_kyes()
         logging.info('流程图自动化测试结束')
 
 

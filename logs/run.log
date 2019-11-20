@@ -295,3 +295,89 @@
 2019-11-19 17:22:21,153 test_6my.py[line:103] INFO 修改登录密码自动化测试结束
 2019-11-19 17:22:21,153 test_6my.py[line:104] INFO 密码为：zvpinjfl
 2019-11-19 17:22:21,154 test_6my.py[line:59] INFO 修改登录手机
+2019-11-20 09:17:01,854 desired_caps.py[line:34] INFO start app
+2019-11-20 09:17:29,336 run.py[line:19] INFO start run test case....
+2019-11-20 09:17:29,337 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 09:19:11,224 functions.py[line:83] INFO 截图已保存
+2019-11-20 09:19:11,225 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-20 09:19:11,225 test_3file.py[line:13] INFO 文件模块自动化测试开始
+2019-11-20 09:21:24,047 desired_caps.py[line:34] INFO start app
+2019-11-20 09:21:42,479 right_layout.py[line:55] INFO 组织架构图自动化测试开始
+2019-11-20 09:21:48,834 functions.py[line:146] INFO 图片已经保存到相册
+2019-11-20 09:22:58,855 desired_caps.py[line:34] INFO start app
+2019-11-20 09:23:16,498 right_layout.py[line:57] INFO 组织架构图自动化测试开始
+2019-11-20 09:23:22,933 functions.py[line:146] INFO 图片已经保存到相册
+2019-11-20 09:23:32,927 right_layout.py[line:63] INFO 组织架构图自动化测试结束
+2019-11-20 09:23:32,928 right_layout.py[line:70] INFO 流程图自动化测试开始
+2019-11-20 09:23:37,553 functions.py[line:146] INFO 图片已经保存到相册
+2019-11-20 09:23:46,455 right_layout.py[line:74] INFO 流程图自动化测试结束
+2019-11-20 09:47:50,023 desired_caps.py[line:34] INFO start app
+2019-11-20 09:48:06,748 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 09:48:18,845 message_view.py[line:51] INFO 发起群聊
+2019-11-20 09:48:18,846 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 09:51:19,482 desired_caps.py[line:34] INFO start app
+2019-11-20 09:51:37,045 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 09:51:49,775 message_view.py[line:52] INFO 发起群聊
+2019-11-20 09:51:49,775 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 09:52:39,595 desired_caps.py[line:34] INFO start app
+2019-11-20 09:52:57,514 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 09:53:11,839 message_view.py[line:52] INFO 发起群聊
+2019-11-20 09:53:11,839 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 09:56:02,453 desired_caps.py[line:34] INFO start app
+2019-11-20 09:56:22,131 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 09:56:32,547 functions.py[line:146] INFO 请求发送成功
+2019-11-20 09:56:32,548 message_view.py[line:52] INFO 发起群聊
+2019-11-20 09:56:32,548 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 10:02:59,011 desired_caps.py[line:34] INFO start app
+2019-11-20 10:03:17,859 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 10:03:29,775 functions.py[line:146] INFO 请求发送成功
+2019-11-20 10:03:31,850 message_view.py[line:55] INFO 发起群聊
+2019-11-20 10:03:31,850 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 10:04:10,574 desired_caps.py[line:34] INFO start app
+2019-11-20 10:04:29,420 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 10:04:31,960 message_view.py[line:56] INFO 发起群聊
+2019-11-20 10:04:31,961 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 10:04:37,912 desired_caps.py[line:34] INFO start app
+2019-11-20 10:04:55,279 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 10:05:06,382 functions.py[line:146] INFO 请求发送成功
+2019-11-20 10:05:09,411 message_view.py[line:56] INFO 发起群聊
+2019-11-20 10:05:09,412 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 10:05:34,031 desired_caps.py[line:34] INFO start app
+2019-11-20 10:05:52,911 run.py[line:19] INFO start run test case....
+2019-11-20 10:05:52,911 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 10:06:10,387 test_3file.py[line:13] INFO 文件模块自动化测试开始
+2019-11-20 10:06:10,417 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 10:06:10,467 message_view.py[line:56] INFO 发起群聊
+2019-11-20 10:06:10,467 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 10:06:10,467 right_layout.py[line:57] INFO 组织架构图自动化测试开始
+2019-11-20 10:06:10,881 test_6my.py[line:78] INFO 修改登录密码1
+2019-11-20 10:06:10,897 test_6my.py[line:96] INFO 修改登录密码2
+2019-11-20 10:06:10,915 test_6my.py[line:59] INFO 修改登录手机
+2019-11-20 10:08:33,551 desired_caps.py[line:34] INFO start app
+2019-11-20 10:08:50,786 run.py[line:19] INFO start run test case....
+2019-11-20 10:08:50,787 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 10:10:34,007 functions.py[line:83] INFO 截图已保存
+2019-11-20 10:10:34,009 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-20 10:10:34,009 test_3file.py[line:13] INFO 文件模块自动化测试开始
+2019-11-20 10:14:51,651 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 10:15:01,433 functions.py[line:146] INFO 请求发送成功
+2019-11-20 10:15:03,922 message_view.py[line:56] INFO 发起群聊
+2019-11-20 10:15:03,923 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 10:15:03,923 right_layout.py[line:57] INFO 组织架构图自动化测试开始
+2019-11-20 10:15:26,735 functions.py[line:146] INFO 修改成功
+2019-11-20 10:15:31,277 functions.py[line:146] INFO 修改成功
+2019-11-20 10:15:37,594 functions.py[line:146] INFO 修改成功
+2019-11-20 10:15:41,905 functions.py[line:146] INFO 修改成功
+2019-11-20 10:15:46,990 functions.py[line:146] INFO 修改成功
+2019-11-20 10:15:51,922 functions.py[line:146] INFO 修改成功
+2019-11-20 10:15:57,340 functions.py[line:146] INFO 修改成功
+2019-11-20 10:16:02,589 functions.py[line:146] INFO 修改成功
+2019-11-20 10:16:07,203 functions.py[line:146] INFO 修改成功
+2019-11-20 10:16:11,537 functions.py[line:146] INFO 修改成功
+2019-11-20 10:16:16,123 functions.py[line:146] INFO 修改成功
+2019-11-20 10:16:20,855 functions.py[line:146] INFO 修改成功
+2019-11-20 10:16:30,996 functions.py[line:83] INFO 截图已保存
+2019-11-20 10:16:31,757 test_6my.py[line:39] INFO 测试失败
+2019-11-20 10:16:39,165 functions.py[line:146] INFO 修改成功
+2019-11-20 10:16:43,434 functions.py[line:146] INFO 修改成功
+2019-11-20 10:16:48,790 functions.py[line:146] INFO 修改成功
