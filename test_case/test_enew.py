@@ -1,15 +1,17 @@
 from common.myunit import *
 from  businessView.addmindmap.right_layout import AddMind
+import logging
 
 
-# @unittest.skip
+
 class TestAddMind(StartEnd):
-    # @unittest.skip("跳过新建模块的自动化测试")
     def test_right(self):
+        logging.info('新建自动化测试开始')
         am = AddMind(self.driver)
         # am.mind_map()
         am.framework()
         am.flow_chart()
+        logging.info('新建自动化测试结束')
 
 
 

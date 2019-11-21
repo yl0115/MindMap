@@ -3,9 +3,10 @@ from common.myunit import *
 from businessView.login import Mind
 from common.desired_caps import mind_desired
 import logging
+import yaml
 
 
-# @unittest.skip
+# @unittest.skip('跳过')
 class LoginTest(StartEnd):
     # @unittest.skip('手机输入框点击登录测试')
     def test_log1(self):
@@ -13,7 +14,12 @@ class LoginTest(StartEnd):
         """手机输入框点击登录测试"""
         csv_file = '../data/login/tel_input.csv'
         logging.info('登录功能断言测试开始')
-        md.guide()
+        with open(r'../config/desired_caps.yaml', 'r', encoding='utf-8') as f:
+            data = yaml.load(f, Loader=yaml.FullLoader)
+        if data['noReset']:
+            logging.info('未重新按钮App')
+        else:
+            md.guide()
         # 循环编辑，行数从2开始读取
         for i in range(2, 200):
             # 调用读取csv方法并传入行数

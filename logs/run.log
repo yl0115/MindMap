@@ -381,3 +381,567 @@
 2019-11-20 10:16:39,165 functions.py[line:146] INFO 修改成功
 2019-11-20 10:16:43,434 functions.py[line:146] INFO 修改成功
 2019-11-20 10:16:48,790 functions.py[line:146] INFO 修改成功
+2019-11-20 10:41:45,489 desired_caps.py[line:34] INFO start app
+2019-11-20 10:42:06,196 run.py[line:19] INFO start run test case....
+2019-11-20 10:42:06,196 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 10:43:51,074 functions.py[line:83] INFO 截图已保存
+2019-11-20 10:43:51,074 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-20 10:43:51,074 test_3file.py[line:13] INFO 文件模块自动化测试开始
+2019-11-20 10:49:23,106 file_view.py[line:200] INFO 回收站清空完毕:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-20 10:49:24,986 file_view.py[line:142] INFO 开始执行文件移动
+2019-11-20 10:49:42,904 file_view.py[line:164] INFO 移动成功
+2019-11-20 10:49:42,904 file_view.py[line:170] INFO 文件移动结束
+2019-11-20 10:49:42,904 file_view.py[line:224] INFO 文件重命名开始start
+2019-11-20 10:50:07,868 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 10:50:21,190 message_view.py[line:56] INFO 发起群聊
+2019-11-20 10:50:21,190 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 10:51:31,129 test_6my.py[line:78] INFO 修改登录密码1
+2019-11-20 10:51:36,869 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-20 10:51:37,669 functions.py[line:83] INFO 截图已保存
+2019-11-20 10:51:37,669 test_6my.py[line:93] INFO 测试失败！
+2019-11-20 10:51:37,669 test_6my.py[line:96] INFO 修改登录密码2
+2019-11-20 10:51:42,938 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-20 10:51:43,708 functions.py[line:83] INFO 截图已保存
+2019-11-20 10:51:43,708 test_6my.py[line:102] INFO 测试失败
+2019-11-20 10:51:43,708 test_6my.py[line:103] INFO 修改登录密码自动化测试结束
+2019-11-20 10:51:43,708 test_6my.py[line:104] INFO 密码为：i0u4ghgw
+2019-11-20 10:51:43,708 test_6my.py[line:59] INFO 修改登录手机
+2019-11-20 10:52:04,210 desired_caps.py[line:34] INFO start app
+2019-11-20 10:52:23,364 run.py[line:19] INFO start run test case....
+2019-11-20 10:52:23,364 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 10:54:12,648 functions.py[line:83] INFO 截图已保存
+2019-11-20 10:54:12,648 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-20 10:54:12,658 test_3file.py[line:13] INFO 文件模块自动化测试开始
+2019-11-20 10:57:32,048 file_view.py[line:200] INFO 回收站清空完毕:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-20 10:57:34,038 file_view.py[line:142] INFO 开始执行文件移动
+2019-11-20 10:57:52,627 file_view.py[line:164] INFO 移动成功
+2019-11-20 10:57:52,627 file_view.py[line:170] INFO 文件移动结束
+2019-11-20 10:57:52,627 file_view.py[line:224] INFO 文件重命名开始start
+2019-11-20 11:00:57,666 file_view.py[line:279] INFO 二级目录重命名
+2019-11-20 11:01:39,560 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 11:01:44,640 message_view.py[line:56] INFO 发起群聊
+2019-11-20 11:01:44,640 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 11:02:21,840 test_6my.py[line:78] INFO 修改登录密码1
+2019-11-20 11:02:27,150 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-20 11:02:27,750 functions.py[line:83] INFO 截图已保存
+2019-11-20 11:02:27,750 test_6my.py[line:93] INFO 测试失败！
+2019-11-20 11:02:27,750 test_6my.py[line:96] INFO 修改登录密码2
+2019-11-20 11:02:33,409 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-20 11:02:34,049 functions.py[line:83] INFO 截图已保存
+2019-11-20 11:02:34,049 test_6my.py[line:102] INFO 测试失败
+2019-11-20 11:02:34,049 test_6my.py[line:103] INFO 修改登录密码自动化测试结束
+2019-11-20 11:02:34,059 test_6my.py[line:104] INFO 密码为：8ejk9bye
+2019-11-20 11:02:34,059 test_6my.py[line:59] INFO 修改登录手机
+2019-11-20 15:37:51,928 desired_caps.py[line:34] INFO start app
+2019-11-20 15:38:06,294 desired_caps.py[line:34] INFO start app
+2019-11-20 15:38:26,583 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 15:38:40,742 right_layout.py[line:63] INFO 组织架构图自动化测试结束
+2019-11-20 15:38:40,742 right_layout.py[line:70] INFO 流程图自动化测试开始
+2019-11-20 15:39:53,170 desired_caps.py[line:34] INFO start app
+2019-11-20 15:40:12,031 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 15:40:35,165 desired_caps.py[line:34] INFO start app
+2019-11-20 15:40:54,480 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 15:41:12,539 right_layout.py[line:67] INFO 组织架构图自动化测试结束
+2019-11-20 15:41:12,539 right_layout.py[line:74] INFO 流程图自动化测试开始
+2019-11-20 15:42:47,570 desired_caps.py[line:34] INFO start app
+2019-11-20 15:43:06,686 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 15:43:26,468 right_layout.py[line:72] INFO 组织架构图自动化测试结束
+2019-11-20 15:43:26,468 right_layout.py[line:79] INFO 流程图自动化测试开始
+2019-11-20 15:43:40,154 right_layout.py[line:83] INFO 流程图自动化测试结束
+2019-11-20 15:47:00,334 desired_caps.py[line:34] INFO start app
+2019-11-20 15:47:18,150 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 15:47:42,701 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-20 15:47:42,701 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-20 15:49:39,104 desired_caps.py[line:34] INFO start app
+2019-11-20 15:49:59,202 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 15:50:20,323 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-20 15:50:20,323 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-20 15:50:34,988 right_layout.py[line:84] INFO 流程图自动化测试结束
+2019-11-20 16:02:52,238 desired_caps.py[line:34] INFO start app
+2019-11-20 16:03:22,615 desired_caps.py[line:34] INFO start app
+2019-11-20 16:03:42,241 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 16:04:01,276 desired_caps.py[line:34] INFO start app
+2019-11-20 16:04:20,500 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 16:04:40,801 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-20 16:04:40,801 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-20 16:04:57,200 right_layout.py[line:86] INFO 流程图自动化测试结束
+2019-11-20 16:06:27,511 desired_caps.py[line:34] INFO start app
+2019-11-20 16:07:05,810 desired_caps.py[line:34] INFO start app
+2019-11-20 16:07:24,792 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 16:07:47,980 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-20 16:07:47,980 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-20 16:08:08,066 right_layout.py[line:91] INFO 流程图自动化测试结束
+2019-11-20 17:02:25,216 desired_caps.py[line:34] INFO start app
+2019-11-20 17:02:55,094 desired_caps.py[line:34] INFO start app
+2019-11-20 17:03:13,096 run.py[line:19] INFO start run test case....
+2019-11-20 17:03:13,096 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 17:05:02,291 functions.py[line:83] INFO 截图已保存
+2019-11-20 17:05:02,291 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-20 17:05:02,291 test_3file.py[line:13] INFO 文件模块自动化测试开始
+2019-11-20 17:06:39,576 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 17:06:50,791 message_view.py[line:56] INFO 发起群聊
+2019-11-20 17:06:50,791 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 17:11:36,162 desired_caps.py[line:34] INFO start app
+2019-11-20 17:11:52,615 run.py[line:19] INFO start run test case....
+2019-11-20 17:11:52,616 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 17:12:06,049 message_view.py[line:56] INFO 发起群聊
+2019-11-20 17:12:06,050 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 17:12:10,847 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 17:12:30,273 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-20 17:12:30,273 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-20 17:12:49,797 right_layout.py[line:91] INFO 流程图自动化测试结束
+2019-11-20 17:15:59,878 desired_caps.py[line:34] INFO start app
+2019-11-20 17:16:09,035 desired_caps.py[line:34] INFO start app
+2019-11-20 17:16:17,940 desired_caps.py[line:34] INFO start app
+2019-11-20 17:16:34,067 run.py[line:19] INFO start run test case....
+2019-11-20 17:16:34,067 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 17:16:48,310 message_view.py[line:56] INFO 发起群聊
+2019-11-20 17:16:48,310 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 17:17:25,052 desired_caps.py[line:34] INFO start app
+2019-11-20 17:17:42,669 run.py[line:19] INFO start run test case....
+2019-11-20 17:17:42,669 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 17:17:58,523 message_view.py[line:57] INFO 发起群聊
+2019-11-20 17:17:58,523 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 17:17:59,451 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 17:18:39,957 test_6my.py[line:78] INFO 修改登录密码1
+2019-11-20 17:18:45,997 desired_caps.py[line:34] INFO start app
+2019-11-20 17:19:16,045 desired_caps.py[line:34] INFO start app
+2019-11-20 17:19:33,612 run.py[line:19] INFO start run test case....
+2019-11-20 17:19:33,612 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 17:19:48,074 message_view.py[line:57] INFO 发起群聊
+2019-11-20 17:19:48,074 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 17:19:49,095 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 17:21:04,642 desired_caps.py[line:34] INFO start app
+2019-11-20 17:21:21,336 run.py[line:19] INFO start run test case....
+2019-11-20 17:21:21,336 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 17:21:36,342 message_view.py[line:57] INFO 发起群聊
+2019-11-20 17:21:36,342 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 17:21:37,773 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 17:21:57,837 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-20 17:21:57,837 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-20 17:22:20,485 right_layout.py[line:91] INFO 流程图自动化测试结束
+2019-11-20 17:22:27,064 desired_caps.py[line:34] INFO start app
+2019-11-20 17:22:44,596 run.py[line:19] INFO start run test case....
+2019-11-20 17:22:44,606 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 17:22:59,002 message_view.py[line:57] INFO 发起群聊
+2019-11-20 17:22:59,002 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 17:23:00,620 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 17:23:19,359 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-20 17:23:19,359 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-20 17:26:24,719 desired_caps.py[line:34] INFO start app
+2019-11-20 17:26:40,926 run.py[line:19] INFO start run test case....
+2019-11-20 17:26:40,926 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 17:26:56,550 message_view.py[line:57] INFO 发起群聊
+2019-11-20 17:26:56,550 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 17:26:57,551 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 17:27:16,248 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-20 17:27:16,248 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-20 17:27:35,475 right_layout.py[line:91] INFO 流程图自动化测试结束
+2019-11-20 17:28:10,319 desired_caps.py[line:34] INFO start app
+2019-11-20 17:28:27,477 run.py[line:19] INFO start run test case....
+2019-11-20 17:28:27,477 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 17:28:35,965 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 17:28:36,005 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 17:28:37,061 message_view.py[line:57] INFO 发起群聊
+2019-11-20 17:28:37,061 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 17:28:37,331 test_6my.py[line:79] INFO 修改登录密码1
+2019-11-20 17:28:37,351 test_6my.py[line:97] INFO 修改登录密码2
+2019-11-20 17:28:37,381 test_6my.py[line:60] INFO 修改登录手机
+2019-11-20 17:28:58,802 desired_caps.py[line:34] INFO start app
+2019-11-20 17:29:15,978 run.py[line:19] INFO start run test case....
+2019-11-20 17:29:15,978 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 17:31:00,026 functions.py[line:83] INFO 截图已保存
+2019-11-20 17:31:00,026 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-20 17:31:00,026 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 17:32:37,408 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 17:32:50,448 message_view.py[line:57] INFO 发起群聊
+2019-11-20 17:32:50,448 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 17:32:51,407 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 17:33:10,599 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-20 17:33:10,599 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-20 17:33:28,968 right_layout.py[line:91] INFO 流程图自动化测试结束
+2019-11-20 17:34:48,878 functions.py[line:83] INFO 截图已保存
+2019-11-20 17:35:10,815 test_6my.py[line:79] INFO 修改登录密码1
+2019-11-20 17:35:16,453 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-20 17:35:17,110 functions.py[line:83] INFO 截图已保存
+2019-11-20 17:35:17,111 test_6my.py[line:94] INFO 测试失败！
+2019-11-20 17:35:17,112 test_6my.py[line:97] INFO 修改登录密码2
+2019-11-20 17:35:22,432 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-20 17:35:23,116 functions.py[line:83] INFO 截图已保存
+2019-11-20 17:35:23,117 test_6my.py[line:103] INFO 测试失败
+2019-11-20 17:35:23,117 test_6my.py[line:104] INFO 修改登录密码自动化测试结束
+2019-11-20 17:35:23,117 test_6my.py[line:105] INFO 密码为：q0skpwwn
+2019-11-20 17:35:23,118 test_6my.py[line:60] INFO 修改登录手机
+2019-11-20 17:51:22,261 desired_caps.py[line:34] INFO start app
+2019-11-20 17:51:31,331 desired_caps.py[line:34] INFO start app
+2019-11-20 17:51:40,370 desired_caps.py[line:34] INFO start app
+2019-11-20 17:51:49,419 desired_caps.py[line:34] INFO start app
+2019-11-20 17:52:08,246 run.py[line:19] INFO start run test case....
+2019-11-20 17:52:08,246 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 17:53:59,461 functions.py[line:83] INFO 截图已保存
+2019-11-20 17:53:59,463 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-20 17:53:59,463 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 17:57:57,457 file_view.py[line:204] INFO 回收站清空完毕:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-20 17:57:59,521 file_view.py[line:146] INFO 开始执行文件移动
+2019-11-20 17:58:19,933 file_view.py[line:168] INFO 移动成功
+2019-11-20 17:58:19,934 file_view.py[line:174] INFO 文件移动结束
+2019-11-20 17:58:19,934 file_view.py[line:228] INFO 文件重命名开始start
+2019-11-20 18:10:10,722 desired_caps.py[line:34] INFO start app
+2019-11-20 18:10:31,859 home.py[line:17] INFO <appium.webdriver.webelement.WebElement (session="08ad1749-4ad3-45ec-a207-796bfb93f131", element="9be7a011-799d-4fd2-b1e1-849eca8f435b")>
+2019-11-20 18:19:05,614 desired_caps.py[line:34] INFO start app
+2019-11-20 18:19:25,852 home.py[line:17] INFO <appium.webdriver.webelement.WebElement (session="ca75b0e3-0e48-4f50-ab9c-9f8519ca0faa", element="3a3213ca-f956-4115-b65c-22c7ed2c3ee0")>
+2019-11-20 18:22:12,457 desired_caps.py[line:34] INFO start app
+2019-11-20 18:22:32,765 home.py[line:17] INFO <appium.webdriver.webelement.WebElement (session="bb4d33eb-d379-4696-a7a9-050769a5ec48", element="5fb2a5a4-213a-4e56-b6cc-aab7962f2020")>
+2019-11-20 18:22:57,410 desired_caps.py[line:34] INFO start app
+2019-11-20 18:23:19,067 home.py[line:17] INFO <appium.webdriver.webelement.WebElement (session="38278697-aeca-4d30-86b8-a3dceb82fb06", element="8c28198e-0ca7-44a7-8fcc-79cee8426e82")>
+2019-11-20 18:24:25,990 desired_caps.py[line:34] INFO start app
+2019-11-20 18:24:45,502 home.py[line:17] INFO <appium.webdriver.webelement.WebElement (session="f7b58c39-01a5-4309-b836-866236b76787", element="4a6feea7-d19e-4073-bac2-ed315285498a")>
+2019-11-20 18:25:22,405 desired_caps.py[line:34] INFO start app
+2019-11-20 18:25:42,159 home.py[line:17] INFO <appium.webdriver.webelement.WebElement (session="955882c5-472a-4d89-b401-e9641ee8aad4", element="763c0a05-ed1d-47f3-a4bd-819a2b6b49b9")>
+2019-11-20 18:26:06,967 desired_caps.py[line:34] INFO start app
+2019-11-20 18:26:26,406 home.py[line:17] INFO <appium.webdriver.webelement.WebElement (session="be74cb0f-2162-4af9-9f72-4998c3564c81", element="d4113a1a-2940-4f7a-b317-fe3162122c2a")>
+2019-11-20 18:26:49,496 desired_caps.py[line:34] INFO start app
+2019-11-20 18:27:08,314 home.py[line:17] INFO <appium.webdriver.webelement.WebElement (session="72e108bc-7e0b-4f60-af9b-d521fea07cee", element="119bb517-c5aa-4a2e-877c-3f3d0d153462")>
+2019-11-20 19:06:37,218 desired_caps.py[line:34] INFO start app
+2019-11-20 19:10:19,391 desired_caps.py[line:34] INFO start app
+2019-11-20 19:10:37,286 run.py[line:19] INFO start run test case....
+2019-11-20 19:10:37,287 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 19:12:25,055 functions.py[line:83] INFO 截图已保存
+2019-11-20 19:12:25,056 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-20 19:12:26,553 home.py[line:17] INFO <appium.webdriver.webelement.WebElement (session="181be420-0c3a-4bb5-9d30-7da58132aca0", element="7579590e-09d4-47f5-987e-9894a9156b07")>
+2019-11-20 19:12:27,548 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:13:36,650 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 19:13:49,671 message_view.py[line:57] INFO 发起群聊
+2019-11-20 19:13:49,672 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 19:13:50,647 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-20 19:14:09,439 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-20 19:14:09,440 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-20 19:14:29,395 right_layout.py[line:91] INFO 流程图自动化测试结束
+2019-11-20 19:15:46,407 functions.py[line:83] INFO 截图已保存
+2019-11-20 19:16:21,554 desired_caps.py[line:34] INFO start app
+2019-11-20 19:16:40,854 run.py[line:19] INFO start run test case....
+2019-11-20 19:16:40,854 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 19:17:20,862 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:17:20,888 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 19:17:20,916 message_view.py[line:57] INFO 发起群聊
+2019-11-20 19:17:20,916 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 19:17:21,154 test_6my.py[line:79] INFO 修改登录密码1
+2019-11-20 19:17:21,195 test_6my.py[line:97] INFO 修改登录密码2
+2019-11-20 19:17:21,221 test_6my.py[line:60] INFO 修改登录手机
+2019-11-20 19:26:50,750 desired_caps.py[line:34] INFO start app
+2019-11-20 19:27:13,582 desired_caps.py[line:34] INFO start app
+2019-11-20 19:27:31,005 run.py[line:19] INFO start run test case....
+2019-11-20 19:27:31,005 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 19:28:07,361 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:28:07,385 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 19:28:07,436 message_view.py[line:57] INFO 发起群聊
+2019-11-20 19:28:07,436 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-20 19:28:07,761 test_6my.py[line:79] INFO 修改登录密码1
+2019-11-20 19:28:07,781 test_6my.py[line:97] INFO 修改登录密码2
+2019-11-20 19:28:07,803 test_6my.py[line:60] INFO 修改登录手机
+2019-11-20 19:28:39,444 desired_caps.py[line:34] INFO start app
+2019-11-20 19:28:55,532 run.py[line:19] INFO start run test case....
+2019-11-20 19:28:55,532 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-20 19:29:45,703 home.py[line:17] INFO <appium.webdriver.webelement.WebElement (session="7758421f-4962-4695-bd09-4b773f1edc01", element="63c2cd7a-4cc0-45ad-b522-0b92df3c7324")>
+2019-11-20 19:29:46,650 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:30:45,735 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-20 19:31:03,020 desired_caps.py[line:34] INFO start app
+2019-11-20 19:31:20,585 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:32:22,324 desired_caps.py[line:34] INFO start app
+2019-11-20 19:32:34,669 desired_caps.py[line:34] INFO start app
+2019-11-20 19:32:52,844 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:33:49,410 desired_caps.py[line:34] INFO start app
+2019-11-20 19:34:05,837 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:38:17,504 desired_caps.py[line:34] INFO start app
+2019-11-20 19:38:35,000 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:41:51,610 desired_caps.py[line:34] INFO start app
+2019-11-20 19:42:09,573 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:50:14,940 desired_caps.py[line:34] INFO start app
+2019-11-20 19:50:32,704 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:51:07,137 desired_caps.py[line:34] INFO start app
+2019-11-20 19:51:26,408 desired_caps.py[line:34] INFO start app
+2019-11-20 19:51:43,627 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:52:09,077 desired_caps.py[line:34] INFO start app
+2019-11-20 19:52:25,349 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:52:31,829 desired_caps.py[line:34] INFO start app
+2019-11-20 19:52:48,185 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:53:19,054 desired_caps.py[line:34] INFO start app
+2019-11-20 19:53:36,835 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:55:13,966 desired_caps.py[line:34] INFO start app
+2019-11-20 19:55:31,508 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:57:59,858 desired_caps.py[line:34] INFO start app
+2019-11-20 19:58:18,473 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 19:59:16,430 desired_caps.py[line:34] INFO start app
+2019-11-20 19:59:32,983 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-20 20:01:04,966 file_view.py[line:204] INFO 回收站清空完毕:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-20 20:01:07,265 file_view.py[line:146] INFO 开始执行文件移动
+2019-11-20 20:01:20,451 file_view.py[line:168] INFO 移动成功
+2019-11-20 20:01:20,452 file_view.py[line:174] INFO 文件移动结束
+2019-11-20 20:01:20,452 file_view.py[line:228] INFO 文件重命名开始start
+2019-11-21 08:48:49,861 desired_caps.py[line:34] INFO start app
+2019-11-21 08:49:16,634 run.py[line:19] INFO start run test case....
+2019-11-21 08:49:16,634 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-21 08:51:02,253 functions.py[line:83] INFO 截图已保存
+2019-11-21 08:51:02,253 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-21 08:51:03,334 home.py[line:17] INFO <appium.webdriver.webelement.WebElement (session="5e94adde-b293-4862-838e-c617e9cc5112", element="907ef343-8f75-4e5a-8cdf-839b1429557f")>
+2019-11-21 08:51:04,275 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 08:53:12,336 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 08:53:25,769 message_view.py[line:57] INFO 发起群聊
+2019-11-21 08:53:25,769 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-21 08:53:26,980 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-21 08:53:45,925 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-21 08:53:45,925 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-21 08:54:04,948 right_layout.py[line:91] INFO 流程图自动化测试结束
+2019-11-21 08:54:35,736 desired_caps.py[line:34] INFO start app
+2019-11-21 08:54:53,499 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 08:55:28,564 desired_caps.py[line:34] INFO start app
+2019-11-21 08:55:44,211 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 08:58:40,002 desired_caps.py[line:34] INFO start app
+2019-11-21 08:58:55,843 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 09:00:33,373 file_view.py[line:204] INFO 回收站清空完毕:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 09:00:35,804 file_view.py[line:146] INFO 开始执行文件移动
+2019-11-21 09:00:49,798 file_view.py[line:168] INFO 移动成功
+2019-11-21 09:00:49,798 file_view.py[line:174] INFO 文件移动结束
+2019-11-21 09:00:49,813 file_view.py[line:228] INFO 文件重命名开始start
+2019-11-21 09:03:14,404 desired_caps.py[line:34] INFO start app
+2019-11-21 09:03:31,482 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 09:07:51,569 file_view.py[line:204] INFO 回收站清空完毕:  Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 09:07:53,299 file_view.py[line:146] INFO 开始执行文件移动
+2019-11-21 09:21:07,275 desired_caps.py[line:34] INFO start app
+2019-11-21 09:21:24,439 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 09:30:43,205 desired_caps.py[line:34] INFO start app
+2019-11-21 09:31:45,671 desired_caps.py[line:34] INFO start app
+2019-11-21 09:33:51,915 desired_caps.py[line:34] INFO start app
+2019-11-21 09:34:43,093 desired_caps.py[line:34] INFO start app
+2019-11-21 09:35:00,042 desired_caps.py[line:34] INFO start app
+2019-11-21 09:35:17,463 run.py[line:19] INFO start run test case....
+2019-11-21 09:35:17,463 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-21 09:37:06,084 functions.py[line:83] INFO 截图已保存
+2019-11-21 09:37:06,084 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-21 09:37:12,477 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 09:37:52,268 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 09:38:05,678 message_view.py[line:57] INFO 发起群聊
+2019-11-21 09:38:05,678 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-21 09:38:06,678 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-21 09:38:19,628 functions.py[line:83] INFO 截图已保存
+2019-11-21 09:38:58,227 test_6my.py[line:79] INFO 修改登录密码1
+2019-11-21 09:39:03,825 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 09:39:04,434 functions.py[line:83] INFO 截图已保存
+2019-11-21 09:39:04,434 test_6my.py[line:94] INFO 测试失败！
+2019-11-21 09:39:04,434 test_6my.py[line:97] INFO 修改登录密码2
+2019-11-21 09:39:10,387 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 09:39:10,934 functions.py[line:83] INFO 截图已保存
+2019-11-21 09:39:10,934 test_6my.py[line:103] INFO 测试失败
+2019-11-21 09:39:10,934 test_6my.py[line:104] INFO 修改登录密码自动化测试结束
+2019-11-21 09:39:10,934 test_6my.py[line:105] INFO 密码为：qvtgtwao
+2019-11-21 09:39:10,934 test_6my.py[line:60] INFO 修改登录手机
+2019-11-21 09:55:52,997 desired_caps.py[line:34] INFO start app
+2019-11-21 09:56:17,718 run.py[line:19] INFO start run test case....
+2019-11-21 09:56:17,718 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-21 09:58:09,329 functions.py[line:83] INFO 截图已保存
+2019-11-21 09:58:09,329 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-21 09:58:14,688 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 10:06:08,034 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 10:06:21,380 message_view.py[line:57] INFO 发起群聊
+2019-11-21 10:06:21,380 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-21 10:06:22,380 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-21 10:06:44,878 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-21 10:06:44,878 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-21 10:07:23,779 test_6my.py[line:79] INFO 修改登录密码1
+2019-11-21 10:07:29,482 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 10:07:30,123 functions.py[line:83] INFO 截图已保存
+2019-11-21 10:07:30,123 test_6my.py[line:94] INFO 测试失败！
+2019-11-21 10:07:30,123 test_6my.py[line:97] INFO 修改登录密码2
+2019-11-21 10:07:36,060 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 10:07:36,653 functions.py[line:83] INFO 截图已保存
+2019-11-21 10:07:36,653 test_6my.py[line:103] INFO 测试失败
+2019-11-21 10:07:36,653 test_6my.py[line:104] INFO 修改登录密码自动化测试结束
+2019-11-21 10:07:36,653 test_6my.py[line:105] INFO 密码为：8ad4zpxr
+2019-11-21 10:07:36,669 test_6my.py[line:60] INFO 修改登录手机
+2019-11-21 10:10:09,977 desired_caps.py[line:34] INFO start app
+2019-11-21 10:10:27,914 run.py[line:19] INFO start run test case....
+2019-11-21 10:10:27,914 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-21 10:12:18,346 desired_caps.py[line:34] INFO start app
+2019-11-21 10:12:37,531 run.py[line:19] INFO start run test case....
+2019-11-21 10:12:37,531 test_1login.py[line:15] INFO 登录功能断言测试开始
+2019-11-21 10:14:25,034 functions.py[line:83] INFO 截图已保存
+2019-11-21 10:14:25,034 test_1login.py[line:73] INFO 登录模块断言测试结束
+2019-11-21 10:14:30,425 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 10:16:15,077 test_4msg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 10:16:26,929 message_view.py[line:57] INFO 发起群聊
+2019-11-21 10:16:26,929 test_4msg.py[line:17] INFO 消息自动化测试End
+2019-11-21 10:17:47,769 functions.py[line:83] INFO 截图已保存
+2019-11-21 10:18:10,691 test_6my.py[line:79] INFO 修改登录密码1
+2019-11-21 10:18:16,316 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 10:18:16,863 functions.py[line:83] INFO 截图已保存
+2019-11-21 10:18:16,863 test_6my.py[line:94] INFO 测试失败！
+2019-11-21 10:18:16,863 test_6my.py[line:97] INFO 修改登录密码2
+2019-11-21 10:18:22,632 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 10:18:23,288 functions.py[line:83] INFO 截图已保存
+2019-11-21 10:18:23,288 test_6my.py[line:103] INFO 测试失败
+2019-11-21 10:18:23,288 test_6my.py[line:104] INFO 修改登录密码自动化测试结束
+2019-11-21 10:18:23,288 test_6my.py[line:105] INFO 密码为：nm28lppj
+2019-11-21 10:18:23,288 test_6my.py[line:60] INFO 修改登录手机
+2019-11-21 10:33:22,791 desired_caps.py[line:34] INFO start app
+2019-11-21 10:33:28,776 desired_caps.py[line:34] INFO start app
+2019-11-21 10:33:46,189 test_3file.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 10:45:47,567 desired_caps.py[line:34] INFO start app
+2019-11-21 10:46:05,804 run.py[line:19] INFO start run test case....
+2019-11-21 10:46:05,804 test_alogin.py[line:15] INFO 登录功能断言测试开始
+2019-11-21 10:47:55,053 functions.py[line:83] INFO 截图已保存
+2019-11-21 10:47:55,053 test_alogin.py[line:73] INFO 登录模块断言测试结束
+2019-11-21 10:48:00,740 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 10:49:09,690 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 10:49:22,581 message_view.py[line:57] INFO 发起群聊
+2019-11-21 10:49:22,581 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 10:49:23,562 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-21 10:49:42,686 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-21 10:49:42,686 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-21 10:50:17,656 test_fmy.py[line:79] INFO 修改登录密码1
+2019-11-21 10:50:23,202 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 10:50:23,890 functions.py[line:83] INFO 截图已保存
+2019-11-21 10:50:23,890 test_fmy.py[line:94] INFO 测试失败！
+2019-11-21 10:50:23,890 test_fmy.py[line:97] INFO 修改登录密码2
+2019-11-21 10:50:29,764 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 10:50:30,436 functions.py[line:83] INFO 截图已保存
+2019-11-21 10:50:30,436 test_fmy.py[line:103] INFO 测试失败
+2019-11-21 10:50:30,436 test_fmy.py[line:104] INFO 修改登录密码自动化测试结束
+2019-11-21 10:50:30,436 test_fmy.py[line:105] INFO 密码为：zq8wlcvr
+2019-11-21 10:50:30,436 test_fmy.py[line:60] INFO 修改登录手机
+2019-11-21 10:52:37,650 desired_caps.py[line:34] INFO start app
+2019-11-21 10:52:55,924 run.py[line:19] INFO start run test case....
+2019-11-21 10:52:55,924 test_alogin.py[line:15] INFO 登录功能断言测试开始
+2019-11-21 10:54:43,602 functions.py[line:83] INFO 截图已保存
+2019-11-21 10:54:43,602 test_alogin.py[line:73] INFO 登录模块断言测试结束
+2019-11-21 10:54:43,602 test_bhome.py[line:8] INFO 首页自动化测试开始
+2019-11-21 10:54:49,602 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 10:56:09,846 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 10:56:21,799 message_view.py[line:57] INFO 发起群聊
+2019-11-21 10:56:21,799 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 10:56:21,814 test_enew.py[line:9] INFO 新建自动化测试开始
+2019-11-21 10:56:22,767 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-21 10:56:50,748 desired_caps.py[line:34] INFO start app
+2019-11-21 10:57:10,141 run.py[line:19] INFO start run test case....
+2019-11-21 10:57:10,141 test_alogin.py[line:15] INFO 登录功能断言测试开始
+2019-11-21 10:57:29,651 test_bhome.py[line:8] INFO 首页自动化测试开始
+2019-11-21 10:57:29,682 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 10:57:29,698 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 10:57:29,745 message_view.py[line:57] INFO 发起群聊
+2019-11-21 10:57:29,745 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 10:57:29,745 test_enew.py[line:9] INFO 新建自动化测试开始
+2019-11-21 10:57:30,548 test_fmy.py[line:79] INFO 修改登录密码1
+2019-11-21 10:57:30,595 test_fmy.py[line:97] INFO 修改登录密码2
+2019-11-21 10:57:30,673 test_fmy.py[line:60] INFO 修改登录手机
+2019-11-21 10:58:54,584 desired_caps.py[line:34] INFO start app
+2019-11-21 10:59:11,801 run.py[line:19] INFO start run test case....
+2019-11-21 10:59:11,801 test_alogin.py[line:15] INFO 登录功能断言测试开始
+2019-11-21 10:59:47,460 functions.py[line:83] INFO 截图已保存
+2019-11-21 10:59:58,233 functions.py[line:83] INFO 截图已保存
+2019-11-21 11:00:08,742 functions.py[line:83] INFO 截图已保存
+2019-11-21 11:00:19,326 functions.py[line:83] INFO 截图已保存
+2019-11-21 11:00:34,366 functions.py[line:83] INFO 截图已保存
+2019-11-21 11:01:22,716 functions.py[line:83] INFO 截图已保存
+2019-11-21 11:01:22,717 test_alogin.py[line:73] INFO 登录模块断言测试结束
+2019-11-21 11:01:22,717 test_bhome.py[line:8] INFO 首页自动化测试开始
+2019-11-21 11:01:28,433 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 11:01:34,000 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 11:01:39,591 message_view.py[line:57] INFO 发起群聊
+2019-11-21 11:01:39,591 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 11:01:39,591 test_enew.py[line:9] INFO 新建自动化测试开始
+2019-11-21 11:08:23,654 desired_caps.py[line:34] INFO start app
+2019-11-21 11:08:41,699 run.py[line:19] INFO start run test case....
+2019-11-21 11:08:41,699 test_alogin.py[line:16] INFO 登录功能断言测试开始
+2019-11-21 11:08:41,715 test_alogin.py[line:20] INFO 未重新按钮App
+2019-11-21 11:10:26,854 functions.py[line:83] INFO 截图已保存
+2019-11-21 11:10:26,870 test_alogin.py[line:79] INFO 登录模块断言测试结束
+2019-11-21 11:10:26,870 test_bhome.py[line:8] INFO 首页自动化测试开始
+2019-11-21 11:10:32,869 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 11:14:54,946 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 11:15:08,055 message_view.py[line:57] INFO 发起群聊
+2019-11-21 11:15:08,055 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 11:15:08,055 test_enew.py[line:9] INFO 新建自动化测试开始
+2019-11-21 11:15:09,008 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-21 11:15:28,413 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-21 11:15:28,413 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-21 11:16:17,166 test_fmy.py[line:79] INFO 修改登录密码1
+2019-11-21 11:16:22,634 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 11:16:23,275 functions.py[line:83] INFO 截图已保存
+2019-11-21 11:16:23,275 test_fmy.py[line:94] INFO 测试失败！
+2019-11-21 11:16:23,275 test_fmy.py[line:97] INFO 修改登录密码2
+2019-11-21 11:16:29,306 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 11:16:29,884 functions.py[line:83] INFO 截图已保存
+2019-11-21 11:16:29,884 test_fmy.py[line:103] INFO 测试失败
+2019-11-21 11:16:29,884 test_fmy.py[line:104] INFO 修改登录密码自动化测试结束
+2019-11-21 11:16:29,884 test_fmy.py[line:105] INFO 密码为：tgzsz2in
+2019-11-21 11:16:29,884 test_fmy.py[line:60] INFO 修改登录手机
+2019-11-21 11:24:00,215 desired_caps.py[line:34] INFO start app
+2019-11-21 11:24:18,922 run.py[line:19] INFO start run test case....
+2019-11-21 11:24:18,922 test_alogin.py[line:16] INFO 登录功能断言测试开始
+2019-11-21 11:24:18,922 test_alogin.py[line:20] INFO 未重新按钮App
+2019-11-21 11:26:01,446 functions.py[line:83] INFO 截图已保存
+2019-11-21 11:26:01,446 test_alogin.py[line:79] INFO 登录模块断言测试结束
+2019-11-21 11:26:01,446 test_bhome.py[line:8] INFO 首页自动化测试开始
+2019-11-21 11:26:07,196 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 11:27:54,416 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 11:28:08,584 message_view.py[line:57] INFO 发起群聊
+2019-11-21 11:28:08,584 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 11:28:08,584 test_enew.py[line:9] INFO 新建自动化测试开始
+2019-11-21 11:28:09,818 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-21 11:28:28,114 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-21 11:28:28,114 right_layout.py[line:80] INFO 流程图自动化测试开始
+2019-11-21 11:29:07,339 test_fmy.py[line:79] INFO 修改登录密码1
+2019-11-21 11:29:12,854 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 11:29:13,484 functions.py[line:83] INFO 截图已保存
+2019-11-21 11:29:13,484 test_fmy.py[line:94] INFO 测试失败！
+2019-11-21 11:29:13,484 test_fmy.py[line:97] INFO 修改登录密码2
+2019-11-21 11:29:19,796 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 11:29:20,421 functions.py[line:83] INFO 截图已保存
+2019-11-21 11:29:20,421 test_fmy.py[line:103] INFO 测试失败
+2019-11-21 11:29:20,421 test_fmy.py[line:104] INFO 修改登录密码自动化测试结束
+2019-11-21 11:29:20,421 test_fmy.py[line:105] INFO 密码为：gqlaz8bt
+2019-11-21 11:29:20,421 test_fmy.py[line:60] INFO 修改登录手机
+2019-11-21 11:31:57,714 desired_caps.py[line:34] INFO start app
+2019-11-21 11:32:15,760 run.py[line:19] INFO start run test case....
+2019-11-21 11:32:15,760 test_alogin.py[line:16] INFO 登录功能断言测试开始
+2019-11-21 11:32:15,775 test_alogin.py[line:20] INFO 未重新按钮App
+2019-11-21 11:33:56,404 functions.py[line:83] INFO 截图已保存
+2019-11-21 11:33:56,404 test_alogin.py[line:79] INFO 登录模块断言测试结束
+2019-11-21 11:33:56,404 test_bhome.py[line:8] INFO 首页自动化测试开始
+2019-11-21 11:34:01,856 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 11:35:41,060 file_view.py[line:205] INFO 回收站情况完毕
+2019-11-21 11:35:42,945 file_view.py[line:147] INFO 开始执行文件移动
+2019-11-21 11:35:53,959 file_view.py[line:169] INFO 移动成功
+2019-11-21 11:35:53,959 file_view.py[line:175] INFO 文件移动结束
+2019-11-21 11:35:53,959 file_view.py[line:229] INFO 文件重命名开始start
+2019-11-21 11:37:37,810 file_view.py[line:284] INFO 二级目录重命名
+2019-11-21 11:38:04,591 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 11:38:09,731 message_view.py[line:57] INFO 发起群聊
+2019-11-21 11:38:09,731 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 11:38:09,731 test_enew.py[line:9] INFO 新建自动化测试开始
+2019-11-21 11:38:11,184 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-21 11:38:30,464 right_layout.py[line:73] INFO 组织架构图自动化测试结束
+2019-11-21 11:38:30,464 right_layout.py[line:80] INFO 流程图自动化测试开始

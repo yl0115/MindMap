@@ -7,6 +7,7 @@ from businessView.seting_about.general_settings import GeneralSetting
 import string, random
 
 
+# @unittest.skip
 class MyTest(StartEnd):
     csv_file = '../data/login/login_input.csv'
     # csv_file = r'F:\testCode\MindUIAutoTest\data\login\login_input.csv'

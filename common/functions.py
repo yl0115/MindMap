@@ -142,11 +142,12 @@ class Common(BaseView):
         try:
             # 获取Toast提示
             message = '//*[@text=\'{}\']'.format(msg)
-            toast_element = WebDriverWait(self.driver, 5).until(lambda x: x.find_element_by_xpath(message))
-            logging.info(toast_element.text)
+            WebDriverWait(self.driver, 5).until(lambda x: x.find_element_by_xpath(message))
             return True
         except TimeoutException:
             self.get_screen_shot(module)
+            toast_element = WebDriverWait(self.driver, 5).until(lambda x: x.find_element_by_xpath(message))
+            logging.info('提示有误——：'+ toast_element.text)
             return False
 
     def go_back(self):

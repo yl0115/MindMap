@@ -1,5 +1,6 @@
 import time
-from selenium.common.exceptions import NoSuchElementException, TimeoutException, StaleElementReferenceException
+from selenium.common.exceptions import NoSuchElementException, TimeoutException, StaleElementReferenceException, \
+    InvalidArgumentException
 from common.functions import Common
 import logging
 import random
@@ -115,7 +116,11 @@ class FileView(Common):
             # random_name = str(random.randint(1000, 9999))
             self.add_file1(i, tab=2, num=1)
             new_folder = '//android.widget.TextView[@text="%s"]' % i
-            self.find_path(new_folder).click()
+            try:
+                self.find_path(new_folder).click()
+            except NoSuchElementException:
+                self.swipe_up()
+                self.find_path(new_folder).click()
         for i in range(4):
             if i == 3:
                 self.go_back()
@@ -175,10 +180,8 @@ class FileView(Common):
         recycle_path = '//android.widget.TextView[@text="回收站"]'
         self.find_path(recycle_path).click()
         self.wait_time(5)
-        num = 0
         try:
-            while True:
-                num = num + 1
+            for i in range(10):
                 # logging.info('开始循环删除回收站%s' % num)
                 # 第一个元素的路径
                 ele_path = '//android.widget.TextView'
@@ -194,10 +197,12 @@ class FileView(Common):
                 # self.find_id('android:id/button1').click()
                 self.wait_time(5)
         except IndexError as i:
-            logging.info('回收站清空完毕:  %s' % i)
+            logging.info('回收站清空完毕')
 
         except NoSuchElementException as n:
-            logging.info('回收站清空完毕:  %s' % n)
+            logging.info('回收站清空完毕')
+        except InvalidArgumentException:
+            logging.info('回收站情况完毕')
         finally:
             for i in range(10):
                 self.go_back()
@@ -209,7 +214,7 @@ class FileView(Common):
         """删除文件主面板上的数据"""
         time.sleep(1)
         file_delete = self.find_paths('//android.widget.TextView')
-        self.slide(file_delete[11])
+        self.slide1(file_delete[16])
         # 确认删除按钮路径
         delete_path = '//android.widget.TextView[@text="删除"]'
         self.find_path(delete_path).click()
@@ -387,9 +392,25 @@ class FileView(Common):
         """左滑显示按钮功能"""
         # 获取当前元素坐标
         coord = ele.location
-        x1 = coord['x'] // 100
+        # x1 = coord['x'] // 100
+        # y1 = coord['y']
+        # TouchAction(self.driver).long_press(ele,duration=None).move_to(x=x1, y=y1).release().perform()
+        x1 = coord['x']
+        x2 = coord['x']+800
+        y1 = coord['y']+50
+        self.swipe(x2,y1,x1,y1,500)
+
+    def slide1(self, ele):
+        """左滑显示按钮功能"""
+        # 获取当前元素坐标
+        coord = ele.location
+        # x1 = coord['x'] // 100
+        # y1 = coord['y']
+        # TouchAction(self.driver).long_press(ele,duration=None).move_to(x=x1, y=y1).release().perform()
+        x1 = coord['x']//4
+        x2 = coord['x']
         y1 = coord['y']
-        TouchAction(self.driver).long_press(ele,duration=None).move_to(x=x1, y=y1).release().perform()
+        self.swipe(x2,y1,x1,y1,500)
 
 # if __name__ == '__main__':
 #     driver = mind_desired()

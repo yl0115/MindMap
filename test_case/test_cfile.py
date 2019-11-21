@@ -7,6 +7,7 @@ import logging
 import unittest
 
 
+# @unittest.skip('跳过')
 class MyTest(StartEnd):
     def test_file1(self):
         fv = FileView(self.driver)

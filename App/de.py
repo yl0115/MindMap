@@ -104,3 +104,20 @@ import random
 # print(type(a))
 # print(a)
 
+# def a():
+#     return 'dd', '44'
+#
+# b = a()
+# print(b[1])
+# print(type(b[1]))
+import yaml
+
+def qq():
+    with open(r'../config/desired_caps.yaml', 'r', encoding='utf-8') as f:
+        data = yaml.load(f, Loader=yaml.FullLoader)
+    if data['noReset']:
+        print(data['noReset'])
+    else:
+        print(11)
+
+qq()
