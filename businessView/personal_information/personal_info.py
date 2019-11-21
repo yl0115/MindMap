@@ -1,6 +1,6 @@
 from time import sleep
 import os
-
+import yaml
 from selenium.common.exceptions import NoSuchElementException
 
 from common.functions import Common
@@ -48,6 +48,13 @@ class PersonalInformation(Common):
         self.find_path(portrait_path).click()
         # 点击拍照按钮
         self.find_path(choose_photos1).click()
+        with open(r'../config/desired_caps.yaml', 'r', encoding='utf-8') as f:
+            data = yaml.load(f, Loader=yaml.FullLoader)
+        if data['noReset']:
+            pass
+        else:
+                self.get_permission()
+        self.forced_wait()
         # 点击返回按钮
         self.driver.keyevent(4)
         try:

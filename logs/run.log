@@ -1080,3 +1080,150 @@
 2019-11-21 16:04:56,384 test_fmy.py[line:104] INFO 修改登录密码自动化测试结束
 2019-11-21 16:04:56,384 test_fmy.py[line:105] INFO 密码为：jwsn507p
 2019-11-21 16:04:56,384 test_fmy.py[line:60] INFO 修改登录手机
+2019-11-21 16:27:20,060 desired_caps.py[line:34] INFO start app
+2019-11-21 16:27:37,183 run.py[line:19] INFO start run test case....
+2019-11-21 16:27:37,183 test_alogin.py[line:16] INFO 登录功能断言测试开始
+2019-11-21 16:27:37,183 test_alogin.py[line:20] INFO 未安装App
+2019-11-21 16:29:25,385 functions.py[line:83] INFO 截图已保存
+2019-11-21 16:29:25,385 test_alogin.py[line:80] INFO 登录模块断言测试结束
+2019-11-21 16:29:25,385 test_bhome.py[line:8] INFO 首页自动化测试开始
+2019-11-21 16:29:27,544 test_bhome.py[line:11] INFO 首页自动化测试结束
+2019-11-21 16:29:27,560 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 16:31:10,318 file_view.py[line:205] INFO 回收站清空完毕
+2019-11-21 16:31:12,068 file_view.py[line:147] INFO 开始执行文件移动
+2019-11-21 16:31:23,442 file_view.py[line:169] INFO 移动成功
+2019-11-21 16:31:23,442 file_view.py[line:175] INFO 文件移动结束
+2019-11-21 16:31:23,442 file_view.py[line:231] INFO 文件重命名开始start
+2019-11-21 16:33:13,430 file_view.py[line:286] INFO 二级目录重命名
+2019-11-21 16:36:02,763 desired_caps.py[line:34] INFO start app
+2019-11-21 16:36:21,725 run.py[line:19] INFO start run test case....
+2019-11-21 16:36:21,725 test_alogin.py[line:16] INFO 登录功能断言测试开始
+2019-11-21 16:36:21,725 test_alogin.py[line:20] INFO 未安装App
+2019-11-21 16:38:07,621 functions.py[line:83] INFO 截图已保存
+2019-11-21 16:38:07,621 test_alogin.py[line:80] INFO 登录模块断言测试结束
+2019-11-21 16:38:07,621 test_bhome.py[line:8] INFO 首页自动化测试开始
+2019-11-21 16:38:12,933 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 16:38:37,791 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 16:38:43,806 message_view.py[line:57] INFO 发起群聊
+2019-11-21 16:38:43,806 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 16:38:43,806 test_enew.py[line:9] INFO 新建自动化测试开始
+2019-11-21 16:38:44,290 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-21 16:39:19,880 test_fmy.py[line:79] INFO 修改登录密码1
+2019-11-21 16:39:24,834 test_fmy.py[line:97] INFO 修改登录密码2
+2019-11-21 17:17:11,141 desired_caps.py[line:34] INFO start app
+2019-11-21 17:17:20,390 desired_caps.py[line:34] INFO start app
+2019-11-21 17:17:29,567 desired_caps.py[line:34] INFO start app
+2019-11-21 17:17:38,769 desired_caps.py[line:34] INFO start app
+2019-11-21 17:18:05,215 desired_caps.py[line:34] INFO start app
+2019-11-21 17:18:32,496 run.py[line:19] INFO start run test case....
+2019-11-21 17:18:32,496 test_alogin.py[line:16] INFO 登录功能断言测试开始
+2019-11-21 17:18:32,512 test_alogin.py[line:22] INFO 新安装App
+2019-11-21 17:20:20,927 functions.py[line:83] INFO 截图已保存
+2019-11-21 17:20:20,927 test_alogin.py[line:80] INFO 登录模块断言测试结束
+2019-11-21 17:20:20,942 test_bhome.py[line:8] INFO 首页自动化测试开始
+2019-11-21 17:20:26,504 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 17:20:31,863 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 17:20:37,284 message_view.py[line:57] INFO 发起群聊
+2019-11-21 17:20:37,284 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 17:20:37,284 test_enew.py[line:9] INFO 新建自动化测试开始
+2019-11-21 17:20:37,503 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-21 17:21:01,115 functions.py[line:83] INFO 截图已保存
+2019-11-21 17:21:01,115 test_fmy.py[line:26] INFO 测试失败！
+2019-11-21 17:21:45,990 test_fmy.py[line:79] INFO 修改登录密码1
+2019-11-21 17:21:49,692 test_fmy.py[line:97] INFO 修改登录密码2
+2019-11-21 17:22:00,570 functions.py[line:83] INFO 截图已保存
+2019-11-21 17:22:07,288 test_fmy.py[line:60] INFO 修改登录手机
+2019-11-21 17:42:08,870 desired_caps.py[line:34] INFO start app
+2019-11-21 17:42:18,131 desired_caps.py[line:34] INFO start app
+2019-11-21 17:42:27,365 desired_caps.py[line:34] INFO start app
+2019-11-21 17:42:36,614 desired_caps.py[line:34] INFO start app
+2019-11-21 17:42:45,749 desired_caps.py[line:34] INFO start app
+2019-11-21 17:43:31,884 desired_caps.py[line:34] INFO start app
+2019-11-21 17:43:53,176 run.py[line:19] INFO start run test case....
+2019-11-21 17:43:53,176 test_alogin.py[line:16] INFO 登录功能断言测试开始
+2019-11-21 17:43:53,192 test_alogin.py[line:22] INFO 新安装App
+2019-11-21 17:44:31,348 functions.py[line:83] INFO 截图已保存
+2019-11-21 17:45:50,866 functions.py[line:83] INFO 截图已保存
+2019-11-21 17:45:50,866 test_alogin.py[line:80] INFO 登录模块断言测试结束
+2019-11-21 17:45:50,866 test_bhome.py[line:10] INFO 首页自动化测试开始
+2019-11-21 17:45:52,148 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 17:45:57,507 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 17:46:12,259 message_view.py[line:57] INFO 发起群聊
+2019-11-21 17:46:12,259 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 17:46:12,259 test_enew.py[line:9] INFO 新建自动化测试开始
+2019-11-21 17:46:13,212 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-21 17:46:34,950 right_layout.py[line:77] INFO 组织架构图自动化测试结束
+2019-11-21 17:46:34,950 right_layout.py[line:84] INFO 流程图自动化测试开始
+2019-11-21 17:46:55,995 right_layout.py[line:99] INFO 流程图自动化测试结束
+2019-11-21 17:46:55,995 test_enew.py[line:14] INFO 新建自动化测试结束
+2019-11-21 17:47:35,209 test_fmy.py[line:79] INFO 修改登录密码1
+2019-11-21 17:47:40,908 my_view.py[line:82] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 17:47:42,575 functions.py[line:83] INFO 截图已保存
+2019-11-21 17:47:42,575 test_fmy.py[line:94] INFO 测试失败！
+2019-11-21 17:47:42,575 test_fmy.py[line:97] INFO 修改登录密码2
+2019-11-21 17:47:48,646 my_view.py[line:106] INFO Message: An element could not be located on the page using the given search parameters.
+
+2019-11-21 17:47:50,224 functions.py[line:83] INFO 截图已保存
+2019-11-21 17:47:50,224 test_fmy.py[line:103] INFO 测试失败
+2019-11-21 17:47:50,224 test_fmy.py[line:104] INFO 修改登录密码自动化测试结束
+2019-11-21 17:47:50,224 test_fmy.py[line:105] INFO 密码为：mwnlawbt
+2019-11-21 17:47:50,224 test_fmy.py[line:60] INFO 修改登录手机
+2019-11-21 17:50:39,075 desired_caps.py[line:34] INFO start app
+2019-11-21 17:50:58,051 run.py[line:19] INFO start run test case....
+2019-11-21 17:50:58,051 test_alogin.py[line:16] INFO 登录功能断言测试开始
+2019-11-21 17:50:58,051 test_alogin.py[line:22] INFO 新安装App
+2019-11-21 17:52:47,990 functions.py[line:83] INFO 截图已保存
+2019-11-21 17:52:47,990 test_alogin.py[line:80] INFO 登录模块断言测试结束
+2019-11-21 17:52:53,583 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 17:53:36,600 desired_caps.py[line:34] INFO start app
+2019-11-21 17:54:04,584 run.py[line:19] INFO start run test case....
+2019-11-21 17:54:04,585 test_alogin.py[line:16] INFO 登录功能断言测试开始
+2019-11-21 17:54:04,588 test_alogin.py[line:22] INFO 新安装App
+2019-11-21 17:54:10,167 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 17:54:10,204 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 17:54:10,243 message_view.py[line:57] INFO 发起群聊
+2019-11-21 17:54:10,243 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 17:54:10,244 test_enew.py[line:9] INFO 新建自动化测试开始
+2019-11-21 17:54:10,637 test_fmy.py[line:79] INFO 修改登录密码1
+2019-11-21 17:54:10,659 test_fmy.py[line:97] INFO 修改登录密码2
+2019-11-21 17:54:10,683 test_fmy.py[line:60] INFO 修改登录手机
+2019-11-21 17:55:22,018 desired_caps.py[line:34] INFO start app
+2019-11-21 17:55:42,931 run.py[line:19] INFO start run test case....
+2019-11-21 17:55:42,932 test_alogin.py[line:16] INFO 登录功能断言测试开始
+2019-11-21 17:55:42,935 test_alogin.py[line:22] INFO 新安装App
+2019-11-21 17:57:30,550 functions.py[line:83] INFO 截图已保存
+2019-11-21 17:57:30,551 test_alogin.py[line:80] INFO 登录模块断言测试结束
+2019-11-21 17:57:31,700 test_bhome.py[line:21] INFO 新安装App没有记录，首页测试结束
+2019-11-21 17:57:32,794 test_bhome.py[line:21] INFO 新安装App没有记录，首页测试结束
+2019-11-21 17:57:32,795 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 17:58:02,395 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 17:58:10,869 message_view.py[line:57] INFO 发起群聊
+2019-11-21 17:58:10,870 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 17:58:10,871 test_enew.py[line:9] INFO 新建自动化测试开始
+2019-11-21 17:58:11,183 right_layout.py[line:59] INFO 组织架构图自动化测试开始
+2019-11-21 17:58:30,059 functions.py[line:83] INFO 截图已保存
+2019-11-21 17:58:30,060 test_fmy.py[line:26] INFO 测试失败！
+2019-11-21 18:00:59,380 desired_caps.py[line:34] INFO start app
+2019-11-21 18:01:20,206 run.py[line:19] INFO start run test case....
+2019-11-21 18:01:20,206 test_alogin.py[line:16] INFO 登录功能断言测试开始
+2019-11-21 18:01:20,210 test_alogin.py[line:22] INFO 新安装App
+2019-11-21 18:03:10,014 functions.py[line:83] INFO 截图已保存
+2019-11-21 18:03:10,015 test_alogin.py[line:80] INFO 登录模块断言测试结束
+2019-11-21 18:03:11,183 test_bhome.py[line:21] INFO 新安装App没有记录，首页测试结束
+2019-11-21 18:03:12,284 test_bhome.py[line:21] INFO 新安装App没有记录，首页测试结束
+2019-11-21 18:03:12,288 test_cfile.py[line:14] INFO 文件模块自动化测试开始
+2019-11-21 18:04:54,611 file_view.py[line:205] INFO 回收站清空完毕
+2019-11-21 18:04:57,024 file_view.py[line:147] INFO 开始执行文件移动
+2019-11-21 18:05:07,169 file_view.py[line:169] INFO 移动成功
+2019-11-21 18:05:07,169 file_view.py[line:175] INFO 文件移动结束
+2019-11-21 18:05:07,170 file_view.py[line:231] INFO 文件重命名开始start
+2019-11-21 18:06:51,726 file_view.py[line:286] INFO 二级目录重命名
+2019-11-21 18:07:18,832 test_dmsg.py[line:10] INFO 消息自动化测试Start
+2019-11-21 18:07:24,411 message_view.py[line:57] INFO 发起群聊
+2019-11-21 18:07:24,412 test_dmsg.py[line:17] INFO 消息自动化测试End
+2019-11-21 18:07:24,413 test_enew.py[line:9] INFO 新建自动化测试开始
+2019-11-21 18:08:24,139 test_fmy.py[line:79] INFO 修改登录密码1
+2019-11-21 18:08:28,351 test_fmy.py[line:97] INFO 修改登录密码2
+2019-11-21 18:08:39,015 functions.py[line:83] INFO 截图已保存
+2019-11-21 18:08:45,089 test_fmy.py[line:60] INFO 修改登录手机

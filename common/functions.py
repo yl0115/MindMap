@@ -217,8 +217,14 @@ class Common(BaseView):
         y1 = coord['y']
         self.swipe(x2,y1,x1,y1,500)
 
-    def a(self):
-        # WebDriverWait(self.driver, 1).until(lambda x: x.find_element_by_xpath(
-        #     '//android.widget.TextView[@text="我的文件"]')):
-        pass
+    def is_not_exist(self, ele):
+        """
+        判断元素是否存在
+        :param ele: 
+        :return: 
+        """
+        WebDriverWait(self.driver, 1).until(lambda x: x.find_element_by_xpath('//android.widget.TextView[@text="%s"]' % ele))
+
+    def get_permission(self):
+        self.find_id('com.android.packageinstaller:id/permission_allow_button').click()
 

@@ -4,7 +4,7 @@ platformVersion: 5.1.1
 app: mind.apk
 appPackage: com.mind_map_app
 appActivity: com.reactnative_app.MainActivity
-noReset: True  #False是重新安装 True是不重新安装
+noReset: False  #False是重新安装 True是不重新安装
 unicodeKeyboard: True
 resetKeyboard: True
 automationName: uiautomator2
