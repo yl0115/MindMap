@@ -181,7 +181,7 @@ class FileView(Common):
         self.find_path(recycle_path).click()
         self.wait_time(5)
         try:
-            for i in range(10):
+            while True:
                 # logging.info('开始循环删除回收站%s' % num)
                 # 第一个元素的路径
                 ele_path = '//android.widget.TextView'
@@ -196,13 +196,15 @@ class FileView(Common):
                 # 点击确认
                 # self.find_id('android:id/button1').click()
                 self.wait_time(5)
-        except IndexError as i:
+        except IndexError:
             logging.info('回收站清空完毕')
 
-        except NoSuchElementException as n:
+        except NoSuchElementException:
             logging.info('回收站清空完毕')
         except InvalidArgumentException:
-            logging.info('回收站情况完毕')
+            logging.info('回收站清空完毕')
+        except Exception:
+            logging.info('回收站清空完毕')
         finally:
             for i in range(10):
                 self.go_back()
@@ -388,29 +390,6 @@ class FileView(Common):
             # 点击新建文件夹按钮
             self.find_path(self.add_folder_button).click()
 
-    def slide(self, ele):
-        """左滑显示按钮功能"""
-        # 获取当前元素坐标
-        coord = ele.location
-        # x1 = coord['x'] // 100
-        # y1 = coord['y']
-        # TouchAction(self.driver).long_press(ele,duration=None).move_to(x=x1, y=y1).release().perform()
-        x1 = coord['x']
-        x2 = coord['x']+800
-        y1 = coord['y']+50
-        self.swipe(x2,y1,x1,y1,500)
-
-    def slide1(self, ele):
-        """左滑显示按钮功能"""
-        # 获取当前元素坐标
-        coord = ele.location
-        # x1 = coord['x'] // 100
-        # y1 = coord['y']
-        # TouchAction(self.driver).long_press(ele,duration=None).move_to(x=x1, y=y1).release().perform()
-        x1 = coord['x']//4
-        x2 = coord['x']
-        y1 = coord['y']
-        self.swipe(x2,y1,x1,y1,500)
 
 # if __name__ == '__main__':
 #     driver = mind_desired()

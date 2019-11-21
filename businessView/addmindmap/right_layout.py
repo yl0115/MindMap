@@ -20,18 +20,18 @@ class AddMind(Common):
         self.forced_wait(1)
         function_key = self.find_paths('//android.widget.TextView')
         function_key[1].click()
-        self.find_path(self.class_path('保存图片', 't')).click()
+        self.find_path(self.abs_path('保存图片', 't')).click()
         self.toast('图片已经保存到相册', self.module)
         function_key[1].click()
-        self.find_path(self.class_path('发送文件', 't')).click()
+        self.find_path(self.abs_path('发送文件', 't')).click()
         self.go_back()
         self.forced_wait(1)
         function_key[1].click()
-        self.find_path(self.class_path('发送图片', 't')).click()
+        self.find_path(self.abs_path('发送图片', 't')).click()
         self.go_back()
         self.forced_wait(1)
         function_key[1].click()
-        self.find_path(self.class_path('取消', 't')).click()
+        self.find_path(self.abs_path('取消', 't')).click()
         function_key[0].click()
 
 
@@ -44,7 +44,7 @@ class AddMind(Common):
         # 点击底部新建+按钮
         self.find_path(self.add_mind).click()
         logging.info('思维导图自动化测试开始！')
-        self.find_path(self.class_path('思维导图', 't')).click()
+        self.find_path(self.abs_path('思维导图', 't')).click()
         # 调用右上角功能
         self.function_kyes()
         logging.info('思维导图测试结束')
@@ -57,18 +57,22 @@ class AddMind(Common):
         # 点击底部新建+按钮
         self.find_path(self.add_mind).click()
         logging.info('组织架构图自动化测试开始')
-        self.find_path(self.class_path('组织架构图', 't')).click()
+        self.find_path(self.abs_path('组织架构图', 't')).click()
         self.forced_wait()
         # 对图形进行操作
         # self.click_tap(518,661)
         self.click_tap(518,661)
-        self.find_path(self.class_path('组织部门', 'e')).send_keys(random.randint(1, 999))
+        self.find_path(self.abs_path('组织部门', 'e')).send_keys(random.randint(1, 999))
         # 调用右上角功能
         self.function_kyes()
         # 点击保存按钮
-        self.find_path(self.class_path('保存', 't')).click()
+        self.find_path(self.abs_path('保存', 't')).click()
         # 再次点击保存
-        self.find_path(self.class_path('保存', 't')).click()
+        self.find_path(self.abs_path('取消', 't')).click()
+        self.forced_wait()
+        function_key = self.find_paths('//android.widget.TextView')
+        function_key[0].click()
+        self.find_path(self.abs_path('不保存', 't')).click()
 
         logging.info('组织架构图自动化测试结束')
 
@@ -78,16 +82,20 @@ class AddMind(Common):
         :return: 
         """
         logging.info('流程图自动化测试开始')
-        self.find_path(self.class_path('流程图', 't')).click()
+        self.find_path(self.abs_path('流程图', 't')).click()
         # 对图形进行操作
         self.dblclick(537, 994)
-        self.find_path(self.class_path('开始', 'e')).send_keys(random.randint(1, 999))
+        self.find_path(self.abs_path('开始', 'e')).send_keys(random.randint(1, 999))
         # 调用右上角功能
         self.function_kyes()
         # 点击保存按钮
-        self.find_path(self.class_path('保存', 't')).click()
+        self.find_path(self.abs_path('保存', 't')).click()
         # 再次点击保存
-        self.find_path(self.class_path('保存', 't')).click()
+        self.find_path(self.abs_path('取消', 't')).click()
+        self.forced_wait()
+        function_key = self.find_paths('//android.widget.TextView')
+        function_key[0].click()
+        self.find_path(self.abs_path('不保存', 't')).click()
         logging.info('流程图自动化测试结束')
 
 

@@ -17,8 +17,9 @@ class LoginTest(StartEnd):
         with open(r'../config/desired_caps.yaml', 'r', encoding='utf-8') as f:
             data = yaml.load(f, Loader=yaml.FullLoader)
         if data['noReset']:
-            logging.info('未重新按钮App')
+            logging.info('未安装App')
         else:
+            logging.info('新安装App')
             md.guide()
         # 循环编辑，行数从2开始读取
         for i in range(2, 200):

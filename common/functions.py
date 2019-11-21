@@ -168,13 +168,57 @@ class Common(BaseView):
         pass
 
     @staticmethod
-    def class_path(content, tag):
+    def abs_path(content, tag):
+        """
+        固定文字
+        :param content: 
+        :param tag: 
+        :return: 
+        """
         if tag == 't':
             return '//android.widget.TextView[@text="%s"]' % content
         if tag == 'e':
             return '//android.widget.EditText[@text="%s"]' % content
 
+    @staticmethod
+    def class_path(content, tag):
+        """
+        固定文字
+        :param content: 
+        :param tag: 
+        :return: 
+        """
+        if tag == 't':
+            return '//android.widget.TextView[contains(@text,"%s")]' % content
+        if tag == 'e':
+            return '//android.widget.EditText[contains(@text,"%s")]' % content
 
+    def slide(self, ele):
+        """左滑显示按钮功能"""
+        # 获取当前元素坐标
+        coord = ele.location
+        # x1 = coord['x'] // 100
+        # y1 = coord['y']
+        # TouchAction(self.driver).long_press(ele,duration=None).move_to(x=x1, y=y1).release().perform()
+        x1 = coord['x']
+        x2 = coord['x']+800
+        y1 = coord['y']+50
+        self.swipe(x2,y1,x1,y1,500)
 
+    def slide1(self, ele):
+        """左滑显示按钮功能"""
+        # 获取当前元素坐标
+        coord = ele.location
+        # x1 = coord['x'] // 100
+        # y1 = coord['y']
+        # TouchAction(self.driver).long_press(ele,duration=None).move_to(x=x1, y=y1).release().perform()
+        x1 = coord['x']//4
+        x2 = coord['x']
+        y1 = coord['y']
+        self.swipe(x2,y1,x1,y1,500)
 
+    def a(self):
+        # WebDriverWait(self.driver, 1).until(lambda x: x.find_element_by_xpath(
+        #     '//android.widget.TextView[@text="我的文件"]')):
+        pass
 

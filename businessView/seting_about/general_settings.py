@@ -48,9 +48,9 @@ class GeneralSetting(Common):
         imagelist = self.find_paths(r'//android.widget.ImageView')
         for i in range(4):
             imagelist[i].click()
-        self.find_path(self.class_path('请输入你的宝贵意见和建议', 'e')).send_keys('请输入你的宝贵意见和建议12212')
-        self.find_path(self.class_path('常用联系方式(选填)', 'e')).send_keys('常用联系方式(选填)1233')
-        self.find_path(self.class_path('提交', 't')).click()
+        self.find_path(self.abs_path('请输入你的宝贵意见和建议', 'e')).send_keys('请输入你的宝贵意见和建议12212')
+        self.find_path(self.abs_path('常用联系方式(选填)', 'e')).send_keys('常用联系方式(选填)1233')
+        self.find_path(self.abs_path('提交', 't')).click()
         self.toast('发送完成', self.module)
         self.forced_wait(2)
         self.go_back()

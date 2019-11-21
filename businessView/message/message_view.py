@@ -15,20 +15,20 @@ class Message(Common):
         :return: 
         """
         # 点击底部按钮
-        self.find_path(self.class_path('消息', 't')).click()
+        self.find_path(self.abs_path('消息', 't')).click()
         self.forced_wait()
         # 添加好友path路径(ImageView)
         image_view_path = '//android.widget.ImageView'
         # 点击加号按钮
         add_jia = self.find_paths(image_view_path)
         add_jia[1].click()
-        self.find_path(self.class_path('添加好友', 't')).click()
-        self.find_path(self.class_path('脑图号', 'e')).send_keys('99999999')
+        self.find_path(self.abs_path('添加好友', 't')).click()
+        self.find_path(self.abs_path('脑图号', 'e')).send_keys('99999999')
         self.driver.keyevent(66)
         self.forced_wait()
         self.find_path('//android.widget.ImageView').click()
-        self.find_path(self.class_path('请输入验证消息', 'e')).send_keys('nihao')
-        self.find_path(self.class_path('发送', 't')).click()
+        self.find_path(self.abs_path('请输入验证消息', 'e')).send_keys('nihao')
+        self.find_path(self.abs_path('发送', 't')).click()
         self.toast('请求发送成功', self.module)
         self.go_back()
         self.forced_wait()
