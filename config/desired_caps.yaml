@@ -1,6 +1,6 @@
 platformName: Android
-deviceName: FJH7N18925002809 # FIG-TL00 #r9127.0.0.1:62001
-platformVersion: 5.1.1
+deviceName: 192.168.3.26:5555
+platformVersion: '9.0'
 app: mind.apk
 appPackage: com.mind_map_app
 appActivity: com.reactnative_app.MainActivity
@@ -10,4 +10,4 @@ resetKeyboard: True
 automationName: uiautomator2
 ip: 127.0.0.1
 port: 4723
-udid: FJH7N18925002809 # I7WCYT5H9SLNWCWG
+#udid: FJH7N18925002809 # I7WCYT5H9SLNWCWG # FJH7N18925002809  FIG-TL00 127.0.0.1:62001

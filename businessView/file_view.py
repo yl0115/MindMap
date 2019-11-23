@@ -21,7 +21,7 @@ class FileView(Common):
     # 生成文件夹名称随机数
     # filename = str(random.randint(1000, 9999))
     # 底部文件按钮路径
-    file_path = '//android.widget.TextView[@text="文件"]'
+    file_path = '//android.widget.TextView[@text="文档"]'
     # 点击新建文件夹按钮
     add_folder_button = '//android.widget.TextView[@text="新建文件夹"]'
     # 输入内容文本框
@@ -102,7 +102,15 @@ class FileView(Common):
         self.add_file1(filename, tab=2)
         # 新增文件夹的路径
         new_folder = '//android.widget.TextView[@text="%s"]' % filename
-        self.find_path(new_folder).click()
+        try:
+            self.find_path(new_folder).click()
+        except NoSuchElementException:
+            self.swipe_up()
+            try:
+                self.find_path(new_folder).click()
+            except NoSuchElementException:
+                self.swipe_up()
+                self.find_path(new_folder).click()
         for i in range(3):
             time.sleep(0.5)
             # 点击右上角三横按钮
@@ -130,9 +138,14 @@ class FileView(Common):
                 time.sleep(1)
                 folder = '//android.widget.TextView'
                 folder = self.find_paths(folder)
-                self.slide(folder[3])
-                # 确认删除按钮路径
-                delete_path = '//android.widget.TextView[@text="删除"]'
+                try:
+                    self.slide(folder[3])
+                    # 确认删除按钮路径
+                    delete_path = '//android.widget.TextView[@text="删除"]'
+                except NoSuchElementException:
+                    self.slide(folder[3])
+                    # 确认删除按钮路径
+                    delete_path = '//android.widget.TextView[@text="删除"]'
                 self.find_path(delete_path).click()
                 try:
                     self.wait_time(5)
@@ -154,10 +167,19 @@ class FileView(Common):
         self.find_path(self.add_folder_affirm).click()
         # 新建文件夹的元素地址
         new_add_folder = '//android.widget.TextView[@text="%s"]' % filename
-        new_add_folder = self.find_path(new_add_folder)
-        self.slide(new_add_folder)
-        # 点击移动按钮
-        self.find_path(self.move_path).click()
+        try:
+            new_add_folder = self.find_path(new_add_folder)
+        except NoSuchElementException:
+            self.swipe_up()
+            new_add_folder = self.find_path(new_add_folder)
+        try:
+            self.slide(new_add_folder)
+            # 点击移动按钮
+            self.find_path(self.move_path).click()
+        except NoSuchElementException:
+            self.slide(new_add_folder)
+            # 点击移动按钮
+            self.find_path(self.move_path).click()
         self.wait_time(5)
         # 点击我的文件文件件
         self.find_path(my_file_path).click()
@@ -184,28 +206,30 @@ class FileView(Common):
             while True:
                 # logging.info('开始循环删除回收站%s' % num)
                 # 第一个元素的路径
-                ele_path = '//android.widget.TextView'
-                ele_path = self.find_paths(ele_path)[2]
+                ele_path = self.find_paths('//android.widget.TextView')[3]
                 time.sleep(1)
-                self.slide(ele_path)
-                # 确认删除按钮路径
-                delete_path1 = '//android.widget.TextView[@text="确认删除"]'
-                self.find_path(delete_path1).click()
+                try:
+                    self.slide(ele_path)
+                    # 确认删除按钮路径
+                    delete_path1 = '//android.widget.TextView[@text="确认删除"]'
+                    self.find_path(delete_path1).click()
+                except NoSuchElementException:
+                    self.slide(ele_path)
+                    # 确认删除按钮路径
+                    delete_path1 = '//android.widget.TextView[@text="确认删除"]'
+                    self.find_path(delete_path1).click()
                 delete_path2 = '//android.widget.TextView[@text="删除"]'
                 self.find_path(delete_path2).click()
                 # 点击确认
                 # self.find_id('android:id/button1').click()
                 self.wait_time(5)
-        except IndexError:
-            logging.info('回收站清空完毕')
-
         except NoSuchElementException:
             logging.info('回收站清空完毕')
-        except InvalidArgumentException:
-            logging.info('回收站清空完毕')
-        except Exception:
-            logging.info('回收站清空完毕')
         finally:
+            self.find_path(self.abs_path('清空', 't')).click()
+            self.find_path(self.abs_path('取消', 't')).click()
+            self.find_path(self.abs_path('清空', 't')).click()
+            self.find_path(self.abs_path('确认', 't')).click()
             for i in range(10):
                 self.go_back()
                 if WebDriverWait(self.driver, 1).until(lambda x: x.find_element_by_xpath(
@@ -216,9 +240,15 @@ class FileView(Common):
         """删除文件主面板上的数据"""
         time.sleep(1)
         file_delete = self.find_paths('//android.widget.TextView')
-        self.slide1(file_delete[16])
-        # 确认删除按钮路径
-        delete_path = '//android.widget.TextView[@text="删除"]'
+        # 参数2表示该元素的x轴比较的大，为了滑动值除以2
+        try:
+            self.slide(file_delete[16], 2)
+            # 确认删除按钮路径
+            delete_path = '//android.widget.TextView[@text="删除"]'
+        except NoSuchElementException:
+            self.slide(file_delete[16], 2)
+            # 确认删除按钮路径
+            delete_path = '//android.widget.TextView[@text="删除"]'
         self.find_path(delete_path).click()
         self.wait_time(2)
         self.find_path(delete_path).click()
@@ -255,8 +285,12 @@ class FileView(Common):
     def datalist(self, datalist, new):
         for i in datalist:
             new_add_folder = self.find_path(new)
-            self.slide(new_add_folder)
-            self.find_path(self.rename_path).click()
+            try:
+                self.slide(new_add_folder)
+                self.find_path(self.rename_path).click()
+            except NoSuchElementException:
+                self.slide(new_add_folder)
+                self.find_path(self.rename_path).click()
             try:
                 self.find_path(self.send_content).clear()
                 self.find_path(self.send_content).send_keys(i)

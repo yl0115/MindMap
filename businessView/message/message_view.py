@@ -26,7 +26,7 @@ class Message(Common):
         self.find_path(self.abs_path('脑图号', 'e')).send_keys('99999999')
         self.driver.keyevent(66)
         self.forced_wait()
-        self.find_path('//android.widget.ImageView').click()
+        self.find_paths('//android.widget.ImageView')[1].click()
         self.find_path(self.abs_path('请输入验证消息', 'e')).send_keys('nihao')
         self.find_path(self.abs_path('发送', 't')).click()
         self.toast('请求发送成功', self.module)

@@ -92,7 +92,7 @@ class PersonalInformation(Common):
         # 昵称路径
         nickname_path = '//android.widget.TextView[@text="昵称"]'
         # 输入昵称框
-        nickname_send_path = '//android.widget.EditText[@text="请输入昵称"]'
+        nickname_send_path = '//android.widget.EditText'
         # 点击昵称
         self.find_path(nickname_path).click()
         # 输入昵称
@@ -100,8 +100,10 @@ class PersonalInformation(Common):
         # 点击完成按钮
         self.find_path(self.accomplish_path).click()
         if self.toast(toast_out, self.module):
+            logging.info('我走的true')
             return True
         else:
+            logging.info('我走的else')
             self.get_screen_shot(self.module)
             self.go_back()
             return False
@@ -117,16 +119,17 @@ class PersonalInformation(Common):
         修改脑图号
         :return:
         """
-        # 脑图号路径
-        mind_code_path = '//android.widget.TextView[@text="脑图号"]'
         # 脑图号输入框路径
-        mind_code_input_path = '//android.widget.EditText[@text="请输入脑图号"]'
+        mind_code_input_path = '//android.widget.EditText'
 
         # 点击脑图号
-        self.find_path(mind_code_path).click()
+        self.find_path(self.abs_path('脑图号', 't')).click()
         # 直接点击完成按钮
         self.find_path(self.accomplish_path).click
+        # 点击脑图号
+        self.find_path(self.abs_path('脑图号', 't')).click()
         # 输入脑图号
+        self.find_path(mind_code_input_path).clear()
         self.find_path(mind_code_input_path).send_keys(m_code)
         # 点击完成按钮
         self.find_path(self.accomplish_path).click()
@@ -152,7 +155,7 @@ class PersonalInformation(Common):
         # 个性标签路径
         label_path = '//android.widget.TextView[@text="个性标签"]'
         # 个性标签输入框路径
-        label_input_path = '//android.widget.EditText[@text="请输入文字"]'
+        label_input_path = '//android.widget.EditText'
 
         # 点击个性标签
         self.find_path(label_path).click()

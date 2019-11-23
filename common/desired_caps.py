@@ -22,12 +22,14 @@ def mind_desired():
         'platformName': data['platformName'],
         'deviceName': data['deviceName'],
         'platformVersion': data['platformVersion'],
-        'udid': data['udid'],
+        # 'udid': data['udid'],
         'app': app_path,
         'appPackage': data['appPackage'],
         'appActivity': data['appActivity'],
         'noReset': data['noReset'],
         'unicodeKeyboard': data['unicodeKeyboard'],
+        # 设置超时等待时间
+        # 'newCommandTimeout': "200000",
         'resetKeyboard': data['resetKeyboard'],
         'automationName': data['automationName']
     }

@@ -3,10 +3,10 @@ import time
 import os
 import csv
 import logging
-
+from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
 from selenium.webdriver.support.wait import WebDriverWait
-
+from common.desired_caps import mind_desired
 from baseView.base_View import BaseView
 import pandas as pd
 
@@ -193,29 +193,20 @@ class Common(BaseView):
         if tag == 'e':
             return '//android.widget.EditText[contains(@text,"%s")]' % content
 
-    def slide(self, ele):
+    def slide(self, ele, tag=1):
         """左滑显示按钮功能"""
         # 获取当前元素坐标
         coord = ele.location
-        # x1 = coord['x'] // 100
-        # y1 = coord['y']
         # TouchAction(self.driver).long_press(ele,duration=None).move_to(x=x1, y=y1).release().perform()
-        x1 = coord['x']
-        x2 = coord['x']+800
-        y1 = coord['y']+50
-        self.swipe(x2,y1,x1,y1,500)
-
-    def slide1(self, ele):
-        """左滑显示按钮功能"""
-        # 获取当前元素坐标
-        coord = ele.location
-        # x1 = coord['x'] // 100
-        # y1 = coord['y']
-        # TouchAction(self.driver).long_press(ele,duration=None).move_to(x=x1, y=y1).release().perform()
-        x1 = coord['x']//4
-        x2 = coord['x']
+        w = self.driver.get_window_size()['width']-1
+        if tag == 1:
+            x1 = coord['x']
+        else:
+            x1 = coord['x']//3
         y1 = coord['y']
-        self.swipe(x2,y1,x1,y1,500)
+        # logging.info(x1)
+        # logging.info(y1)
+        self.swipe(w,y1,x1,y1,1000)
 
     def is_not_exist(self, ele):
         """
@@ -226,5 +217,8 @@ class Common(BaseView):
         WebDriverWait(self.driver, 1).until(lambda x: x.find_element_by_xpath('//android.widget.TextView[@text="%s"]' % ele))
 
     def get_permission(self):
-        self.find_id('com.android.packageinstaller:id/permission_allow_button').click()
+        try:
+            self.find_id('com.android.packageinstaller:id/permission_allow_button').click()
+        except NoSuchElementException:
+            pass
 

@@ -17,7 +17,7 @@ class MyView(Common):
     # 点击我的设置
     setup = r'//android.widget.TextView[@text="我的设置"]'
     # 修改手机号码
-    update_login_tel = r'//android.widget.TextView[@text="修改登录手机"]'
+    update_login_tel = r'//android.widget.TextView[@text="手机设置"]'
     # 原手机号码
     old_tel_path = r'//android.widget.EditText'
     # 新手机号码
@@ -27,7 +27,7 @@ class MyView(Common):
     # 点击确认修改按钮
     confirm_update = r'//android.widget.TextView[@text="确认修改"]'
     # 修改登录密码
-    update_login_pwd = r'//android.widget.TextView[@text="修改登录密码"]'
+    update_login_pwd = r'//android.widget.TextView[@text="密码设置"]'
     # 选择框地址
     circle_path = '//android.widget.TextView[@text="已阅读并同意"]'
     # 保存按钮路径
@@ -120,12 +120,14 @@ class MyView(Common):
             self.wait_time(5)
             self.find_path('//android.widget.TextView[@text="退出登录"]').click()
             self.find_path('//android.widget.TextView[@text="确认"]').click()
+            os.system('adb -s FJH7N18925002809 shell ime set com.baidu.input_huawei/.ImeService')
             # 判断是否返回登录界面
             # 获取登录界面登录按钮元素
             login_button = r"//android.widget.TextView[@text='立即登录']"
             if self.find_path(login_button):
                 return True
             else:
+                os.system('adb shell ime set com.baidu.input_huawei/.ImeService')
                 self.get_screen_shot(self.module)
                 return False
         except NoSuchElementException as e:
