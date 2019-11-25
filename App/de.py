@@ -121,3 +121,26 @@ def qq():
         print(11)
 
 qq()
+
+# from selenium import webdriver
+# import time
+#
+# driver = webdriver.Chrome()
+# driver.get('http://192.168.3.12/zentao/my-bug.html')
+# driver.find_element_by_id('account').send_keys('yanglei')
+# driver.find_element_by_xpath('//*[@id="loginPanel"]/div/div[2]/form/table/tbody/tr[2]/td/input').send_keys('yanglei1992')
+# driver.find_element_by_id('submit').click()
+# time.sleep(1)
+# driver.find_element_by_xpath('//*[@id="subNavbar"]/ul/li[2]/a').click()
+# driver.find_element_by_xpath('//*[@id="bugList"]/tbody/tr[1]/td[5]/a').click()
+# time.sleep(1)
+# driver.find_element_by_xpath('//*[@id="mainContent"]/div[1]/div[3]/div/a[3]/span').click()
+# time.sleep(5)
+# driver.find_element_by_xpath('/html/body/main/div/div/div/form/table/tbody/tr[6]/td/button').click()
+# driver.find_element_by_xpath('//*[@id="mainContent"]/div[1]/div[3]/div/a[3]/span').click()
+# driver.find_element_by_xpath('//*[@id="resolution_chosen"]/a').send_keys('已解决')
+# driver.find_element_by_xpath('//*[@id="resolvedBuild_chosen"]/a/span').send_keys('V1.0')
+# driver.find_element_by_id('submit').click()
+# driver.find_element_by_xpath('//*[@id="mainContent"]/div[1]/div[3]/div/a[3]/span').click()
+# driver.find_element_by_id('submit').click()
+# driver.find_element_by_xpath('//*[@id="mainMenu"]/div[1]/a').click()
