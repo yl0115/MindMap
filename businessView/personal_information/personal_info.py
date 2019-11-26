@@ -100,7 +100,6 @@ class PersonalInformation(Common):
         # 点击完成按钮
         self.find_path(self.accomplish_path).click()
         if self.toast(toast_out, self.module):
-            logging.info('我走的true')
             return True
         else:
             logging.info('我走的else')
@@ -125,7 +124,7 @@ class PersonalInformation(Common):
         # 点击脑图号
         self.find_path(self.abs_path('脑图号', 't')).click()
         # 直接点击完成按钮
-        self.find_path(self.accomplish_path).click
+        self.find_path(self.abs_path('完成', 't')).click()
         # 点击脑图号
         self.find_path(self.abs_path('脑图号', 't')).click()
         # 输入脑图号
@@ -143,8 +142,8 @@ class PersonalInformation(Common):
     def mind_codefor(self, sheet, code_path):
         d_list, output_list = self.get_excel(sheet, code_path)
         for i in range(len(d_list)):
-            lable = self.mind_code(d_list[i], output_list[i])
-            if not lable:
+            context = self.mind_code(d_list[i], output_list[i])
+            if not context:
                 break
 
     def label(self, labels, toast_out):

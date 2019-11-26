@@ -79,21 +79,9 @@ class Mind(Common):
     #     about_us = r'//android.widget.TextView[@text="关于我们"]'
     #     self.driver.find_element_by_xpath(about_us).click()
 
-    def login_out(self):
-        # 退出登录
-        login_out = r'//android.widget.TextView[@text="退出登录"]'
-        self.driver.find_element_by_xpath(login_out).click()
-        # 获取当前截图
-        self.get_screen_shot(self.module)
-        msg = '提交成功'
-        message = '//*[@text=\'{}\']'.format(msg)
-        toast_element = WebDriverWait(self.driver, 5).until(lambda x: x.find_element_by_xpath(message))
-        logging.info(toast_element.text)
 
 
 if __name__ == '__main__':
     driver1 = mind_desired()
     md = Mind(driver1)
     md.test_lg('', '', msg='111')
-    md.login_out()
-

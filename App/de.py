@@ -110,37 +110,43 @@ import random
 # b = a()
 # print(b[1])
 # print(type(b[1]))
-import yaml
-
-def qq():
-    with open(r'../config/desired_caps.yaml', 'r', encoding='utf-8') as f:
-        data = yaml.load(f, Loader=yaml.FullLoader)
-    if data['noReset']:
-        print(data['noReset'])
-    else:
-        print(11)
-
-qq()
-
-# from selenium import webdriver
-# import time
+# import yaml
 #
-# driver = webdriver.Chrome()
-# driver.get('http://192.168.3.12/zentao/my-bug.html')
-# driver.find_element_by_id('account').send_keys('yanglei')
-# driver.find_element_by_xpath('//*[@id="loginPanel"]/div/div[2]/form/table/tbody/tr[2]/td/input').send_keys('yanglei1992')
-# driver.find_element_by_id('submit').click()
-# time.sleep(1)
-# driver.find_element_by_xpath('//*[@id="subNavbar"]/ul/li[2]/a').click()
-# driver.find_element_by_xpath('//*[@id="bugList"]/tbody/tr[1]/td[5]/a').click()
-# time.sleep(1)
-# driver.find_element_by_xpath('//*[@id="mainContent"]/div[1]/div[3]/div/a[3]/span').click()
-# time.sleep(5)
-# driver.find_element_by_xpath('/html/body/main/div/div/div/form/table/tbody/tr[6]/td/button').click()
-# driver.find_element_by_xpath('//*[@id="mainContent"]/div[1]/div[3]/div/a[3]/span').click()
-# driver.find_element_by_xpath('//*[@id="resolution_chosen"]/a').send_keys('已解决')
-# driver.find_element_by_xpath('//*[@id="resolvedBuild_chosen"]/a/span').send_keys('V1.0')
-# driver.find_element_by_id('submit').click()
-# driver.find_element_by_xpath('//*[@id="mainContent"]/div[1]/div[3]/div/a[3]/span').click()
-# driver.find_element_by_id('submit').click()
-# driver.find_element_by_xpath('//*[@id="mainMenu"]/div[1]/a').click()
+# def qq():
+#     with open(r'../config/desired_caps.yaml', 'r', encoding='utf-8') as f:
+#         data = yaml.load(f, Loader=yaml.FullLoader)
+#     if data['noReset']:
+#         print(data['noReset'])
+#     else:
+#         print(11)
+#
+# qq()
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
+
+driver = webdriver.Chrome()
+driver.get('http://192.168.3.12/zentao/my-bug.html')
+driver.maximize_window()
+driver.find_element_by_id('account').send_keys('yanglei')
+driver.find_element_by_xpath('//*[@id="loginPanel"]/div/div[2]/form/table/tbody/tr[2]/td/input').send_keys('yanglei1992')
+driver.find_element_by_id('submit').click()
+time.sleep(1)
+driver.find_element_by_xpath('//*[@id="subNavbar"]/ul/li[2]/a').click()
+driver.find_element_by_xpath('//*[@id="bugList"]/tbody/tr[1]/td[5]/a').click()
+time.sleep(1)
+driver.find_element_by_xpath('//*[@id="mainContent"]/div[1]/div[3]/div/a[3]/span').click()
+time.sleep(10)
+# 检查该元素是否存在（检查5秒类元素是否存在每隔0.5秒检查一次）
+element = WebDriverWait(driver, 15, 0.5).until(EC.presence_of_element_located((By.XPATH, '//*[@id="submit"]')))
+
+driver.find_element_by_xpath('//*[@id="mainContent"]/div[1]/div[3]/div/a[3]/span').click()
+driver.find_element_by_xpath('//*[@id="resolution_chosen"]/a').send_keys('已解决')
+driver.find_element_by_xpath('//*[@id="resolvedBuild_chosen"]/a/span').send_keys('V1.0')
+driver.find_element_by_id('submit').click()
+driver.find_element_by_xpath('//*[@id="mainContent"]/div[1]/div[3]/div/a[3]/span').click()
+driver.find_element_by_id('submit').click()
+driver.find_element_by_xpath('//*[@id="mainMenu"]/div[1]/a').click()
