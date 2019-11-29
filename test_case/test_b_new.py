@@ -10,6 +10,8 @@ class TestAddMind(StartEnd):
         am = AddMind(self.driver)
         # am.mind_map()
         am.framework()
+        am.framework_second()
+        am.framework_function()
         # am.flow_chart()
         logging.info('新建自动化测试结束')
 

@@ -242,14 +242,15 @@ class FileView(Common):
         file_delete = self.find_paths('//android.widget.TextView')
         # 参数2表示该元素的x轴比较的大，为了滑动值除以2
         try:
-            self.slide(file_delete[16], 2)
+            self.slide(file_delete[14], 2)
             # 确认删除按钮路径
             delete_path = '//android.widget.TextView[@text="删除"]'
+            self.find_path(delete_path).click()
         except NoSuchElementException:
-            self.slide(file_delete[16], 2)
+            self.slide(file_delete[14], 2)
             # 确认删除按钮路径
             delete_path = '//android.widget.TextView[@text="删除"]'
-        self.find_path(delete_path).click()
+            self.find_path(delete_path).click()
         self.wait_time(2)
         self.find_path(delete_path).click()
         # 点击确认

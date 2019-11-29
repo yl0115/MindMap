@@ -6,7 +6,7 @@ class Home_Page(Common):
 
     def left_delete(self):
         self.find_path(self.abs_path('首页', 't')).click()
-        text = self.find_path(self.class_path('新建文件', 't'))
+        text = self.find_path(self.class_path('.b', 't'))
         self.slide(text)
         self.find_path(self.abs_path('删除', 't')).click()
 

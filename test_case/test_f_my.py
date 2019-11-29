@@ -24,7 +24,7 @@ class MyTest(StartEnd):
 
         except AssertionError:
             logging.info('测试失败！')
-
+    @unittest.skip
     def test_12nickname(self):
         pi = PersonalInformation(self.driver)
         try:
@@ -33,7 +33,7 @@ class MyTest(StartEnd):
         except AssertionError:
             logging.info('测试失败')
 
-
+    @unittest.skip
     def test_13mind_code(self):
         pi = PersonalInformation(self.driver)
         try:

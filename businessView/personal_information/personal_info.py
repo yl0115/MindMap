@@ -15,6 +15,7 @@ class PersonalInformation(Common):
     accomplish_path = '//android.widget.TextView[@text="完成"]'
     # 个人信息界面判定条件
     information_path = '//android.widget.TextView[@text="个人信息"]'
+    tag = True
 
     def transition(self):
         """
@@ -123,10 +124,6 @@ class PersonalInformation(Common):
 
         # 点击脑图号
         self.find_path(self.abs_path('脑图号', 't')).click()
-        # 直接点击完成按钮
-        self.find_path(self.abs_path('完成', 't')).click()
-        # 点击脑图号
-        self.find_path(self.abs_path('脑图号', 't')).click()
         # 输入脑图号
         self.find_path(mind_code_input_path).clear()
         self.find_path(mind_code_input_path).send_keys(m_code)
@@ -178,8 +175,9 @@ class PersonalInformation(Common):
         # 获取excel文字
         d_list, output_list = self.get_excel(sheet, lable_path)
         for i in range(len(d_list)):
-            self.label(d_list[i], output_list[i])
+            self.tag = self.label(d_list[i], output_list[i])
         self.go_back()
+        return self.tag
 
 
 if __name__ == '__main__':

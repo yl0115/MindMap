@@ -22,7 +22,6 @@ class Message(Common):
         # 点击加号按钮
         add_jia = self.find_paths(image_view_path)
         add_jia[1].click()
-        self.find_path(self.abs_path('添加好友', 't')).click()
         self.find_path(self.abs_path('脑图号', 'e')).send_keys('99999999')
         self.driver.keyevent(66)
         self.forced_wait()
